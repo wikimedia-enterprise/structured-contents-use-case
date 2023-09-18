@@ -45,13 +45,18 @@ const theme: GlobalTheme = {
 }
 
 .wme-app-container .n-layout-scroll-container {
-  display: flex;
+  display: flex !important;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .wme-app-logo {
-  margin-top: 200px;
+  margin-top: 40px;
   margin-bottom: 40px;
+}
+
+.wme-app-knowledge-panel {
+  margin-top: 15px;
 }
 </style>
