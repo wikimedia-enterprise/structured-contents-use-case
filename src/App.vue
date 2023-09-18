@@ -51,7 +51,7 @@ const theme: GlobalTheme = {
 }
 
 .wme-app-logo {
-  margin-top: 300px;
+  margin-top: 200px;
   margin-bottom: 40px;
 }
 </style>
