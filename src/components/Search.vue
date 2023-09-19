@@ -1,18 +1,53 @@
 <script setup lang="ts">
 import { NAutoComplete, NButton, NForm, NIcon } from 'naive-ui'
 import { Search16Filled } from '@vicons/fluent'
+import { ref } from 'vue'
+import { WMF } from './../lib/wmf'
+
+const props = defineProps({
+  onSelect: {
+    type: Function,
+    default: (_: string) => {}
+  }
+})
+const wmfAPI = new WMF()
+const options = ref(new Array<string>())
+const loading = ref(false)
+const inputValue = ref('')
+
+async function onSubmit(event: Event) {
+  event.preventDefault()
+  props.onSelect(inputValue.value)
+}
+
+function getShow () {
+  if (inputValue.value.length > 0) {
+    loading.value = true
+
+    wmfAPI.getSuggestions(inputValue.value).then((suggestions) => {
+      options.value = suggestions[1]
+      loading.value = false
+    })
+  }
+  
+  return true
+}
 </script>
 
 <template>
   <div class="wme-app-search">
-    <n-form class="wme-app-search-form">
+    <n-form class="wme-app-search-form" :on-submit="onSubmit">
       <n-auto-complete
         placeholder="Start typing to search..."
         class="wme-app-search-input"
+        :options="options"
+        :loading="loading"
+        :get-show="getShow"
+        v-model:value="inputValue"
       >
-      <template #prefix>
-        <n-icon :size="16" :component="Search16Filled" />
-      </template>
+        <template #prefix>
+          <n-icon :size="16" :component="Search16Filled" />
+        </template>
       </n-auto-complete>
       <n-button class="wme-app-search-button" attr-type="submit">Search</n-button>
     </n-form>

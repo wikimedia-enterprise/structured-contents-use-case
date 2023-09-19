@@ -16,6 +16,10 @@ const theme: GlobalTheme = {
     primaryColorHover: primaryColor,
   }
 }
+
+function onSearchSelect(value: string) {
+  console.log(value)
+}
 </script>
 
 <template>
@@ -28,7 +32,7 @@ const theme: GlobalTheme = {
           :src="logoImage"
           class="wme-app-logo"
         />
-        <search/>
+        <search :on-select="onSearchSelect"/>
         <knowledge-panel/>
         <auth/>
       </n-layout-content>
