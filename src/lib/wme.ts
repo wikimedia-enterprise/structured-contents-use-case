@@ -31,14 +31,22 @@ export class WME implements IWME {
   constructor(private url: string = 'https://api.enterprise.wikimedia.com/v2') {}
 
   async getStructuredContents(name: string): Promise<StructuredContent[]> {
+    const accessToken = localStorage.getItem('access_token')
     const res = await fetch(`${this.url}/structured-contents/${name}`, {
       method: 'POST',
       body: JSON.stringify({
-        limit: 1
+        limit: 1,
+        fields: [
+          'name',
+          'url',
+          'image',
+          'infobox',
+          'abstract'
+        ]
       }),
       headers: {
         'Content-Type': 'application/json',
-        Authorization: `Bearer ${localStorage.getItem('access_token')}}`
+        Authorization: `Bearer ${accessToken}`
       }
     })
 

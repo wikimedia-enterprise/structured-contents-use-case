@@ -68,7 +68,9 @@ const abstract = computed(() => {
 }
 
 .wme-app-knowledge-panel-image {
-  max-height: 250px;
+  width: 100%;
+  min-height: 250px;
+  max-height: 350px;
 }
 
 .wme-app-knowledge-panel-image img {
