@@ -5,7 +5,10 @@ import KnowledgePanel from './components/KnowledgePanel.vue'
 import Auth from './components/Auth.vue'
 import { darkTheme } from 'naive-ui'
 import logoImage from './assets/logo.png'
+import { type StructuredContent, WME } from './lib/wme'
+import { ref } from 'vue'
 
+const structuredContent = ref(null as null | StructuredContent)
 const primaryColor = '#4263eb'
 const theme: GlobalTheme = {
   ...darkTheme,
@@ -16,9 +19,13 @@ const theme: GlobalTheme = {
     primaryColorHover: primaryColor,
   }
 }
+const wme = new WME()
+async function onSearchSelect(value: string) {
+  const structuredContents = await wme.getStructuredContents(value)
 
-function onSearchSelect(value: string) {
-  console.log(value)
+  if (structuredContents.length > 0) {
+    structuredContent.value = structuredContents[0]
+  }
 }
 </script>
 
@@ -33,7 +40,7 @@ function onSearchSelect(value: string) {
           class="wme-app-logo"
         />
         <search :on-select="onSearchSelect"/>
-        <knowledge-panel/>
+        <knowledge-panel :structured-content="structuredContent"/>
         <auth/>
       </n-layout-content>
     </n-layout>

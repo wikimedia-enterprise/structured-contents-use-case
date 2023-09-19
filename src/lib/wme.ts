@@ -1,32 +1,47 @@
-interface Image {
+export interface Image {
   content_url: string
 }
 
-interface InfoBox {
+export interface InfoBox {
   name: string
   type: string
+  has_parts?: Part[]
 }
 
-interface Part {
+export interface Part {
   type: string
   name?: string
   value?: string
   has_parts?: Part[]
 }
 
-interface StructuredContent {
-  name: string
-  url: string
+export interface StructuredContent {
+  name?: string
+  url?: string
   image?: Image
-  infobox?: InfoBox
+  infobox?: InfoBox[]
+  abstract?: string
 }
 
-interface IWME {
+export interface IWME {
   getStructuredContents(name: string): Promise<StructuredContent[]>
 }
 
-class WME implements IWME {
+export class WME implements IWME {
+  constructor(private url: string = 'https://api.enterprise.wikimedia.com/v2') {}
+
   async getStructuredContents(name: string): Promise<StructuredContent[]> {
-    return []
+    const res = await fetch(`${this.url}/structured-contents/${name}`, {
+      method: 'POST',
+      body: JSON.stringify({
+        limit: 1
+      }),
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${localStorage.getItem('access_token')}}`
+      }
+    })
+
+    return res.json()
   }
 }
