@@ -11,8 +11,7 @@ const props = defineProps({
   }
 })
 const facts = computed(() => {
-  if (!props.structuredContent) return []
-  if (!props.structuredContent.infobox) return []
+  if (!props.structuredContent?.infobox) return []
 
   const infoBox = props.structuredContent.infobox[0]
 
@@ -26,11 +25,10 @@ const facts = computed(() => {
 })
 const abstractSize = 395
 const abstract = computed(() => {
-  if (!props.structuredContent) return ''
-  if (!props.structuredContent.abstract) return ''
+  if (!props.structuredContent?.abstract) return ''
 
-  return props.structuredContent.abstract.length > abstractSize ? 
-    props.structuredContent.abstract.slice(0, abstractSize - 1) + "…" : props.structuredContent.abstract
+  return props?.structuredContent?.abstract?.length > abstractSize ? 
+    `${props?.structuredContent?.abstract?.slice(0, abstractSize - 1)}...` : props?.structuredContent?.abstract
 })
 </script>
 
@@ -41,7 +39,7 @@ const abstract = computed(() => {
         <n-image :src="props.structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
-      <p v-for="fact in facts" class="wme-app-knowledge-panel-fact">
+      <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
         <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
         <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
       </p>

@@ -36,13 +36,7 @@ export class WME implements IWME {
       method: 'POST',
       body: JSON.stringify({
         limit: 1,
-        fields: [
-          'name',
-          'url',
-          'image',
-          'infobox',
-          'abstract'
-        ]
+        fields: ['name', 'url', 'image', 'infobox', 'abstract']
       }),
       headers: {
         'Content-Type': 'application/json',

@@ -7,7 +7,7 @@ import { WMF } from './../lib/wmf'
 const props = defineProps({
   onSelect: {
     type: Function,
-    default: (_: string) => {}
+    default: () => {}
   }
 })
 const wmfAPI = new WMF()

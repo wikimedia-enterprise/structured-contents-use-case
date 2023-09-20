@@ -1,15 +1,14 @@
 <script setup lang="ts">
+import { ref } from 'vue'
 import { NLayout, NLayoutContent, NConfigProvider, NImage, NMessageProvider, NSpin, type GlobalTheme } from 'naive-ui'
-import Search  from './components/Search.vue'
+import { type StructuredContent, WME } from './lib/wme'
+import AuthModal from './components/AuthModal.vue'
+import SearchPanel  from './components/SearchPanel.vue'
 import KnowledgePanel from './components/KnowledgePanel.vue'
-import Auth from './components/Auth.vue'
 import { darkTheme } from 'naive-ui'
 import logoImage from './assets/logo.png'
-import { type StructuredContent, WME } from './lib/wme'
-import { ref } from 'vue'
 
 const loading = ref(false)
-const isAuthenticated = ref(!!localStorage.getItem('access_token'))
 const structuredContent = ref(null as null | StructuredContent)
 const primaryColor = '#4263eb'
 const theme: GlobalTheme = {
@@ -25,10 +24,14 @@ const wme = new WME()
 async function onSearchSelect(value: string) {
   loading.value = true
 
-  const structuredContents = await wme.getStructuredContents(value)
+  try {
+    const structuredContents = await wme.getStructuredContents(value)
 
-  if (structuredContents.length > 0) {
-    structuredContent.value = structuredContents[0]
+    if (structuredContents.length > 0) {
+      structuredContent.value = structuredContents[0]
+    }
+  } catch (err: any) {
+    console.error(err)
   }
 
   loading.value = false
@@ -46,10 +49,12 @@ async function onSearchSelect(value: string) {
             :src="logoImage"
             class="wme-app-logo"
           />
-          <search :on-select="onSearchSelect"/>
+          <search-panel :on-select="onSearchSelect"/>
           <n-spin size="large" v-if="loading" class="wme-app-container-loader" />
           <knowledge-panel v-if="!loading" :structured-content="structuredContent"/>
-          <auth v-model:is-authenticated="isAuthenticated"/>
+          <suspense>
+            <auth-modal />
+          </suspense>
         </n-layout-content>
       </n-layout>
     </n-message-provider>

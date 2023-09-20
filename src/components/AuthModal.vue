@@ -1,17 +1,10 @@
 <script setup lang="ts">
 import { NModal, NSpace, NCard, NInput, NForm, NFormItem, NButton, type FormInst, useMessage } from 'naive-ui'
-import { defineProps, toRef, ref } from 'vue'
 import { Auth } from './../lib/auth'
+import { ref } from 'vue'
 
-const props = defineProps({
-  isAuthenticated: {
-    type: Boolean,
-    default: false
-  }
-})
+const isAuthenticated = ref(!!localStorage.getItem('access_token'))
 const loading = ref(false)
-const isAuthenticatedValue = toRef(props, "isAuthenticated");
-const emit = defineEmits(["update:isAuthenticated"]);
 const message = useMessage();
 const formRules = {
   username: {
@@ -23,11 +16,11 @@ const formRules = {
     required: true,
     message: "Password is required!",
   },
-};
+}
 const formModel = ref({
   username: "",
   password: "",
-});
+})
 const formRef = ref<null | FormInst>(null) ;
 const auth = new Auth()
 
@@ -43,26 +36,51 @@ async function onSubmit(event: Event) {
     }
     const res = await auth.login(req)
     localStorage.setItem('access_token', res.access_token)
-    emit("update:isAuthenticated", true)
+    localStorage.setItem('refresh_token', res.refresh_token)
+    localStorage.setItem('expires_in', res.expires_in.toString())
+    localStorage.setItem('auth_time', new Date().toISOString())
+    localStorage.setItem('username', req.username)
   } catch (err: any) {
     if (!Array.isArray(err)) {
-      message.error(err.toString());
+      message.error(err.toString())
     }
   }
 
   loading.value = false
+}
+
+const expiresIn = localStorage.getItem('expires_in')
+const authTime = localStorage.getItem('auth_time')
+
+if (expiresIn && authTime) {
+  const expiresInDate = new Date(authTime)
+  expiresInDate.setSeconds(expiresInDate.getSeconds() + parseInt(expiresIn))
+
+  if (new Date() >= expiresInDate) {
+    try {
+      const req = {
+        refresh_token: localStorage.getItem('refresh_token') || '',
+        username: localStorage.getItem('username') || ''
+      }
+      await auth.refreshToken(req)
+    } catch (err: any) { 
+      if (!Array.isArray(err)) {
+        message.error(err.toString());
+      }
+    }
+  }
 }
 </script>
 
 <template>
   <div class="wme-app-auth">
     <n-modal 
-      :show="!isAuthenticatedValue"
+      :show="!isAuthenticated"
       :close-on-esc="false" 
       :mask-closable="false"
     >
-    <n-card class="wme-app-auth-card">
-      <n-space vertical>
+      <n-card class="wme-app-auth-card">
+        <n-space vertical>
           <n-form
             ref="formRef"
             :rules="formRules"
