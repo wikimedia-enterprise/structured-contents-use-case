@@ -9,17 +9,17 @@ const message = useMessage();
 const formRules = {
   username: {
     required: true,
-    trigger: ["input", "blur"],
-    message: "Username is required!",
+    trigger: ['input', 'blur'],
+    message: 'Username is required!',
   },
   password: {
     required: true,
-    message: "Password is required!",
+    message: 'Password is required!',
   },
 }
 const formModel = ref({
-  username: "",
-  password: "",
+  username: '',
+  password: '',
 })
 const formRef = ref<null | FormInst>(null) ;
 const auth = new Auth()
