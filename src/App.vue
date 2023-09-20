@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, provide } from 'vue'
 import { NLayout, NLayoutContent, NConfigProvider, NImage, NMessageProvider, NSpin, type GlobalTheme } from 'naive-ui'
 import { type StructuredContent, WME } from './lib/wme'
 import AuthModal from './components/AuthModal.vue'
@@ -7,6 +7,11 @@ import SearchPanel  from './components/SearchPanel.vue'
 import KnowledgePanel from './components/KnowledgePanel.vue'
 import { darkTheme } from 'naive-ui'
 import logoImage from './assets/logo.png'
+import { Auth } from './lib/auth'
+import { WMF } from './lib/wmf'
+
+provide('auth', new Auth())
+provide('wmf', new WMF())
 
 const loading = ref(false)
 const structuredContent = ref(null as null | StructuredContent)

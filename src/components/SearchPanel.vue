@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { NAutoComplete, NButton, NForm, NIcon } from 'naive-ui'
 import { Search16Filled } from '@vicons/fluent'
-import { ref } from 'vue'
-import { WMF } from './../lib/wmf'
+import { ref, inject } from 'vue'
+import type { WMF } from '@/lib/wmf';
 
 const props = defineProps({
   onSelect: {
@@ -10,7 +10,7 @@ const props = defineProps({
     default: () => {}
   }
 })
-const wmfAPI = new WMF()
+const wmf = inject('wmf') as WMF
 const options = ref(new Array<string>())
 const loading = ref(false)
 const inputValue = ref('')
@@ -24,7 +24,7 @@ function getShow () {
   if (inputValue.value.length > 0) {
     loading.value = true
 
-    wmfAPI.getSuggestions(inputValue.value).then((suggestions) => {
+    wmf.getSuggestions(inputValue.value).then((suggestions) => {
       options.value = suggestions[1]
       loading.value = false
     })

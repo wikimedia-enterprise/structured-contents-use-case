@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { NModal, NSpace, NCard, NInput, NForm, NFormItem, NButton, type FormInst, useMessage } from 'naive-ui'
-import { Auth } from './../lib/auth'
-import { ref } from 'vue'
+import { Auth } from '@/lib/auth'
+import { ref, inject } from 'vue'
 
 const isAuthenticated = ref(!!localStorage.getItem('access_token'))
 const loading = ref(false)
@@ -22,7 +22,7 @@ const formModel = ref({
   password: '',
 })
 const formRef = ref<null | FormInst>(null) ;
-const auth = new Auth()
+const auth = inject('auth') as Auth
 
 async function onSubmit(event: Event) {
   event.preventDefault()
