@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { NModal, NSpace, NCard, NInput, NForm, NFormItem, NButton, type FormInst, useMessage } from 'naive-ui'
-import { Auth } from '@/lib/auth'
+import { type IAuth } from '@/lib/auth'
 import { ref, inject } from 'vue'
 
 const isAuthenticated = ref(!!localStorage.getItem('access_token'))
@@ -22,8 +22,7 @@ const formModel = ref({
   password: '',
 })
 const formRef = ref<null | FormInst>(null) ;
-const auth = inject('auth') as Auth
-
+const auth = inject('auth') as IAuth
 async function onSubmit(event: Event) {
   event.preventDefault()
   loading.value = true
@@ -40,6 +39,7 @@ async function onSubmit(event: Event) {
     localStorage.setItem('expires_in', res.expires_in.toString())
     localStorage.setItem('auth_time', new Date().toISOString())
     localStorage.setItem('username', req.username)
+    isAuthenticated.value = true
   } catch (err: any) {
     if (!Array.isArray(err)) {
       message.error(err.toString())
@@ -48,7 +48,6 @@ async function onSubmit(event: Event) {
 
   loading.value = false
 }
-
 const expiresIn = localStorage.getItem('expires_in')
 const authTime = localStorage.getItem('auth_time')
 
@@ -62,7 +61,10 @@ if (expiresIn && authTime) {
         refresh_token: localStorage.getItem('refresh_token') || '',
         username: localStorage.getItem('username') || ''
       }
-      await auth.refreshToken(req)
+      const res = await auth.refreshToken(req)
+      localStorage.setItem('access_token', res.access_token)
+      localStorage.setItem('expires_in', res.expires_in.toString())
+      localStorage.setItem('auth_time', new Date().toISOString())
     } catch (err: any) { 
       if (!Array.isArray(err)) {
         message.error(err.toString());

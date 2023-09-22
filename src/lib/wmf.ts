@@ -3,9 +3,7 @@ export interface IWMF {
 }
 
 export class WMF implements IWMF {
-  private url: string
-
-  constructor(url: string = 'https://en.wikipedia.org/w/api.php') {
+  constructor(private url: string = 'https://en.wikipedia.org/w/api.php') {
     this.url = url
   }
 

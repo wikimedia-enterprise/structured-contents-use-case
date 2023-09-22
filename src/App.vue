@@ -1,50 +1,34 @@
 <script setup lang="ts">
 import { ref, provide } from 'vue'
-import { NLayout, NLayoutContent, NConfigProvider, NImage, NMessageProvider, NSpin, type GlobalTheme } from 'naive-ui'
-import { type StructuredContent, WME } from './lib/wme'
-import AuthModal from './components/AuthModal.vue'
-import SearchPanel  from './components/SearchPanel.vue'
-import KnowledgePanel from './components/KnowledgePanel.vue'
+import { NLayout, NLayoutContent, NConfigProvider, NImage, NMessageProvider } from 'naive-ui'
+import AuthModal from '@/components/AuthModal.vue'
+import SearchPanel  from '@/components/SearchPanel.vue'
+import KnowledgePanel from '@/components/KnowledgePanel.vue'
 import { darkTheme } from 'naive-ui'
-import logoImage from './assets/logo.png'
-import { Auth } from './lib/auth'
-import { WMF } from './lib/wmf'
+import logoImage from '@/assets/logo.png'
+import { Auth, type IAuth } from '@/lib/auth'
+import { WMF, type IWMF } from '@/lib/wmf'
+import { WME, type IWME } from '@/lib/wme'
 
-provide('auth', new Auth())
-provide('wmf', new WMF())
+provide('auth', new Auth() as IAuth)
+provide('wmf', new WMF() as IWMF)
+provide('wme', new WME() as IWME)
 
-const loading = ref(false)
-const structuredContent = ref(null as null | StructuredContent)
+const name = ref('')
 const primaryColor = '#4263eb'
-const theme: GlobalTheme = {
-  ...darkTheme,
+const themeOverrides = {
   common: {
-    ...darkTheme.common,
-    fontSize: '18px',
-    primaryColor: primaryColor,
+    primaryColor,
     primaryColorHover: primaryColor,
   }
 }
-const wme = new WME()
 async function onSearchSelect(value: string) {
-  loading.value = true
-
-  try {
-    const structuredContents = await wme.getStructuredContents(value)
-
-    if (structuredContents.length > 0) {
-      structuredContent.value = structuredContents[0]
-    }
-  } catch (err: any) {
-    console.error(err)
-  }
-
-  loading.value = false
+  name.value = value
 }
 </script>
 
 <template>
-  <n-config-provider :theme="theme">
+  <n-config-provider :theme="darkTheme" :theme-overrides="themeOverrides">
     <n-message-provider>
       <n-layout class="wme-app-container">
         <n-layout-content>
@@ -55,8 +39,7 @@ async function onSearchSelect(value: string) {
             class="wme-app-logo"
           />
           <search-panel :on-select="onSearchSelect"/>
-          <n-spin size="large" v-if="loading" class="wme-app-container-loader" />
-          <knowledge-panel v-if="!loading" :structured-content="structuredContent"/>
+          <knowledge-panel :name="name"/>
           <suspense>
             <auth-modal />
           </suspense>
@@ -88,9 +71,5 @@ async function onSearchSelect(value: string) {
 
 .wme-app-knowledge-panel {
   margin-top: 15px;
-}
-
-.wme-app-container-loader {
-  margin-top: 50px;
 }
 </style>

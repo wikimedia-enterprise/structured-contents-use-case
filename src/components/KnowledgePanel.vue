@@ -1,19 +1,37 @@
 <script setup lang="ts">
-import { NCard, NImage, NTag, NIcon } from 'naive-ui'
+import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
-import { computed, defineProps } from 'vue'
-import { type StructuredContent } from './../lib/wme'
+import { watch, ref, inject, computed, defineProps } from 'vue'
+import { type StructuredContent, type IWME } from '@/lib/wme'
 
 const props = defineProps({
-  structuredContent: {
-    type: Object as () => StructuredContent | null,
-    default: null
+  name: {
+    type: String,
+    default: ''
   }
 })
-const facts = computed(() => {
-  if (!props.structuredContent?.infobox) return []
+const loading = ref(false)
+const structuredContent = ref(null as null | StructuredContent)
+const wme = inject('wme') as IWME
+watch(() => props.name, async (value) => {
+  loading.value = true
 
-  const infoBox = props.structuredContent.infobox[0]
+  try {
+    const structuredContents = await wme.getStructuredContents(value)
+
+    if (structuredContents.length > 0) {
+      structuredContent.value = structuredContents[0]
+    }
+  } catch (err: any) {
+    console.error(err)
+  }
+
+  loading.value = false
+})
+const facts = computed(() => {
+  if (!structuredContent.value?.infobox) return []
+
+  const infoBox = structuredContent.value.infobox[0]
 
   if (!infoBox.has_parts) return []
 
@@ -25,18 +43,21 @@ const facts = computed(() => {
 })
 const abstractSize = 395
 const abstract = computed(() => {
-  if (!props.structuredContent?.abstract) return ''
+  if (!structuredContent.value?.abstract) return ''
 
-  return props?.structuredContent?.abstract?.length > abstractSize ? 
-    `${props?.structuredContent?.abstract?.slice(0, abstractSize - 1)}...` : props?.structuredContent?.abstract
+  return structuredContent.value?.abstract?.length > abstractSize ? 
+    `${structuredContent.value?.abstract?.slice(0, abstractSize - 1)}...` : structuredContent.value?.abstract
 })
 </script>
 
 <template>
-  <div class="wme-app-knowledge-panel" v-if="props.structuredContent">
-    <n-card :title="props.structuredContent.name">
-      <template v-if="props.structuredContent.image" #cover>
-        <n-image :src="props.structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
+  <div class="wme-app-knowledge-panel">
+    <div v-if="loading" class="wme-app-knowledge-panel-spinner">
+      <n-spin size="large"/>
+    </div>
+    <n-card :title="structuredContent.name" v-if="structuredContent && !loading">
+      <template v-if="structuredContent.image" #cover>
+        <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
       <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
@@ -45,7 +66,7 @@ const abstract = computed(() => {
       </p>
       <template #footer>
         <n-tag round>
-          <a :href="props.structuredContent.url" target="_blank">Wikipedia</a>
+          <a :href="structuredContent.url" target="_blank">Wikipedia</a>
           <template #icon>
             <n-icon :component="Link48Regular" />
           </template>
@@ -83,5 +104,12 @@ const abstract = computed(() => {
 .wme-app-knowledge-panel .n-card__footer a:visited, .wme-app-knowledge-panel .n-card__footer a {
   color: white !important;
   text-decoration: none;
+}
+
+.wme-app-knowledge-panel-spinner {
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>

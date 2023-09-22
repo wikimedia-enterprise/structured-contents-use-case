@@ -2,7 +2,7 @@
 import { NAutoComplete, NButton, NForm, NIcon } from 'naive-ui'
 import { Search16Filled } from '@vicons/fluent'
 import { ref, inject } from 'vue'
-import type { WMF } from '@/lib/wmf';
+import { type IWMF } from '@/lib/wmf'
 
 const props = defineProps({
   onSelect: {
@@ -10,16 +10,14 @@ const props = defineProps({
     default: () => {}
   }
 })
-const wmf = inject('wmf') as WMF
+const wmf = inject('wmf') as IWMF
 const options = ref(new Array<string>())
 const loading = ref(false)
 const inputValue = ref('')
-
 async function onSubmit(event: Event) {
   event.preventDefault()
   props.onSelect(inputValue.value)
 }
-
 function getShow () {
   if (inputValue.value.length > 0) {
     loading.value = true
