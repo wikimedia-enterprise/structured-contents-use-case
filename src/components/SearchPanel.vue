@@ -4,19 +4,20 @@ import { Search16Filled } from '@vicons/fluent'
 import { ref, inject } from 'vue'
 import { type IWMF } from '@/libraries/wmf'
 
-const props = defineProps({
-  onSelect: {
-    type: Function,
-    default: () => {}
+defineProps({
+  name: {
+    type: String,
+    default: ''
   }
 })
+const emit = defineEmits(['update:name'])
 const wmf = inject('wmf') as IWMF
 const options = ref(new Array<string>())
 const loading = ref(false)
 const inputValue = ref('')
 async function onSubmit(event: Event) {
   event.preventDefault()
-  props.onSelect(inputValue.value)
+  emit('update:name', inputValue.value)
 }
 function getShow () {
   if (inputValue.value.length > 0) {

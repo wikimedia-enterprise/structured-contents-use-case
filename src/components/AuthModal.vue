@@ -5,23 +5,23 @@ import { ref, inject } from 'vue'
 
 const isAuthenticated = ref(!!localStorage.getItem('access_token'))
 const loading = ref(false)
-const message = useMessage();
+const message = useMessage()
 const formRules = {
   username: {
     required: true,
     trigger: ['input', 'blur'],
-    message: 'Username is required!',
+    message: 'Username is required!'
   },
   password: {
     required: true,
-    message: 'Password is required!',
+    message: 'Password is required!'
   },
 }
 const formModel = ref({
   username: '',
-  password: '',
+  password: ''
 })
-const formRef = ref<null | FormInst>(null) ;
+const formRef = ref<null | FormInst>(null)
 const auth = inject('auth') as IAuth
 async function onSubmit(event: Event) {
   event.preventDefault()
@@ -67,7 +67,7 @@ if (expiresIn && authTime) {
       localStorage.setItem('auth_time', new Date().toISOString())
     } catch (err: any) { 
       if (!Array.isArray(err)) {
-        message.error(err.toString());
+        message.error(err.toString())
       }
     }
   }

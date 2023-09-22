@@ -24,14 +24,20 @@ export interface StructuredContent {
 }
 
 export interface IWME {
+  setAccessToken(accessToken: string): void
   getStructuredContents(name: string): Promise<StructuredContent[]>
 }
 
 export class WME implements IWME {
+  private accessToken: string = ''
+
   constructor(private url: string = 'https://api.enterprise.wikimedia.com/v2') {}
 
+  setAccessToken(accessToken: string): void {
+    this.accessToken = accessToken
+  }
+
   async getStructuredContents(name: string): Promise<StructuredContent[]> {
-    const accessToken = localStorage.getItem('access_token')
     const res = await fetch(`${this.url}/structured-contents/${name}`, {
       method: 'POST',
       body: JSON.stringify({
@@ -40,7 +46,7 @@ export class WME implements IWME {
       }),
       headers: {
         'Content-Type': 'application/json',
-        Authorization: `Bearer ${accessToken}`
+        Authorization: `Bearer ${this.accessToken}`
       }
     })
 

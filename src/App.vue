@@ -22,9 +22,6 @@ const themeOverrides = {
     primaryColorHover: primaryColor
   }
 }
-async function onSearchSelect(value: string) {
-  name.value = value
-}
 </script>
 
 <template>
@@ -38,7 +35,7 @@ async function onSearchSelect(value: string) {
             :src="logoImage"
             class="wme-app-logo"
           />
-          <search-panel :on-select="onSearchSelect"/>
+          <search-panel v-model:name="name"/>
           <knowledge-panel :name="name"/>
           <suspense>
             <auth-modal />
