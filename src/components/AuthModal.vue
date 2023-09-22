@@ -69,6 +69,11 @@ if (expiresIn && authTime) {
       if (!Array.isArray(err)) {
         message.error(err.toString())
       }
+      localStorage.removeItem('access_token')
+      localStorage.removeItem('refresh_token')
+      localStorage.removeItem('expires_in')
+      localStorage.removeItem('auth_time')
+      localStorage.removeItem('username')
     }
   }
 }
