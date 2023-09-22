@@ -3,9 +3,7 @@ export interface IWMF {
 }
 
 export class WMF implements IWMF {
-  constructor(private url: string = 'https://en.wikipedia.org/w/api.php') {
-    this.url = url
-  }
+  constructor(private _url: string = 'https://en.wikipedia.org/w/api.php') {}
 
   async getSuggestions(query: string): Promise<any[]> {
     const body = new URLSearchParams()
@@ -16,7 +14,7 @@ export class WMF implements IWMF {
     body.append('format', 'json')
     body.append('formatversion', '2')
     body.append('origin', '*')
-    const res = await fetch(this.url, {
+    const res = await fetch(this._url, {
       method: 'POST',
       body,
       redirect: 'follow'

@@ -1,7 +1,7 @@
 import { beforeAll, afterAll, describe, expect, test } from 'vitest'
 import { rest } from 'msw'
 import { setupServer } from 'msw/node'
-import { WME } from '../wme'
+import { WME } from '@/libraries/wme'
 
 const url = 'http://test.com/v1'
 const accessToken = '...access token...'
