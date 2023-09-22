@@ -85,6 +85,12 @@ const abstract = computed(() => {
   margin-bottom: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+  .wme-app-knowledge-panel {
+    width: 340px;
+  }
+}
+
 .wme-app-knowledge-panel-fact-name {
   margin-right: 5px;
 }

@@ -54,13 +54,20 @@ function getShow () {
 </template>
 
 <style>
-.wme-app-search-form {
+.wme-app-search-form, .wme-app-search {
   display: flex;
+  width: 475px;
   align-items: center;
 }
 
+@media only screen and (max-width: 600px) {
+  .wme-app-search-form, .wme-app-search {
+    width: 340px;
+  }
+}
+
 .wme-app-search-input {
-  width: 400px;
+  width: 100%;
 }
 
 .wme-app-search-button {
