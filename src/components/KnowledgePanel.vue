@@ -15,7 +15,7 @@ const structuredContent = ref(null as null | StructuredContent)
 const wme = inject('wme') as IWME
 watch(() => props.name, async (value) => {
   loading.value = true
-  wme.setAccessToken(localStorage.getItem('access_token') || '')
+  wme.accessToken = localStorage.getItem('access_token') || ''
 
   try {
     const structuredContents = await wme.getStructuredContents(value)
