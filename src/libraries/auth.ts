@@ -25,10 +25,10 @@ export interface IAuth {
 }
 
 export class Auth implements IAuth {
-  constructor(private url: string = 'https://auth.enterprise.wikimedia.com/v1') {}
+  constructor(private _url: string = 'https://auth.enterprise.wikimedia.com/v1') {}
 
   async login(req: LoginRequest): Promise<LoginResponse> {
-    const res = await fetch(`${this.url}/login`, {
+    const res = await fetch(`${this._url}/login`, {
       method: 'POST',
       body: JSON.stringify(req),
       headers: {
@@ -46,7 +46,7 @@ export class Auth implements IAuth {
   }
 
   async refreshToken(req: RefreshTokenRequest): Promise<RefreshTokenResponse> {
-    const res = await fetch(`${this.url}/token-refresh`, {
+    const res = await fetch(`${this._url}/token-refresh`, {
       method: 'POST',
       body: JSON.stringify(req),
       headers: {
