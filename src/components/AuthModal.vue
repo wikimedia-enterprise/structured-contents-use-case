@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { NModal, NSpace, NCard, NInput, NForm, NFormItem, NButton, type FormInst, useMessage } from 'naive-ui'
-import { type IAuth } from '@/lib/auth'
+import { type IAuth } from '@/libraries/auth'
 import { ref, inject } from 'vue'
 
 const isAuthenticated = ref(!!localStorage.getItem('access_token'))

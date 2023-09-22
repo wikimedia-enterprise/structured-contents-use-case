@@ -2,7 +2,7 @@
 import { NAutoComplete, NButton, NForm, NIcon } from 'naive-ui'
 import { Search16Filled } from '@vicons/fluent'
 import { ref, inject } from 'vue'
-import { type IWMF } from '@/lib/wmf'
+import { type IWMF } from '@/libraries/wmf'
 
 const props = defineProps({
   onSelect: {

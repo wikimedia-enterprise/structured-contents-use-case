@@ -6,9 +6,9 @@ import SearchPanel  from '@/components/SearchPanel.vue'
 import KnowledgePanel from '@/components/KnowledgePanel.vue'
 import { darkTheme } from 'naive-ui'
 import logoImage from '@/assets/logo.png'
-import { Auth, type IAuth } from '@/lib/auth'
-import { WMF, type IWMF } from '@/lib/wmf'
-import { WME, type IWME } from '@/lib/wme'
+import { Auth, type IAuth } from '@/libraries/auth'
+import { WMF, type IWMF } from '@/libraries/wmf'
+import { WME, type IWME } from '@/libraries/wme'
 
 provide('auth', new Auth() as IAuth)
 provide('wmf', new WMF() as IWMF)
@@ -19,7 +19,7 @@ const primaryColor = '#4263eb'
 const themeOverrides = {
   common: {
     primaryColor,
-    primaryColorHover: primaryColor,
+    primaryColorHover: primaryColor
   }
 }
 async function onSearchSelect(value: string) {

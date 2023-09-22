@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
-import { watch, ref, inject, computed, defineProps } from 'vue'
-import { type StructuredContent, type IWME } from '@/lib/wme'
+import { watch, ref, inject, computed } from 'vue'
+import { type StructuredContent, type IWME } from '@/libraries/wme'
 
 const props = defineProps({
   name: {
@@ -21,6 +21,8 @@ watch(() => props.name, async (value) => {
 
     if (structuredContents.length > 0) {
       structuredContent.value = structuredContents[0]
+    } else {
+      structuredContent.value = null
     }
   } catch (err: any) {
     console.error(err)
