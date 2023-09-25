@@ -95,14 +95,14 @@ if (expiresIn && authTime) {
             @submit="onSubmit"
           >
             <n-form-item label="Username:" path="username">
-              <n-input 
+              <n-input
                 placeholder="Your username or email"
                 v-model:value="formModel.username"
                 v-model:disabled="loading"
               />
             </n-form-item>
             <n-form-item label="Password:" path="password">
-              <n-input 
+              <n-input
                 placeholder="Your password"
                 type="password"
                 v-model:disabled="loading"
