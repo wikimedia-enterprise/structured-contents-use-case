@@ -3,19 +3,13 @@ import { defineComponent, provide } from 'vue'
 import { flushPromises, mount } from '@vue/test-utils'
 import { NMessageProvider } from 'naive-ui'
 import AuthModal from '@/components/AuthModal.vue'
-import type {
-  IAuth,
-  LoginRequest,
-  LoginResponse,
-  RefreshTokenRequest,
-  RefreshTokenResponse
-} from '@/libraries/auth'
+import type { IAuth, LoginResponse, RefreshTokenResponse } from '@/libraries/auth'
 
 class AuthMock implements IAuth {
-  async login(_: LoginRequest): Promise<LoginResponse> {
+  async login(): Promise<LoginResponse> {
     return new Promise(() => {})
   }
-  async refreshToken(_: RefreshTokenRequest): Promise<RefreshTokenResponse> {
+  async refreshToken(): Promise<RefreshTokenResponse> {
     return new Promise(() => {})
   }
 }
