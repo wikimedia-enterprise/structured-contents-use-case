@@ -50,3 +50,53 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+## Deploying the app
+
+1. Checkout github pages branch:
+
+```sh
+git checkout --orphan gh-pages Docs
+```
+
+2. Build the application:
+
+```sh
+npm run build
+```
+
+3. Add result of the build to the work tree:
+
+```sh
+git --work-tree dist add --all
+```
+
+4. Create a deployment commit:
+
+```sh
+git --work-tree dist commit -m 'Deploy'
+```
+
+5. Push the changes to remote branch `gh-pages`:
+
+```sh
+git push origin HEAD:gh-pages --force
+```
+
+6. Clean up the `dist` folder:
+
+```sh
+rm -r dist
+```
+
+7. Return to the `main` branch:
+
+```sh
+git checkout -f main
+```
+
+8. Remove local version of `gh-pages` brach:
+
+```sh
+git branch -D gh-pages
+```
