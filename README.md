@@ -56,7 +56,7 @@ npm run lint
 1. Checkout github pages branch:
 
 ```sh
-git checkout --orphan gh-pages Docs
+git checkout --orphan gh-pages
 ```
 
 2. Build the application:
