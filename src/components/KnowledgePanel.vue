@@ -62,6 +62,7 @@ const abstract = computed(() => {
       <template v-if="structuredContent.image" #cover>
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
+      <b><i>{{ structuredContent.description }}</i></b>
       <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
       <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
         <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>

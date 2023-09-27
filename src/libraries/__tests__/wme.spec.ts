@@ -16,7 +16,8 @@ const structuredContents = [
       width: 903,
       height: 1675
     },
-    abstract: '...abstract...'
+    abstract: '...abstract...',
+    description: '...description...'
   }
 ]
 const structuredContentsHandler = rest.post(
@@ -25,7 +26,7 @@ const structuredContentsHandler = rest.post(
     expect(req.headers.get('Authorization')).toEqual(`Bearer ${accessToken}`)
     expect(await req.json()).toEqual({
       limit: 1,
-      fields: ['name', 'url', 'image', 'infobox', 'abstract']
+      fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract']
     })
     return res(ctx.status(200), ctx.json(structuredContents))
   }

@@ -13,7 +13,8 @@ const structuredContent = {
     content_url:
       'https://upload.wikimedia.org/wikipedia/commons/7/72/Hokusai-sketches---hokusai-manga-vol6-crop.jpg'
   },
-  abstract: '...abstract...'
+  abstract: '...abstract...',
+  description: '...description...'
 }
 class WMEMock implements IWME {
   private _accessToken: string = ''
@@ -61,5 +62,6 @@ describe('knowledge panel smoke testing', async () => {
     expect(html).toContain(structuredContent.url)
     expect(html).toContain(structuredContent.image.content_url)
     expect(html).toContain(structuredContent.abstract)
+    expect(html).toContain(structuredContent.description)
   })
 })
