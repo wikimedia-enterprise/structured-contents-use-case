@@ -1,47 +1,72 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import { ref, provide } from 'vue'
+import { NLayout, NLayoutContent, NConfigProvider, NImage, NMessageProvider } from 'naive-ui'
+import AuthModal from '@/components/AuthModal.vue'
+import SearchPanel  from '@/components/SearchPanel.vue'
+import KnowledgePanel from '@/components/KnowledgePanel.vue'
+import { darkTheme } from 'naive-ui'
+import logoImage from '@/assets/logo.png'
+import { Auth, type IAuth } from '@/libraries/auth'
+import { WMF, type IWMF } from '@/libraries/wmf'
+import { WME, type IWME } from '@/libraries/wme'
+
+provide('auth', new Auth() as IAuth)
+provide('wmf', new WMF() as IWMF)
+provide('wme', new WME() as IWME)
+
+const name = ref('')
+const primaryColor = '#4263eb'
+const themeOverrides = {
+  common: {
+    primaryColor,
+    primaryColorHover: primaryColor
+  }
+}
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <n-config-provider :theme="darkTheme" :theme-overrides="themeOverrides">
+    <n-message-provider>
+      <n-layout class="wme-app-container">
+        <n-layout-content>
+          <n-image
+            preview-disabled
+            :height="69"
+            :src="logoImage"
+            class="wme-app-logo"
+          />
+          <search-panel v-model:name="name"/>
+          <knowledge-panel :name="name"/>
+          <suspense>
+            <auth-modal />
+          </suspense>
+        </n-layout-content>
+      </n-layout>
+    </n-message-provider>
+  </n-config-provider>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
+<style>
+.wme-app-container {
+  min-height: 100vh !important;
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
+.wme-app-container .n-layout-scroll-container {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
 }
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+.wme-app-logo {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+.wme-app-knowledge-panel {
+  margin-top: 15px;
 }
 </style>
