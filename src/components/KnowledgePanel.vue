@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
+import { NCard, NImage, NTag, NIcon, NSpin, NGrid, NGi } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
@@ -78,6 +78,20 @@ const abstract = computed(() => {
         <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
         <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
       </p>
+      <p v-if="thing && thing.albums"><b><i>Albums</i></b></p>
+      <n-grid :cols="3" v-if="thing && thing.albums" :x-gap="10" :y-gap="10">
+        <n-gi v-for="album in thing.albums" :key="album.name">
+          <n-card :bordered="false" class="wpe-app-knowledge-panel-album-card">
+            <template #header>
+              <a :href="album?.url" target="_blank">{{ album.name }}</a>
+            </template>
+            <template v-if="album.image" #cover>
+              <n-image :preview-disabled="true" :src="album.image?.content_url" object-fit="cover" />
+            </template>
+            {{ album?.album_release?.date_published }}
+          </n-card>
+        </n-gi>
+      </n-grid>
       <template #footer>
         <n-tag round>
           <a :href="structuredContent.url" target="_blank">Wikipedia</a>
@@ -131,5 +145,26 @@ const abstract = computed(() => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.wpe-app-knowledge-panel-album-card .n-card-header {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.wpe-app-knowledge-panel-album-card .n-card__content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.wpe-app-knowledge-panel-album-card .n-image {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.wpe-app-knowledge-panel-album-card a:visited, .wpe-app-knowledge-panel-album-card a {
+  color: white !important;
 }
 </style>

@@ -1,5 +1,29 @@
 {
   "name": "Adele",
+  "awards": [
+    "Member of the Order of the British Empire",
+    "Grammy Award for Best New Artist",
+    "Academy Award for Best Original Song",
+    "Grammy Award for Best Pop Solo Performance",
+    "Grammy Award for Record of the Year",
+    "Golden Globe Award for Best Original Song",
+    "Grammy Award for Album of the Year",
+    "Brit Award for British Female Solo Artist",
+    "Grammy Award for Best Female Pop Vocal Performance",
+    "Grammy Award for Album of the Year",
+    "Grammy Award for Best Pop Vocal Album",
+    "Grammy Award for Best Music Video",
+    "Grammy Award for Song of the Year",
+    "Grammy Award for Best Pop Solo Performance",
+    "Grammy Award for Best Song Written for Visual Media",
+    "Grammy Award for Best Pop Vocal Album",
+    "Grammy Award for Record of the Year",
+    "Grammy Award for Song of the Year",
+    "Grammy Award for Best Pop Solo Performance",
+    "Premios Odeón",
+    "Time 100",
+    "Diamond Play Button"
+  ],
   "has_occupation": [
     {
       "name": "Singer"

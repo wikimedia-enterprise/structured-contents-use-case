@@ -13,7 +13,7 @@ export interface MusicRelease {
 
 export interface MusicAlbum {
   name: string
-  url: string
+  url?: string
   image?: Image
   album_release?: MusicRelease
   tracks?: MusicRecording[]
@@ -29,6 +29,7 @@ export interface Thing {
   has_occupation?: Occupation[]
   albums?: MusicAlbum[]
   image?: Image
+  awards?: string[]
 }
 
 export interface ISOCK {
