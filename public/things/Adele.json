@@ -1,0 +1,190 @@
+{
+  "name": "Adele",
+  "has_occupation": [
+    {
+      "name": "Singer"
+    },
+    {
+      "name": "Songwriter"
+    }
+  ],
+  "genres": ["pop music", "blue-eyed soul", "rhythm and blues", "soul music", "jazz", "rock music"],
+  "albums": [
+    {
+      "name": "19",
+      "url": "https://en.wikipedia.org/wiki/19_(Adele_album)",
+      "image": {
+        "content_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Adele_19.webp",
+        "width": 770,
+        "height": 770
+      },
+      "album_release": {
+        "date_published": "28 January 2008"
+      },
+      "tracks": [
+        {
+          "name": "Daydreamer",
+          "duration": "3:41"
+        },
+        {
+          "name": "Best for Last",
+          "duration": "4:19"
+        },
+        {
+          "name": "Chasing Pavements",
+          "url": "https://en.wikipedia.org/wiki/Chasing_Pavements",
+          "duration": "3:31",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Adele_-_Chasing_Pavements.png/220px-Adele_-_Chasing_Pavements.png",
+            "width": 220,
+            "height": 220
+          }
+        },
+        {
+          "name": "Cold Shoulder",
+          "duration": "3:12",
+          "url": "https://en.wikipedia.org/wiki/Cold_Shoulder_(Adele_song)",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Adele_-_Cold_Shoulder.png/220px-Adele_-_Cold_Shoulder.png",
+            "width": 220,
+            "height": 220
+          }
+        },
+        {
+          "name": "Crazy for You",
+          "duration": "3:28"
+        },
+        {
+          "name": "Melt My Heart to Stone",
+          "duration": "3:23"
+        },
+        {
+          "name": "First Love",
+          "duration": "3:10"
+        },
+        {
+          "name": "Right as Rain",
+          "duration": "3:17"
+        },
+        {
+          "name": "Make You Feel My Love",
+          "url": "https://en.wikipedia.org/wiki/Make_You_Feel_My_Love#Adele_version",
+          "duration": "3:32",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Adele_-_Hometown_Glory_%28Re-Release%29.jpg/220px-Adele_-_Hometown_Glory_%28Re-Release%29.jpg",
+            "width": 220,
+            "height": 220
+          }
+        },
+        {
+          "name": "My Same",
+          "duration": "3:16"
+        },
+        {
+          "name": "Tired",
+          "duration": "4:19"
+        },
+        {
+          "name": "Hometown Glory",
+          "duration": "4:31",
+          "url": "https://en.wikipedia.org/wiki/Hometown_Glory",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Adele_-_Make_You_Feel_My_Love.png/220px-Adele_-_Make_You_Feel_My_Love.png",
+            "width": 220,
+            "height": 220
+          }
+        }
+      ]
+    },
+    {
+      "name": 30,
+      "url": "https://en.wikipedia.org/wiki/30_(Adele_album)",
+      "image": {
+        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Adele_-_30.png/220px-Adele_-_30.png",
+        "height": 220,
+        "width": 220
+      },
+      "album_release": {
+        "date_published": "19 November 2021"
+      },
+      "tracks": [
+        {
+          "name": "Strangers by Nature",
+          "duration": "3:44"
+        },
+        {
+          "name": "Easy on Me",
+          "duration": "3:44",
+          "url": "https://en.wikipedia.org/wiki/Easy_on_Me",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Adele_-_Easy_on_Me.png/220px-Adele_-_Easy_on_Me.png",
+            "width": 220,
+            "height": 220
+          }
+        },
+        {
+          "name": "My Little Love",
+          "duration": "4:02"
+        },
+        {
+          "name": "Cry Your Heart Out",
+          "duration": "4:11"
+        },
+        {
+          "name": "Oh My God",
+          "duration": "4:09",
+          "url": "https://en.wikipedia.org/wiki/Oh_My_God_(Adele_song)"
+        },
+        {
+          "name": "Can I Get It",
+          "duration": "3:13",
+          "url": "https://en.wikipedia.org/wiki/Can_I_Get_It"
+        },
+        {
+          "name": "I Drink Wine",
+          "duration": "6:45",
+          "url": "https://en.wikipedia.org/wiki/I_Drink_Wine",
+          "image": {
+            "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Adele_-_I_Drink_Wine_%28Live_at_the_Brit_Awards_2022%29.png/220px-Adele_-_I_Drink_Wine_%28Live_at_the_Brit_Awards_2022%29.png",
+            "width": 220,
+            "height": 220
+          }
+        },
+        {
+          "name": "All Night Parking",
+          "duration": "3:54"
+        },
+        {
+          "name": "Woman like Me",
+          "duration": "3:48"
+        },
+        {
+          "name": "Hold On",
+          "duration": "4:16"
+        },
+        {
+          "name": "To Be Loved",
+          "duration": "3:29",
+          "url": "https://en.wikipedia.org/wiki/To_Be_Loved_(Adele_song)"
+        },
+        {
+          "name": "Love Is a Game",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "25",
+      "url": "https://en.wikipedia.org/wiki/25_(Adele_album)",
+      "image": {
+        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Adele_-_25_%28Official_Album_Cover%29.png/220px-Adele_-_25_%28Official_Album_Cover%29.png",
+        "height": 220,
+        "width": 220
+      },
+      "album_release": {
+        "date_published": "20 November 2015"
+      },
+      "tracks": []
+    }
+  ]
+}

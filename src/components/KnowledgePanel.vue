@@ -3,6 +3,7 @@ import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
+import { type Thing, type ISOCK } from '@/libraries/sock';
 
 const props = defineProps({
   name: {
@@ -12,7 +13,10 @@ const props = defineProps({
 })
 const loading = ref(false)
 const structuredContent = ref(null as null | StructuredContent)
+const thing = ref(null as null | Thing)
 const wme = inject('wme') as IWME
+const sock = inject('sock') as ISOCK
+
 watch(() => props.name, async (value) => {
   loading.value = true
   wme.accessToken = localStorage.getItem('access_token') || ''
@@ -25,6 +29,12 @@ watch(() => props.name, async (value) => {
     } else {
       structuredContent.value = null
     }
+  } catch (err: any) {
+    console.error(err)
+  }
+
+  try {
+    thing.value = await sock.getThing(value)
   } catch (err: any) {
     console.error(err)
   }

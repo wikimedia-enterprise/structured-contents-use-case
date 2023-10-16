@@ -9,10 +9,12 @@ import logoImage from '@/assets/logo.png'
 import { Auth, type IAuth } from '@/libraries/auth'
 import { WMF, type IWMF } from '@/libraries/wmf'
 import { WME, type IWME } from '@/libraries/wme'
+import { SOCK, type ISOCK} from '@/libraries/sock';
 
 provide('auth', new Auth() as IAuth)
 provide('wmf', new WMF() as IWMF)
 provide('wme', new WME() as IWME)
+provide('sock', new SOCK() as ISOCK)
 
 const name = ref('')
 const primaryColor = '#4263eb'
