@@ -8,11 +8,17 @@ export interface InfoBox {
   has_parts?: Part[]
 }
 
+export interface Link {
+  url: string
+  text: string
+}
+
 export interface Part {
   type: string
   name?: string
   value?: string
   has_parts?: Part[]
+  links?: Link[]
 }
 
 export interface StructuredContent {

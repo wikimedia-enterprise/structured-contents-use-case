@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { NCard, NImage, NTag, NIcon, NSpin, NGrid, NGi } from 'naive-ui'
-import { Link48Regular } from '@vicons/fluent'
+import { NCard, NButton, NImage, NTag, NIcon, NSpin, NGrid, NGi, NDivider, NTooltip } from 'naive-ui'
+import { Link48Regular, MusicNote2Play20Filled, ChevronDown12Regular, ChevronUp12Regular } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
 import { type Thing, type ISOCK } from '@/libraries/sock';
@@ -33,6 +33,8 @@ watch(() => props.name, async (value) => {
     console.error(err)
   }
 
+  thing.value = null
+
   try {
     thing.value = await sock.getThing(value)
   } catch (err: any) {
@@ -41,7 +43,7 @@ watch(() => props.name, async (value) => {
 
   loading.value = false
 })
-const facts = computed(() => {
+function getFacts() {
   if (!structuredContent.value?.infobox) return []
 
   const infoBox = structuredContent.value.infobox[0]
@@ -52,7 +54,10 @@ const facts = computed(() => {
 
   if (!sections) return []
 
-  return sections.filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
+  return sections
+}
+const facts = computed(() => {
+  return getFacts().filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
 })
 const abstractSize = 395
 const abstract = computed(() => {
@@ -60,6 +65,53 @@ const abstract = computed(() => {
 
   return structuredContent.value?.abstract?.length > abstractSize ? 
     `${structuredContent.value?.abstract?.slice(0, abstractSize - 1)}...` : structuredContent.value?.abstract
+})
+const [entityTypeDefault, entityTypeSinger] = [0, 1]
+const entityType = computed(() => {
+  const isSinger = !!thing.value?.has_occupation?.find((occupation) => occupation.name.toLowerCase().includes('singer'))
+
+  if (isSinger) {
+    return entityTypeSinger
+  }
+
+  return entityTypeDefault
+})
+const singerFacts = computed(() => {
+  const facts = getFacts()
+
+  return [
+    ...facts.filter(part => part.name?.toLowerCase().includes('born')),
+    ...facts.filter(part => part.name?.toLowerCase().includes('spouse')),
+    ...facts.filter(part => part.name?.toLowerCase().includes('partner'))
+  ]
+})
+const singerAwards = computed(() => {
+  const awards = getFacts().filter(part => part.name?.toLowerCase().includes('awards'))
+
+  if (awards.length == 0) return null
+
+  const award = awards[0]
+
+  if (!award.links) return null
+
+  return award.links[0]
+})
+const tracks = computed(() => {
+  if (!thing.value?.albums) return null
+
+  return thing.value.albums.map(album => album.tracks).flat()
+})
+const tracksCollapsed = ref(true)
+const tracksRowHeight = 96
+const tracksHeigh = computed(() => {
+  if (!tracks.value) return 0
+
+  if (tracksCollapsed.value) {
+    return tracks.value.length > 1 ? tracksRowHeight * 2 : tracksRowHeight
+  }
+
+  return Math.ceil(tracks.value.length) / 2 * tracksRowHeight
+
 })
 </script>
 
@@ -74,12 +126,56 @@ const abstract = computed(() => {
       </template>
       <b><i>{{ structuredContent.description }}</i></b>
       <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
-      <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
-        <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
-        <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
-      </p>
-      <p v-if="thing && thing.albums"><b><i>Albums</i></b></p>
-      <n-grid :cols="3" v-if="thing && thing.albums" :x-gap="10" :y-gap="10">
+      <div class="wme-app-knowledge-panel-facts-default" v-if="entityType == entityTypeDefault">
+        <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
+          <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
+          <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
+        </p>
+      </div>
+      <div class="wme-app-knowledge-panel-facts-default" v-if="entityType == entityTypeSinger">
+        <p v-for="fact in singerFacts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
+          <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
+          <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
+        </p>
+        <p v-if="singerAwards">
+          <i class="wme-app-knowledge-panel-fact-name">Awards:</i>
+          <b class="wme-app-knowledge-panel-fact-value"><a :href="singerAwards.url" target="_blank">{{ singerAwards.text }}</a></b>
+        </p>
+      </div>
+      <div v-if="tracks" class="wme-app-knowledge-panel-track-wrapper">
+        <h4><b><i>Songs</i></b></h4>
+        <div class="wme-app-knowledge-panel-track-slider" :style="{overflow: 'hidden', height: `${tracksHeigh}px`}">
+          <n-grid :cols="2" :x-gap="10">
+            <n-gi v-for="track in tracks" :key="track?.name">
+              <div class="wme-app-knowledge-panel-track">
+                <div class="wme-app-knowledge-panel-track-content">
+                  <n-image v-if="track?.image" class="wme-app-knowledge-panel-track-image" :width="80" :height="80" :preview-disabled="true" :src="track?.image?.content_url" object-fit="cover" />
+                  <div v-if="!track?.image" class="wme-app-knowledge-panel-track-song-image-placeholder" >
+                    <n-icon class="wme-app-knowledge-panel-track-song-icon" :component="MusicNote2Play20Filled" size="40" />
+                  </div>
+                  <div class="wme-app-knowledge-panel-track-description">
+                    <p>
+                      <n-tooltip>
+                        <template #trigger>
+                          {{ track?.name }}
+                        </template>
+                        {{ track?.name }}
+                      </n-tooltip>
+                    </p>
+                    <p>{{ track?.duration }}</p>
+                  </div>
+                </div>
+                <n-divider class="wme-app-knowledge-panel-track-divider"/>
+              </div>
+            </n-gi>
+          </n-grid>
+        </div>
+        <n-button v-if="tracks.length > 6" circle class="wpe-app-knowledge-panel-track-show-button" :on-click="() => tracksCollapsed = !tracksCollapsed">
+          <n-icon size="small" :component="tracksCollapsed ? ChevronDown12Regular : ChevronUp12Regular" />
+        </n-button>
+      </div>
+      <h4 v-if="thing?.albums"><b><i>Albums</i></b></h4>
+      <n-grid :cols="3" v-if="thing?.albums" :x-gap="10" :y-gap="10">
         <n-gi v-for="album in thing.albums" :key="album.name">
           <n-card :bordered="false" class="wpe-app-knowledge-panel-album-card">
             <template #header>
@@ -148,15 +244,11 @@ const abstract = computed(() => {
 }
 
 .wpe-app-knowledge-panel-album-card .n-card-header {
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 5px 0 5px 0;
 }
 
 .wpe-app-knowledge-panel-album-card .n-card__content {
-  padding-left: 0;
-  padding-right: 0;
+  padding: 0 0 0 0;
 }
 
 .wpe-app-knowledge-panel-album-card .n-image {
@@ -164,7 +256,71 @@ const abstract = computed(() => {
   overflow: hidden;
 }
 
-.wpe-app-knowledge-panel-album-card a:visited, .wpe-app-knowledge-panel-album-card a {
+.wme-app-knowledge-panel a:visited, .wme-app-knowledge-panel a {
   color: white !important;
+}
+
+.wme-app-knowledge-panel-track-slider {
+  transition: height 0.5s ease;
+}
+
+.wme-app-knowledge-panel-track-wrapper {
+  position: relative;
+}
+
+.wpe-app-knowledge-panel-track-show-button {
+  background-color: rgb(24, 24, 28) !important;
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.wme-app-knowledge-panel-track-divider.n-divider {
+  margin: 0;
+}
+
+.wme-app-knowledge-panel-awards-list {
+  margin-top: 0;
+}
+
+.wme-app-knowledge-panel-track-content {
+  display: flex;
+  padding-bottom: 5px;
+}
+
+.wme-app-knowledge-panel-track-image, .wme-app-knowledge-panel-track-song-image-placeholder {
+  margin-right: 10px;
+}
+
+.wme-app-knowledge-panel-track-description {
+  flex: 1 auto;
+}
+
+.wme-app-knowledge-panel-track p {
+  margin: 0 0 2px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 120px;
+}
+
+.wme-app-knowledge-panel-track {
+  height: 96px;
+}
+
+.wme-app-knowledge-panel-track-song-image-placeholder {
+  height: 80px;
+  width: 80px;
+  min-width: 80px;
+  position: relative;
+  background-color: rgb(36 36 41);
+}
+
+.wme-app-knowledge-panel-track-song-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 </style>
