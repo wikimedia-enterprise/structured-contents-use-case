@@ -39,7 +39,7 @@ export interface ISOCK {
 export class SOCK implements ISOCK {
   async getThing(name: string): Promise<Thing | null> {
     try {
-      const res = await fetch(`/things/_${name.replace(/\s/g, '_')}.json`)
+      const res = await fetch(`/things/${name.replace(/\s/g, '_')}.json`)
       return res.json()
     } catch (error) {
       console.warn(error)
