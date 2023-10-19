@@ -1,0 +1,2456 @@
+{
+    "name": "Jason_Derulo",
+    "has_occupation": [
+        {
+            "name": "dancer"
+        },
+        {
+            "name": "musician"
+        },
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "composer"
+        },
+        {
+            "name": "rapper"
+        },
+        {
+            "name": "vocalist"
+        },
+        {
+            "name": "singer"
+        },
+        {
+            "name": "actor"
+        },
+        {
+            "name": "songwriter"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "film actor"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "Teen Choice Awards"
+    ],
+    "genres": [
+        "pop music",
+        "rhythm and blues",
+        "contemporary R\u0026B",
+        "hip hop music"
+    ],
+    "albums": [
+        {
+            "name": "Jason Derulo",
+            "url": "https://en.wikipedia.org/wiki/Jason_Derulo_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Jason_Der%C3%BClo_Official_album_Cover.jpg/220px-Jason_Der%C3%BClo_Official_album_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "February 26, 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Sky's_the_Limit_(song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jason_Derulo_-_The_Sky%27s_The_Limit.jpg/220px-Jason_Derulo_-_The_Sky%27s_The_Limit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love Hangover",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Encore",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Fallen",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Blind",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derülo_song)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "What_If_(Jason_Derülo_song)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Queen of Hearts",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (French version featuring Fanny J)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (music video)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (music video)",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Future History",
+            "url": "https://en.wikipedia.org/wiki/Future_History_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Future_History_cover.jpg/220px-Future_History_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 16, 2011"
+            },
+            "tracks": [
+                {
+                    "name": "Be Careful",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Make It Up As We Go",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Fight_for_You_(Jason_Derulo_song)",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Jason_Derulo_-_Fight_For_You.jpg/220px-Jason_Derulo_-_Fight_For_You.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Givin' Up",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "That's My Shhh",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "X",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Dumb",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Girl_(Jason_Derulo_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/ItGirl.jpg/220px-ItGirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Breathing_(Jason_Derulo_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Jason-Derulo-Breathing.jpg/220px-Jason-Derulo-Breathing.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pick_Up_the_Pieces_(Jason_Derulo_song)",
+                    "duration": "3.34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jasonderulopickupthepieces.jpg/220px-Jasonderulopickupthepieces.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bleed Out",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Overdose",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Give It to Me",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (music video)",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (music video)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
+                    "duration": "7:54",
+                    "image": {}
+                },
+                {
+                    "name": "Bombs Away",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Electronic Press Kit",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (RAW Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Future History (Documentary)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (National Lottery)",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Future History (TV spots)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Pick Up the Pieces (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Pick Up the Pieces (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Girl (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Fedde Le Grand Journal performance)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What_If_(Jason_Derulo_song)",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Jason-derulo-what-if.jpg/220px-Jason-derulo-what-if.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pick Up the Pieces",
+                    "duration": "3.34",
+                    "image": {}
+                },
+                {
+                    "name": "Undefeated_(Jason_Derulo_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Undefeated-by-jason-derulo.jpg/220px-Undefeated-by-jason-derulo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What If (Mig \u0026 Rizzo Pop Mix)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "That's My Shhh",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "What_If_(Jason_Derulo_song)",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Jason-derulo-what-if.jpg/220px-Jason-derulo-what-if.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Girl (R.A.W. Club Mix)",
+                    "duration": "6:25",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (7th Heaven Club Mix)",
+                    "duration": "6:24",
+                    "image": {}
+                },
+                {
+                    "name": "X",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "5:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Girl",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Dumb",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (MYNC Edit)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
+                    "duration": "7:54",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "6:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Sky's_the_Limit_(song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jason_Derulo_-_The_Sky%27s_The_Limit.jpg/220px-Jason_Derulo_-_The_Sky%27s_The_Limit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bleed Out",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Make It Up as We Go",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Givin' Up",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Wawa Remix Radio)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Be Careful",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Tattoos",
+            "url": "https://en.wikipedia.org/wiki/Tattoos_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Jason_Derulo_Tattoos_Deluxe_Editon_2014.jpg/220px-Jason_Derulo_Tattoos_Deluxe_Editon_2014.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "49:04",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Pseudonym",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Stupid_Love_(Jason_Derulo_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Stupid_Love_-_%28Official_Single_Cover%29.jpg/220px-Stupid_Love_-_%28Official_Single_Cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "62:16",
+                    "image": {}
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "51:31",
+                    "image": {}
+                },
+                {
+                    "name": "Love Before I Die",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect Timing",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (acoustic)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "38:19",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Love Before I Die",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Bubblegum_(Jason_Derulo_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Jason_Derulo_Bubblegum.jpg/220px-Jason_Derulo_Bubblegum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rest of Our Life",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect Timing",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "With the Lights On",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Zipper",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (acoustic)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Pitbull_(rapper)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_6%2C_2012.jpg/220px-Pitbull_6%2C_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kid_Ink",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kid_Ink_in_Prague_2014.png/220px-Kid_Ink_in_Prague_2014.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "17:47",
+                    "image": {}
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Everything Is 4",
+            "url": "https://en.wikipedia.org/wiki/Everything_Is_4",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Jason_Derulo_-_Everything_Is_4.png/220px-Jason_Derulo_-_Everything_Is_4.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "May 29, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Hidden_track",
+                    "duration": "5:13",
+                    "image": {}
+                },
+                {
+                    "name": "38:44",
+                    "image": {}
+                },
+                {
+                    "name": "Get_Ugly",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Jasonderulogetugly.jpg/220px-Jasonderulogetugly.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pull-Up",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Meghan_Trainor",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Meghan_Trainor_signature%2C_Billboard_Open_Letter_2016.png/150px-Meghan_Trainor_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Try_Me_(Jason_Derulo_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/JasonDeruloTryMe.png/220px-JasonDeruloTryMe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love Me Down",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Julia_Michaels",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Julia_Michaels_Logo.png/250px-Julia_Michaels_Logo.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "Want_to_Want_Me",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Jason_Derulo_-_Want_to_Want_Me.png/220px-Jason_Derulo_-_Want_to_Want_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cheyenne_(Jason_Derulo_song)",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Jason_Derulo_Cheyenne.jpg/220px-Jason_Derulo_Cheyenne.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "K._Michelle",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/K._Michelle.png/220px-K._Michelle.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stevie_Wonder",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stevie_Wonder_Signature.svg/150px-Stevie_Wonder_Signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes releases that did not chart or were not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Talk Dirty",
+            "url": "https://en.wikipedia.org/wiki/Talk_Dirty_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Talk_Dirty_%28album%29_by_Jason_Derulo.png/220px-Talk_Dirty_%28album%29_by_Jason_Derulo.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "April 15, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Kid_Ink",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kid_Ink_in_Prague_2014.png/220px-Kid_Ink_in_Prague_2014.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stupid_Love_(Jason_Derulo_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Stupid_Love_-_%28Official_Single_Cover%29.jpg/220px-Stupid_Love_-_%28Official_Single_Cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "44:56",
+                    "image": {}
+                },
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "With the Lights On",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "37:54",
+                    "image": {}
+                },
+                {
+                    "name": "Pitbull_(rapper)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_6%2C_2012.jpg/220px-Pitbull_6%2C_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bubblegum_(Jason_Derulo_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Jason_Derulo_Bubblegum.jpg/220px-Jason_Derulo_Bubblegum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Zipper",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tyga",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tyga_-_Openair_Frauenfeld_2019_02.jpg/220px-Tyga_-_Openair_Frauenfeld_2019_02.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "16:25",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Reloaded",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Platinum Hits",
+            "url": "https://en.wikipedia.org/wiki/Platinum_Hits_(Jason_Derulo_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Platinum_Hits_-_Jason_Derulo_%28Official_cover%29.jpg/220px-Platinum_Hits_-_Jason_Derulo_%28Official_cover%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 29, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kiss the Sky (song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Jason_Derulo_-_Kiss_the_Sky.png/220px-Jason_Derulo_-_Kiss_the_Sky.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Want_to_Want_Me",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Jason_Derulo_-_Want_to_Want_Me.png/220px-Jason_Derulo_-_Want_to_Want_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Girl_(Jason_Derulo_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/ItGirl.jpg/220px-ItGirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "41:42",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes releases that did not chart or were not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Jason Derulo",
+            "url": "https://en.wikipedia.org/wiki/Jason_Derulo_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Jason_Der%C3%BClo_Official_album_Cover.jpg/220px-Jason_Der%C3%BClo_Official_album_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "February 26, 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derülo_song)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "The_Sky's_the_Limit_(song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jason_Derulo_-_The_Sky%27s_The_Limit.jpg/220px-Jason_Derulo_-_The_Sky%27s_The_Limit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What_If_(Jason_Derülo_song)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Encore",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Fallen",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Love Hangover",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Blind",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Queen of Hearts",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (French version featuring Fanny J)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (music video)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (music video)",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Strobelight",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Acoustic version)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "In My Head (Rhythm Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Future History",
+            "url": "https://en.wikipedia.org/wiki/Future_History_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Future_History_cover.jpg/220px-Future_History_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 16, 2011"
+            },
+            "tracks": [
+                {
+                    "name": "Dumb",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Breathing_(Jason_Derulo_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Jason-Derulo-Breathing.jpg/220px-Jason-Derulo-Breathing.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fight_for_You_(Jason_Derulo_song)",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Jason_Derulo_-_Fight_For_You.jpg/220px-Jason_Derulo_-_Fight_For_You.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Givin' Up",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "That's My Shhh",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "X",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "It_Girl_(Jason_Derulo_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/ItGirl.jpg/220px-ItGirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Be Careful",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Make It Up As We Go",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Pick_Up_the_Pieces_(Jason_Derulo_song)",
+                    "duration": "3.34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jasonderulopickupthepieces.jpg/220px-Jasonderulopickupthepieces.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bleed Out",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Overdose",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Give It to Me",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (music video)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (music video)",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "Bombs Away",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
+                    "duration": "7:54",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Pick Up the Pieces (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What_If_(Jason_Derulo_song)",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Jason-derulo-what-if.jpg/220px-Jason-derulo-what-if.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Future History (Documentary)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Future History (TV spots)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (National Lottery)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (RAW Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Electronic Press Kit",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl (Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Pick Up the Pieces (Instrumental)",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Wanna Go Home (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Fedde Le Grand Journal performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Girl (7th Heaven Club Mix)",
+                    "duration": "6:24",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "5:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Be Careful",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Whatcha Say (Wawa Remix Radio)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "It Girl",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Bleed Out",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "What_If_(Jason_Derulo_song)",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Jason-derulo-what-if.jpg/220px-Jason-derulo-what-if.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
+                    "duration": "7:54",
+                    "image": {}
+                },
+                {
+                    "name": "Givin' Up",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "X",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "6:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Sky's_the_Limit_(song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Jason_Derulo_-_The_Sky%27s_The_Limit.jpg/220px-Jason_Derulo_-_The_Sky%27s_The_Limit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pick Up the Pieces",
+                    "duration": "3.34",
+                    "image": {}
+                },
+                {
+                    "name": "Undefeated_(Jason_Derulo_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Undefeated-by-jason-derulo.jpg/220px-Undefeated-by-jason-derulo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Girl (R.A.W. Club Mix)",
+                    "duration": "6:25",
+                    "image": {}
+                },
+                {
+                    "name": "Make It Up as We Go",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "That's My Shhh",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Fight for You (MYNC Edit)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Dumb",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "What If (Mig \u0026 Rizzo Pop Mix)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Breathing",
+                    "duration": "3:54",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Tattoos",
+            "url": "https://en.wikipedia.org/wiki/Tattoos_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Jason_Derulo_Tattoos_Deluxe_Editon_2014.jpg/220px-Jason_Derulo_Tattoos_Deluxe_Editon_2014.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "38:19",
+                    "image": {}
+                },
+                {
+                    "name": "Zipper",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Pen name",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "With the Lights On",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (acoustic)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "62:16",
+                    "image": {}
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love Before I Die",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect Timing",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Perfect Timing",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Bubblegum_(Jason_Derulo_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Jason_Derulo_Bubblegum.jpg/220px-Jason_Derulo_Bubblegum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "51:31",
+                    "image": {}
+                },
+                {
+                    "name": "Love Before I Die",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Pitbull_(rapper)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_6%2C_2012.jpg/220px-Pitbull_6%2C_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stupid_Love_(Jason_Derulo_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Stupid_Love_-_%28Official_Single_Cover%29.jpg/220px-Stupid_Love_-_%28Official_Single_Cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "49:04",
+                    "image": {}
+                },
+                {
+                    "name": "Rest of Our Life",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (acoustic)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Kid_Ink",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kid_Ink_in_Prague_2014.png/220px-Kid_Ink_in_Prague_2014.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "17:47",
+                    "image": {}
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Everything Is 4",
+            "url": "https://en.wikipedia.org/wiki/Everything_Is_4",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Jason_Derulo_-_Everything_Is_4.png/220px-Jason_Derulo_-_Everything_Is_4.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "May 29, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Cheyenne_(Jason_Derulo_song)",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Jason_Derulo_Cheyenne.jpg/220px-Jason_Derulo_Cheyenne.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pull-Up",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Stevie_Wonder",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stevie_Wonder_Signature.svg/150px-Stevie_Wonder_Signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Love Me Down",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Julia_Michaels",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Julia_Michaels_Logo.png/250px-Julia_Michaels_Logo.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "38:44",
+                    "image": {}
+                },
+                {
+                    "name": "Want_to_Want_Me",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Jason_Derulo_-_Want_to_Want_Me.png/220px-Jason_Derulo_-_Want_to_Want_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Get_Ugly",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Jasonderulogetugly.jpg/220px-Jasonderulogetugly.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "K._Michelle",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/K._Michelle.png/220px-K._Michelle.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Meghan_Trainor",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Meghan_Trainor_signature%2C_Billboard_Open_Letter_2016.png/150px-Meghan_Trainor_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Try_Me_(Jason_Derulo_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/JasonDeruloTryMe.png/220px-JasonDeruloTryMe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hidden_track",
+                    "duration": "5:13",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes releases that did not chart or were not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Talk Dirty",
+            "url": "https://en.wikipedia.org/wiki/Talk_Dirty_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Talk_Dirty_%28album%29_by_Jason_Derulo.png/220px-Talk_Dirty_%28album%29_by_Jason_Derulo.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "April 15, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Jordin_Sparks",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jordin_Sparks_by_Gage_Skidmore.jpg/220px-Jordin_Sparks_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "With the Lights On",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Pitbull_(rapper)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Pitbull_6%2C_2012.jpg/220px-Pitbull_6%2C_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bubblegum_(Jason_Derulo_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Jason_Derulo_Bubblegum.jpg/220px-Jason_Derulo_Bubblegum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Zipper",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "37:54",
+                    "image": {}
+                },
+                {
+                    "name": "Tattoo",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stupid_Love_(Jason_Derulo_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Stupid_Love_-_%28Official_Single_Cover%29.jpg/220px-Stupid_Love_-_%28Official_Single_Cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "44:56",
+                    "image": {}
+                },
+                {
+                    "name": "Kid_Ink",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kid_Ink_in_Prague_2014.png/220px-Kid_Ink_in_Prague_2014.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tyga",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tyga_-_Openair_Frauenfeld_2019_02.jpg/220px-Tyga_-_Openair_Frauenfeld_2019_02.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "16:25",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Reloaded",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Platinum Hits",
+            "url": "https://en.wikipedia.org/wiki/Platinum_Hits_(Jason_Derulo_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Platinum_Hits_-_Jason_Derulo_%28Official_cover%29.jpg/220px-Platinum_Hits_-_Jason_Derulo_%28Official_cover%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 29, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "Wiggle_(song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Wiggle_cover.png/220px-Wiggle_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Wanna_Go_Home",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dontwannagohome.jpg/220px-Dontwannagohome.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kiss the Sky (song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Jason_Derulo_-_Kiss_the_Sky.png/220px-Jason_Derulo_-_Kiss_the_Sky.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Other_Side_(Jason_Derulo_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/The_Other_Side_%28Jason_Derulo_song%29_cover.jpg/220px-The_Other_Side_%28Jason_Derulo_song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Whatcha_Say",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WhatchaSay.jpg/220px-WhatchaSay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "41:42",
+                    "image": {}
+                },
+                {
+                    "name": "Talk_Dirty_(Jason_Derulo_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Jason_Derulo_-_Talk_Dirty.jpg/220px-Jason_Derulo_-_Talk_Dirty.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Trumpets_(Jason_Derulo_song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Trumpets_-_Single_Cover.jpg/220px-Trumpets_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ridin'_Solo",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ridin%27_Solo.jpg/220px-Ridin%27_Solo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Girl_(Jason_Derulo_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/ItGirl.jpg/220px-ItGirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_Me_(Jason_Derulo_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Marry_Me_-_Single_Cover.jpg/220px-Marry_Me_-_Single_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Head_(Jason_Derulo_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/In_My_Head_Brian%29.jpg/220px-In_My_Head_Brian%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Want_to_Want_Me",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Jason_Derulo_-_Want_to_Want_Me.png/220px-Jason_Derulo_-_Want_to_Want_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes releases that did not chart or were not released in that territory.",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

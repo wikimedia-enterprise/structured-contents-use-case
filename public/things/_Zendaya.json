@@ -1,0 +1,132 @@
+{
+    "name": "Zendaya",
+    "has_occupation": [
+        {
+            "name": "singer"
+        },
+        {
+            "name": "dancer"
+        },
+        {
+            "name": "model"
+        },
+        {
+            "name": "television actor"
+        },
+        {
+            "name": "film actor"
+        },
+        {
+            "name": "voice actor"
+        },
+        {
+            "name": "actor"
+        },
+        {
+            "name": "fashion model"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "Primetime Emmy Award for Outstanding Lead Actress in a Drama Series",
+        "Black Reel Award for Outstanding Actress, Drama Series",
+        "Kids' Choice Award for Favorite TV Actress",
+        "Kids' Choice Award for Favorite TV Actress",
+        "Kids' Choice Award for Favorite TV Actress",
+        "Satellite Award for Best Actress – Television Series Drama",
+        "Saturn Award for Best Supporting Actress",
+        "Primetime Emmy Award for Outstanding Lead Actress in a Drama Series",
+        "Time 100",
+        "Golden Globe Award for Best Actress – Television Series Drama"
+    ],
+    "genres": [
+        "pop rock",
+        "contemporary R\u0026B"
+    ],
+    "albums": [
+        {
+            "name": "Zendaya",
+            "url": "https://en.wikipedia.org/wiki/Zendaya_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Zendaya_-_Zendaya_%28album_cover%29.png/220px-Zendaya_-_Zendaya_%28album_cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 17, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "Bottle You Up",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Replay_(Zendaya_song)",
+                    "duration": "3:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Zendaya-Replay.jpg/220px-Zendaya-Replay.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Butterflies",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Cry for Love",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Only When You're Close",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "Scared",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Love You Forever",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "My Baby",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Fireflies",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "Putcha Body Down",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven Lost an Angel",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Parachute",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "42:30",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

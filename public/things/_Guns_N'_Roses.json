@@ -1,0 +1,3112 @@
+{
+    "name": "Guns_N%27_Roses",
+    "has_occupation": [
+        {
+            "name": "rock group"
+        }
+    ],
+    "awards": [
+        "American Music Awards",
+        "MTV Video Music Award",
+        "World Music Awards",
+        "Rock and Roll Hall of Fame"
+    ],
+    "genres": [
+        "hard rock"
+    ],
+    "albums": [
+        {
+            "name": "Appetite for Destruction",
+            "url": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/220px-GunsnRosesAppetiteforDestructionalbumcover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 21, 1987"
+            },
+            "tracks": [
+                {
+                    "name": "Mr._Brownstone",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You're Crazy",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "53:52",
+                    "image": {}
+                },
+                {
+                    "name": "Chris_Weber",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "My_Michelle",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Think_About_You_(Guns_N'_Roses_song)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Rocket_Queen",
+                    "duration": "6:13",
+                    "image": {}
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It's_So_Easy_(Guns_N'_Roses_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nightrain",
+                    "duration": "4:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nightrain_by_Guns_n%27_Roses_cassette.jpg/220px-Nightrain_by_Guns_n%27_Roses_cassette.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out ta Get Me",
+                    "duration": "4:20",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "G N' R Lies",
+            "url": "https://en.wikipedia.org/wiki/G_N%27_R_Lies",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/GNR_GNRLies_Original.jpg/220px-GNR_GNRLies_Original.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 29, 1988"
+            },
+            "tracks": [
+                {
+                    "name": "Hollywood_Rose",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Hollywoodroseearly.jpg/290px-Hollywoodroseearly.jpg",
+                        "width": 290,
+                        "height": 290
+                    }
+                },
+                {
+                    "name": "Rose_Tattoo",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Rose_Tattoo_-_2022216180104_2022-08-04_Wacken_-_Sven_-_5DS_R_-_0363_-_5DSR7450.jpg/300px-Rose_Tattoo_-_2022216180104_2022-08-04_Wacken_-_Sven_-_5DS_R_-_0363_-_5DSR7450.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Move to the City",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Mama_Kin",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mama_Kin_label.jpg/220px-Mama_Kin_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Used_to_Love_Her",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "You're Crazy",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "One_in_a_Million_(Guns_N'_Roses_song)",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "33:41",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion I",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion_I",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/GnR--UseYourIllusion1.jpg/220px-GnR--UseYourIllusion1.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 17, 1991"
+            },
+            "tracks": [
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You Ain't the First",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "76:09",
+                    "image": {}
+                },
+                {
+                    "name": "Dust N' Bones",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "The_Garden_(Guns_N'_Roses_song)",
+                    "duration": "5:22",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Obsession",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Double Talkin' Jive",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bad Apples",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Dead_Horse_(song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/9/96/GNR_DeadHorse.jpg",
+                        "width": 201,
+                        "height": 201
+                    }
+                },
+                {
+                    "name": "Perfect Crime",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)#Guns_N'_Roses_version",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Back Off Bitch",
+                    "duration": "5:03",
+                    "image": {}
+                },
+                {
+                    "name": "Garden_of_Eden_(Guns_N'_Roses_song)",
+                    "duration": "2:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Guns_N%27_Roses_-_Garden_Of_Eden.jpg/220px-Guns_N%27_Roses_-_Garden_Of_Eden.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Damn Me",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "Coma_(Guns_N'_Roses_song)",
+                    "duration": "10:13",
+                    "image": {}
+                },
+                {
+                    "name": "Right Next Door to Hell",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Double Talkin' Jive (live in London)",
+                    "duration": "5:32",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Apples (live in Rio de Janeiro)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Obsession (live in Las Vegas)",
+                    "duration": "6:36",
+                    "image": {}
+                },
+                {
+                    "name": "Always On The Run (live Paris)",
+                    "duration": "4:47",
+                    "image": {}
+                },
+                {
+                    "name": "Attitude (live in Paris)",
+                    "duration": "1:52",
+                    "image": {}
+                },
+                {
+                    "name": "Right Next Door To Hell (live in New York)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Cry (live New York)",
+                    "duration": "4:24",
+                    "image": {}
+                },
+                {
+                    "name": "Wild_Horses_(Rolling_Stones_song)",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Wild_Horses_by_The_Rolling_Stones_Japanese_vinyl.jpg/220px-Wild_Horses_by_The_Rolling_Stones_Japanese_vinyl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "61:41",
+                    "image": {}
+                },
+                {
+                    "name": "Dust N' Bones (live in London)",
+                    "duration": "5:10",
+                    "image": {}
+                },
+                {
+                    "name": "Live and Let Die (live in New York)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "You Ain't The First (live in New York)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect Crime (live in London)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Technical_Ecstasy",
+                    "duration": "14:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Black-Sabbath-Technical-Ecstasy.jpg/220px-Black-Sabbath-Technical-Ecstasy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live and Let Die (live in Tokyo)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Cry (live in Tokyo)",
+                    "duration": "4:39",
+                    "image": {}
+                },
+                {
+                    "name": "68:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion II",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion_II",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/GunsnRosesUseYourIllusionII.jpg/220px-GunsnRosesUseYourIllusionII.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 17, 1991"
+            },
+            "tracks": [
+                {
+                    "name": "So_Fine_(Guns_N'_Roses_song)",
+                    "duration": "4:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/So_fine_gnr.jpg/220px-So_fine_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "75:55",
+                    "image": {}
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Get_in_the_Ring",
+                    "duration": "5:42",
+                    "image": {}
+                },
+                {
+                    "name": "Shotgun Blues",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty_Tied_Up",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/GNR_PrettyTiedUp.jpg/220px-GNR_PrettyTiedUp.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Locomotive_(Complicity)",
+                    "duration": "8:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door#Guns_N'_Roses_versions",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Breakdown",
+                    "duration": "7:04",
+                    "image": {}
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My World",
+                    "duration": "1:24",
+                    "image": {}
+                },
+                {
+                    "name": "14_Years",
+                    "duration": "4:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/GNR_14Years.jpg/220px-GNR_14Years.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You Could Be Mine (live in New York)",
+                    "duration": "5:33",
+                    "image": {}
+                },
+                {
+                    "name": "Drum Solo (live in Paris)",
+                    "duration": "7:21",
+                    "image": {}
+                },
+                {
+                    "name": "Guitar Solo (live in Paris)",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Theme_from_The_Godfather",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Love_Theme_from_The_Godfather_by_Andy_Williams_US_single_red_label.png/220px-Love_Theme_from_The_Godfather_by_Andy_Williams_US_single_red_label.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mama_Kin",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mama_Kin_label.jpg/220px-Mama_Kin_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged (live in Las Vegas)",
+                    "duration": "9:10",
+                    "image": {}
+                },
+                {
+                    "name": "So Fine (live in Las Vegas)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "67:08",
+                    "image": {}
+                },
+                {
+                    "name": "Voodoo_Child_(Slight_Return)",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Voodoo_Child_Slight_Return_cover.jpg/220px-Voodoo_Child_Slight_Return_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pretty Tied Up (live in New York)",
+                    "duration": "5:14",
+                    "image": {}
+                },
+                {
+                    "name": "14 Years (live in London)",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "The_Game_(Queen_album)",
+                    "duration": "1:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Queen_The_Game.png/220px-Queen_The_Game.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Only_Women_Bleed",
+                    "duration": "8:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Only_Women_Bleed_-_Alice_Cooper.jpg/220px-Only_Women_Bleed_-_Alice_Cooper.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Train_Kept_A-Rollin'",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Aerosmith_Train_Kept_A_Rollin.png/220px-Aerosmith_Train_Kept_A_Rollin.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pretty Tied Up (live in Tokyo)",
+                    "duration": "5:14",
+                    "image": {}
+                },
+                {
+                    "name": "You Could Be Mine (live in Tokyo)",
+                    "duration": "6:10",
+                    "image": {}
+                },
+                {
+                    "name": "78:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"The Spaghetti Incident?\"",
+            "url": "https://en.wikipedia.org/wiki/%22The_Spaghetti_Incident%3F%22",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Guns_n%27_Roses%3B_Spaghetti_Incident%3F_cover.jpg/220px-Guns_n%27_Roses%3B_Spaghetti_Incident%3F_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 1993"
+            },
+            "tracks": [
+                {
+                    "name": "Attitude_(Misfits_song)#Cover_versions",
+                    "duration": "1:27",
+                    "image": {}
+                },
+                {
+                    "name": "46:03",
+                    "image": {}
+                },
+                {
+                    "name": "Down on the Farm",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Too_Much_Too_Soon_(album)",
+                    "duration": "6:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Too_Much_Too_Soon_-_The_New_York_Dolls.jpg/220px-Too_Much_Too_Soon_-_The_New_York_Dolls.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Raw_Power",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/StoogesRawPower.jpg/220px-StoogesRawPower.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't_It_Fun_(Dead_Boys_song)#Guns_N'_Roses_version",
+                    "duration": "5:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hair_of_the_Dog_(song)#Cover_versions",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/GNR_HairOfTheDog.jpg/220px-GNR_HairOfTheDog.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Record_(Fear_album)",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Fear_-_The_Fear_Record.jpg/220px-Fear_-_The_Fear_Record.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Look_at_Your_Game,_Girl#Guns_N'_Roses_version",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "You_Can't_Put_Your_Arms_Around_a_Memory#Covers",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/YouCan%27tPutYourArmsAroundAMemory.jpg/220px-YouCan%27tPutYourArmsAroundAMemory.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You#Guns_N'_Roses_version",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "New_Rose#Cover_versions",
+                    "duration": "2:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/New_rose_gnr.jpg/220px-New_rose_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Slider",
+                    "duration": "2:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/T_Rex_The_Slider.jpg/220px-T_Rex_The_Slider.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Black Leather",
+                    "duration": "4:09",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Chinese Democracy",
+            "url": "https://en.wikipedia.org/wiki/Chinese_Democracy",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Red_hand_chidem.jpg/220px-Red_hand_chidem.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 2008"
+            },
+            "tracks": [
+                {
+                    "name": "Shackler's_Revenge",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Chinese_Democracy_%28song%29.jpg/220px-Chinese_Democracy_%28song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Street_of_Dreams_(Guns_N'_Roses_song)",
+                    "duration": "4:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/GNR_StreetOfDreams.jpg/220px-GNR_StreetOfDreams.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "If the World",
+                    "duration": "4:54",
+                    "image": {}
+                },
+                {
+                    "name": "Prostitute_(song)",
+                    "duration": "6:15",
+                    "image": {}
+                },
+                {
+                    "name": "Chinese_Democracy_(song)",
+                    "duration": "4:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/GnR_CD_single.jpg/220px-GnR_CD_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "There Was a Time",
+                    "duration": "6:41",
+                    "image": {}
+                },
+                {
+                    "name": "Scraped",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "71:18",
+                    "image": {}
+                },
+                {
+                    "name": "Better_(Guns_N'_Roses_song)",
+                    "duration": "4:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/GNR_Better.jpg/220px-GNR_Better.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Riad N' the Bedouins",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Sorry",
+                    "duration": "6:14",
+                    "image": {}
+                },
+                {
+                    "name": "I.R.S.",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "This I Love",
+                    "duration": "5:34",
+                    "image": {}
+                },
+                {
+                    "name": "Catcher in the Rye",
+                    "duration": "5:53",
+                    "image": {}
+                },
+                {
+                    "name": "Madagascar_(song)",
+                    "duration": "5:38",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live Era '87–'93",
+            "url": "https://en.wikipedia.org/wiki/Live_Era_%2787%E2%80%93%2793",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Live_Era_87-93Guns%27n%27roses.jpg/220px-Live_Era_87-93Guns%27n%27roses.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "59:54",
+                    "image": {}
+                },
+                {
+                    "name": "Nightrain",
+                    "duration": "5:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nightrain_by_Guns_n%27_Roses_cassette.jpg/220px-Nightrain_by_Guns_n%27_Roses_cassette.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mr._Brownstone",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It's_So_Easy_(Guns_N'_Roses_song)",
+                    "duration": "3:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Use_Your_Illusion_I",
+                    "duration": "5:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/GnR--UseYourIllusion1.jpg/220px-GnR--UseYourIllusion1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "6:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Technical_Ecstasy",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Black-Sabbath-Technical-Ecstasy.jpg/220px-Black-Sabbath-Technical-Ecstasy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My_Michelle",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "G_N'_R_Lies",
+                    "duration": "4:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/GNR_GNRLies_Original.jpg/220px-GNR_GNRLies_Original.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Used_to_Love_Her",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "12:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "7:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out ta Get Me (from Appetite For Destruction)",
+                    "duration": "4:33",
+                    "image": {}
+                },
+                {
+                    "name": "Live_%3F!*@_Like_a_Suicide",
+                    "duration": "8:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Live_Like_a_Suicide_%28Guns_N%27_Roses%29_EP_cover.jpg/220px-Live_Like_a_Suicide_%28Guns_N%27_Roses%29_EP_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "6:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet Child o' Mine",
+                    "duration": "7:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "1:13:09",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty_Tied_Up",
+                    "duration": "5:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/GNR_PrettyTiedUp.jpg/220px-GNR_PrettyTiedUp.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rocket_Queen",
+                    "duration": "8:27",
+                    "image": {}
+                },
+                {
+                    "name": "Coma_(Guns_N'_Roses_song)",
+                    "duration": "10:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a release that did not register on that chart or was not issued in that region.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Use Your Illusion",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/GNR_Use_Your_Illusion.jpg/220px-GNR_Use_Your_Illusion.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 25, 1998"
+            }
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Guns_N%27_Roses_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/GreatestHits_Guns%27n%27Roses.jpg/220px-GreatestHits_Guns%27n%27Roses.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 23, 2004"
+            },
+            "tracks": [
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sympathy_for_the_Devil",
+                    "duration": "7:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gnr_sympathy.jpg/220px-Gnr_sympathy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "79:24",
+                    "image": {}
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't It Fun (Dead Boys song)",
+                    "duration": "5:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "82:30",
+                    "image": {}
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sympathy_for_the_Devil",
+                    "duration": "7:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gnr_sympathy.jpg/220px-Gnr_sympathy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't It Fun (Dead Boys song)",
+                    "duration": "5:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shadow of Your Love",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/GNRShadow18.jpg/220px-GNRShadow18.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"The Spaghetti Incident?\"",
+            "url": "https://en.wikipedia.org/wiki/%22The_Spaghetti_Incident%3F%22",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Guns_n%27_Roses%3B_Spaghetti_Incident%3F_cover.jpg/220px-Guns_n%27_Roses%3B_Spaghetti_Incident%3F_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 1993"
+            },
+            "tracks": [
+                {
+                    "name": "Since_I_Don't_Have_You#Guns_N'_Roses_version",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Slider",
+                    "duration": "2:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/T_Rex_The_Slider.jpg/220px-T_Rex_The_Slider.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "46:03",
+                    "image": {}
+                },
+                {
+                    "name": "New_Rose#Cover_versions",
+                    "duration": "2:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/New_rose_gnr.jpg/220px-New_rose_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hair_of_the_Dog_(song)#Cover_versions",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/GNR_HairOfTheDog.jpg/220px-GNR_HairOfTheDog.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Attitude_(Misfits_song)#Cover_versions",
+                    "duration": "1:27",
+                    "image": {}
+                },
+                {
+                    "name": "The_Record_(Fear_album)",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Fear_-_The_Fear_Record.jpg/220px-Fear_-_The_Fear_Record.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down on the Farm",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Too_Much_Too_Soon_(album)",
+                    "duration": "6:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Too_Much_Too_Soon_-_The_New_York_Dolls.jpg/220px-Too_Much_Too_Soon_-_The_New_York_Dolls.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Raw_Power",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/StoogesRawPower.jpg/220px-StoogesRawPower.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't_It_Fun_(Dead_Boys_song)#Guns_N'_Roses_version",
+                    "duration": "5:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Black Leather",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "You_Can't_Put_Your_Arms_Around_a_Memory#Covers",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/YouCan%27tPutYourArmsAroundAMemory.jpg/220px-YouCan%27tPutYourArmsAroundAMemory.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Look_at_Your_Game,_Girl#Guns_N'_Roses_version",
+                    "duration": "2:34",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Chinese Democracy",
+            "url": "https://en.wikipedia.org/wiki/Chinese_Democracy",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Red_hand_chidem.jpg/220px-Red_hand_chidem.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 2008"
+            },
+            "tracks": [
+                {
+                    "name": "Better_(Guns_N'_Roses_song)",
+                    "duration": "4:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/GNR_Better.jpg/220px-GNR_Better.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Street_of_Dreams_(Guns_N'_Roses_song)",
+                    "duration": "4:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/GNR_StreetOfDreams.jpg/220px-GNR_StreetOfDreams.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "If the World",
+                    "duration": "4:54",
+                    "image": {}
+                },
+                {
+                    "name": "Catcher in the Rye",
+                    "duration": "5:53",
+                    "image": {}
+                },
+                {
+                    "name": "Riad N' the Bedouins",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "There Was a Time",
+                    "duration": "6:41",
+                    "image": {}
+                },
+                {
+                    "name": "Scraped",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Sorry",
+                    "duration": "6:14",
+                    "image": {}
+                },
+                {
+                    "name": "Madagascar_(song)",
+                    "duration": "5:38",
+                    "image": {}
+                },
+                {
+                    "name": "This I Love",
+                    "duration": "5:34",
+                    "image": {}
+                },
+                {
+                    "name": "71:18",
+                    "image": {}
+                },
+                {
+                    "name": "I.R.S.",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Prostitute_(song)",
+                    "duration": "6:15",
+                    "image": {}
+                },
+                {
+                    "name": "Chinese_Democracy_(song)",
+                    "duration": "4:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/GnR_CD_single.jpg/220px-GnR_CD_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shackler's_Revenge",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Chinese_Democracy_%28song%29.jpg/220px-Chinese_Democracy_%28song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Appetite for Destruction",
+            "url": "https://en.wikipedia.org/wiki/Appetite_for_Destruction",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/220px-GunsnRosesAppetiteforDestructionalbumcover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 21, 1987"
+            },
+            "tracks": [
+                {
+                    "name": "It's_So_Easy_(Guns_N'_Roses_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mr._Brownstone",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Think_About_You_(Guns_N'_Roses_song)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You're Crazy",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "53:52",
+                    "image": {}
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nightrain",
+                    "duration": "4:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nightrain_by_Guns_n%27_Roses_cassette.jpg/220px-Nightrain_by_Guns_n%27_Roses_cassette.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out ta Get Me",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "My_Michelle",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Chris_Weber",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Rocket_Queen",
+                    "duration": "6:13",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "G N' R Lies",
+            "url": "https://en.wikipedia.org/wiki/G_N%27_R_Lies",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/GNR_GNRLies_Original.jpg/220px-GNR_GNRLies_Original.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 29, 1988"
+            },
+            "tracks": [
+                {
+                    "name": "Hollywood_Rose",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Hollywoodroseearly.jpg/290px-Hollywoodroseearly.jpg",
+                        "width": 290,
+                        "height": 290
+                    }
+                },
+                {
+                    "name": "Rose_Tattoo",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Rose_Tattoo_-_2022216180104_2022-08-04_Wacken_-_Sven_-_5DS_R_-_0363_-_5DSR7450.jpg/300px-Rose_Tattoo_-_2022216180104_2022-08-04_Wacken_-_Sven_-_5DS_R_-_0363_-_5DSR7450.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Move to the City",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Mama_Kin",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mama_Kin_label.jpg/220px-Mama_Kin_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You're Crazy",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "One_in_a_Million_(Guns_N'_Roses_song)",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "33:41",
+                    "image": {}
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Used_to_Love_Her",
+                    "duration": "3:13",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion I",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion_I",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/GnR--UseYourIllusion1.jpg/220px-GnR--UseYourIllusion1.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 17, 1991"
+            },
+            "tracks": [
+                {
+                    "name": "Live_and_Let_Die_(song)#Guns_N'_Roses_version",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Damn Me",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Apples",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Dead_Horse_(song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/9/96/GNR_DeadHorse.jpg",
+                        "width": 201,
+                        "height": 201
+                    }
+                },
+                {
+                    "name": "76:09",
+                    "image": {}
+                },
+                {
+                    "name": "Right Next Door to Hell",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "You Ain't the First",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bad Obsession",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Double Talkin' Jive",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Coma_(Guns_N'_Roses_song)",
+                    "duration": "10:13",
+                    "image": {}
+                },
+                {
+                    "name": "Dust N' Bones",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Back Off Bitch",
+                    "duration": "5:03",
+                    "image": {}
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Garden_(Guns_N'_Roses_song)",
+                    "duration": "5:22",
+                    "image": {}
+                },
+                {
+                    "name": "Garden_of_Eden_(Guns_N'_Roses_song)",
+                    "duration": "2:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Guns_N%27_Roses_-_Garden_Of_Eden.jpg/220px-Guns_N%27_Roses_-_Garden_Of_Eden.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Perfect Crime",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Apples (live in Rio de Janeiro)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Cry (live New York)",
+                    "duration": "4:24",
+                    "image": {}
+                },
+                {
+                    "name": "Technical_Ecstasy",
+                    "duration": "14:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Black-Sabbath-Technical-Ecstasy.jpg/220px-Black-Sabbath-Technical-Ecstasy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Perfect Crime (live in London)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Dust N' Bones (live in London)",
+                    "duration": "5:10",
+                    "image": {}
+                },
+                {
+                    "name": "Wild_Horses_(Rolling_Stones_song)",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Wild_Horses_by_The_Rolling_Stones_Japanese_vinyl.jpg/220px-Wild_Horses_by_The_Rolling_Stones_Japanese_vinyl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "61:41",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Obsession (live in Las Vegas)",
+                    "duration": "6:36",
+                    "image": {}
+                },
+                {
+                    "name": "You Ain't The First (live in New York)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Live and Let Die (live in New York)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Attitude (live in Paris)",
+                    "duration": "1:52",
+                    "image": {}
+                },
+                {
+                    "name": "Double Talkin' Jive (live in London)",
+                    "duration": "5:32",
+                    "image": {}
+                },
+                {
+                    "name": "Right Next Door To Hell (live in New York)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Always On The Run (live Paris)",
+                    "duration": "4:47",
+                    "image": {}
+                },
+                {
+                    "name": "Live and Let Die (live in Tokyo)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Cry (live in Tokyo)",
+                    "duration": "4:39",
+                    "image": {}
+                },
+                {
+                    "name": "68:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion II",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion_II",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/GunsnRosesUseYourIllusionII.jpg/220px-GunsnRosesUseYourIllusionII.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 17, 1991"
+            },
+            "tracks": [
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door#Guns_N'_Roses_versions",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Breakdown",
+                    "duration": "7:04",
+                    "image": {}
+                },
+                {
+                    "name": "Locomotive_(Complicity)",
+                    "duration": "8:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "75:55",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty_Tied_Up",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/GNR_PrettyTiedUp.jpg/220px-GNR_PrettyTiedUp.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Get_in_the_Ring",
+                    "duration": "5:42",
+                    "image": {}
+                },
+                {
+                    "name": "Shotgun Blues",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "So_Fine_(Guns_N'_Roses_song)",
+                    "duration": "4:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/So_fine_gnr.jpg/220px-So_fine_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My World",
+                    "duration": "1:24",
+                    "image": {}
+                },
+                {
+                    "name": "14_Years",
+                    "duration": "4:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/GNR_14Years.jpg/220px-GNR_14Years.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Drum Solo (live in Paris)",
+                    "duration": "7:21",
+                    "image": {}
+                },
+                {
+                    "name": "Estranged (live in Las Vegas)",
+                    "duration": "9:10",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty Tied Up (live in New York)",
+                    "duration": "5:14",
+                    "image": {}
+                },
+                {
+                    "name": "14 Years (live in London)",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "Guitar Solo (live in Paris)",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Theme_from_The_Godfather",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Love_Theme_from_The_Godfather_by_Andy_Williams_US_single_red_label.png/220px-Love_Theme_from_The_Godfather_by_Andy_Williams_US_single_red_label.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mama_Kin",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Mama_Kin_label.jpg/220px-Mama_Kin_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Train_Kept_A-Rollin'",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Aerosmith_Train_Kept_A_Rollin.png/220px-Aerosmith_Train_Kept_A_Rollin.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "67:08",
+                    "image": {}
+                },
+                {
+                    "name": "Voodoo_Child_(Slight_Return)",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Voodoo_Child_Slight_Return_cover.jpg/220px-Voodoo_Child_Slight_Return_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You Could Be Mine (live in New York)",
+                    "duration": "5:33",
+                    "image": {}
+                },
+                {
+                    "name": "Only_Women_Bleed",
+                    "duration": "8:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Only_Women_Bleed_-_Alice_Cooper.jpg/220px-Only_Women_Bleed_-_Alice_Cooper.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Game_(Queen_album)",
+                    "duration": "1:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Queen_The_Game.png/220px-Queen_The_Game.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "So Fine (live in Las Vegas)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty Tied Up (live in Tokyo)",
+                    "duration": "5:14",
+                    "image": {}
+                },
+                {
+                    "name": "You Could Be Mine (live in Tokyo)",
+                    "duration": "6:10",
+                    "image": {}
+                },
+                {
+                    "name": "78:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live Era '87–'93",
+            "url": "https://en.wikipedia.org/wiki/Live_Era_%2787%E2%80%93%2793",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Live_Era_87-93Guns%27n%27roses.jpg/220px-Live_Era_87-93Guns%27n%27roses.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 23, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "Mr._Brownstone",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "6:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "12:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "59:54",
+                    "image": {}
+                },
+                {
+                    "name": "Used_to_Love_Her",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Technical_Ecstasy",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Black-Sabbath-Technical-Ecstasy.jpg/220px-Black-Sabbath-Technical-Ecstasy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nightrain",
+                    "duration": "5:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nightrain_by_Guns_n%27_Roses_cassette.jpg/220px-Nightrain_by_Guns_n%27_Roses_cassette.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It's_So_Easy_(Guns_N'_Roses_song)",
+                    "duration": "3:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Use_Your_Illusion_I",
+                    "duration": "5:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/GnR--UseYourIllusion1.jpg/220px-GnR--UseYourIllusion1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My_Michelle",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "G_N'_R_Lies",
+                    "duration": "4:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/GNR_GNRLies_Original.jpg/220px-GNR_GNRLies_Original.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "7:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "1:13:09",
+                    "image": {}
+                },
+                {
+                    "name": "Pretty_Tied_Up",
+                    "duration": "5:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/GNR_PrettyTiedUp.jpg/220px-GNR_PrettyTiedUp.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_%3F!*@_Like_a_Suicide",
+                    "duration": "8:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Live_Like_a_Suicide_%28Guns_N%27_Roses%29_EP_cover.jpg/220px-Live_Like_a_Suicide_%28Guns_N%27_Roses%29_EP_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet Child o' Mine",
+                    "duration": "7:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out ta Get Me (from Appetite For Destruction)",
+                    "duration": "4:33",
+                    "image": {}
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "6:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rocket_Queen",
+                    "duration": "8:27",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Coma_(Guns_N'_Roses_song)",
+                    "duration": "10:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion",
+            "url": "https://en.wikipedia.org/wiki/Use_Your_Illusion",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/GNR_Use_Your_Illusion.jpg/220px-GNR_Use_Your_Illusion.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 25, 1998"
+            }
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Guns_N%27_Roses_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/GreatestHits_Guns%27n%27Roses.jpg/220px-GreatestHits_Guns%27n%27Roses.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 23, 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't It Fun (Dead Boys song)",
+                    "duration": "5:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sympathy_for_the_Devil",
+                    "duration": "7:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gnr_sympathy.jpg/220px-Gnr_sympathy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "79:24",
+                    "image": {}
+                },
+                {
+                    "name": "Shadow of Your Love",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/GNRShadow18.jpg/220px-GNRShadow18.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "8:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't It Fun (Dead Boys song)",
+                    "duration": "5:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg/220px-Ain%27t_It_Fun_by_Guns_N%27_Roses.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "5:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "5:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "82:30",
+                    "image": {}
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sympathy_for_the_Devil",
+                    "duration": "7:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gnr_sympathy.jpg/220px-Gnr_sympathy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a release that did not register on that chart or was not issued in that region.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Welcome to the Videos",
+            "url": "https://en.wikipedia.org/wiki/Welcome_to_the_Videos",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Welcometothevideos.jpg/220px-Welcometothevideos.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 27, 1998"
+            },
+            "tracks": [
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "4:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dead_Horse_(song)",
+                    "duration": "4:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/9/96/GNR_DeadHorse.jpg",
+                        "width": 201,
+                        "height": 201
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "6:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "5:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Garden_of_Eden_(Guns_N'_Roses_song)",
+                    "duration": "2:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Guns_N%27_Roses_-_Garden_Of_Eden.jpg/220px-Guns_N%27_Roses_-_Garden_Of_Eden.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "5:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Garden_(Guns_N'_Roses_song)",
+                    "duration": "5:26",
+                    "image": {}
+                },
+                {
+                    "name": "November_Rain",
+                    "duration": "9:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yesterdays_(Guns_N'_Roses_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Yesterdays_gnr.jpg/220px-Yesterdays_gnr.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Since_I_Don't_Have_You",
+                    "duration": "4:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg/220px-Since_I_Don%27t_Have_You_by_Guns_N%27_Roses_US_cassette_artwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Use Your Illusion I: WorldTour – 1992 in Tokyo",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Don't Cry: Makin' F@*!ingVideos Part I",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "November Rain: Makin'F@*!ing Videos Part II",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Makin' F@*!ing VideosPart I \u0026 II",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Making of Estranged:Part IV of the Trilogy!!!",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Use Your Illusion II: WorldTour – 1992 in Tokyo",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Use Your Illusion I \u0026 II:World Tour – 1992 in Tokyo",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Garden of Eden: Strictly Limited Edition Video Single",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Appetite for Democracy 3D",
+            "url": "https://en.wikipedia.org/wiki/Appetite_for_Democracy_3D",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Appetite_for_destruction_-_3d.jpg/220px-Appetite_for_destruction_-_3d.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 1, 2014 November 4, 2014 (deluxe edition)"
+            },
+            "tracks": [
+                {
+                    "name": "November_Rain",
+                    "duration": "8:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Novemberrain.jpg/220px-Novemberrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This I Love",
+                    "duration": "5:26",
+                    "image": {}
+                },
+                {
+                    "name": "Street_of_Dreams_(Guns_N'_Roses_song)",
+                    "duration": "4:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/GNR_StreetOfDreams.jpg/220px-GNR_StreetOfDreams.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Patience_(Guns_N'_Roses_song)",
+                    "duration": "6:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GnrPatience.jpg/220px-GnrPatience.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Child_o'_Mine",
+                    "duration": "5:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Sweetchildominetakenbytrees.jpg/220px-Sweetchildominetakenbytrees.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Another_Brick_in_the_Wall",
+                    "duration": "2:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Korn_-_Another_Brick_In_The_Wall.jpg/220px-Korn_-_Another_Brick_In_The_Wall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Objectify",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Nightrain",
+                    "duration": "5:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Nightrain_by_Guns_n%27_Roses_cassette.jpg/220px-Nightrain_by_Guns_n%27_Roses_cassette.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Chinese_Democracy_(song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/GnR_CD_single.jpg/220px-GnR_CD_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rocket_Queen",
+                    "duration": "7:14",
+                    "image": {}
+                },
+                {
+                    "name": "The_Seeker_(The_Who_song)",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/The_Seeker.jpg/220px-The_Seeker.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Used to Love Her",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Welcome_to_the_Jungle",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Welcometothejungle.jpg/220px-Welcometothejungle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Estranged_(song)",
+                    "duration": "9:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Estranged.jpg/220px-Estranged.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Cry",
+                    "duration": "5:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg/220px-Don%27t_Cry_by_Guns_N%27_Roses_US_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Motivation",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "You_Could_Be_Mine",
+                    "duration": "6:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg/220px-You_Could_Be_Mine_%28Guns_N%27_Roses_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Knockin'_on_Heaven's_Door",
+                    "duration": "12:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Dunblane_Knockin%27_on_Heaven%27s_Door.jpg/220px-Dunblane_Knockin%27_on_Heaven%27s_Door.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It's_So_Easy_(Guns_N'_Roses_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Better_(Guns_N'_Roses_song)",
+                    "duration": "5:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/GNR_Better.jpg/220px-GNR_Better.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mr._Brownstone",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/It%27s_So_Easy_Single.jpeg/220px-It%27s_So_Easy_Single.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paradise_City",
+                    "duration": "7:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/N-Trance_Paradise_City.jpg/220px-N-Trance_Paradise_City.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Civil_War_(song)",
+                    "duration": "7:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Guns_n_roses-civil_war_s.jpg/220px-Guns_n_roses-civil_war_s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Catcher in the Rye",
+                    "duration": "5:54",
+                    "image": {}
+                },
+                {
+                    "name": "Live_and_Let_Die_(song)",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png/220px-Live_and_Let_Die_by_Guns_N%27_Roses_US_cassette.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a release that did not register on that chart or was not issued in that region.",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

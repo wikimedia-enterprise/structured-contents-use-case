@@ -1,0 +1,4591 @@
+{
+    "name": "Blink-182",
+    "has_occupation": [
+        {
+            "name": "musical group"
+        }
+    ],
+    "genres": [
+        "pop-punk",
+        "alternative rock"
+    ],
+    "albums": [
+        {
+            "name": "Take Off Your Pants and Jacket",
+            "url": "https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Blink-182_-_Take_Off_Your_Pants_and_Jacket_cover.jpg/220px-Blink-182_-_Take_Off_Your_Pants_and_Jacket_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 12, 2001"
+            },
+            "tracks": [
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everytime I Look for You",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Shut Up",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Online Songs",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "Story of a Lonely Guy",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Give Me One Good Reason",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Roller Coaster",
+                    "duration": "2:47",
+                    "image": {}
+                },
+                {
+                    "name": "Reckless Abandon",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "38:56",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem_Part_Two",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Happy Holidays, You Bastard",
+                    "duration": "0:42",
+                    "image": {}
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Please Take Me Home",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Time to Break Up",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Mother's Day",
+                    "duration": "1:37",
+                    "image": {}
+                },
+                {
+                    "name": "What Went Wrong",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck a Dog",
+                    "duration": "1:25",
+                    "image": {}
+                },
+                {
+                    "name": "When You Fucked Grandpa",
+                    "duration": "1:39",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Tell Me It's Over",
+                    "duration": "2:34",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Neighborhoods",
+            "url": "https://en.wikipedia.org/wiki/Neighborhoods_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Blink-182_-_Neighborhoods_cover.jpg/220px-Blink-182_-_Neighborhoods_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 27, 2011"
+            },
+            "tracks": [
+                {
+                    "name": "Up_All_Night_(Blink-182_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Blink-182_-_Up_All_Night_cover.jpg/220px-Blink-182_-_Up_All_Night_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Heart's_All_Gone",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "MH 4.18.2011",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Love Is Dangerous",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "36:00",
+                    "image": {}
+                },
+                {
+                    "name": "Ghost_on_the_Dance_Floor",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Natives",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "After_Midnight_(Blink-182_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/After_Midnight_Blink-182.jpg/220px-After_Midnight_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wishing Well",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Kaleidoscope",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "This Is Home",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "This Is Home",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "49:12",
+                    "image": {}
+                },
+                {
+                    "name": "Ghost on the Dance Floor",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Heart's All Gone Interlude (bonus track)",
+                    "duration": "2:02",
+                    "image": {}
+                },
+                {
+                    "name": "Kaleidoscope",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Snake Charmer (bonus track)",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Heart's All Gone",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Fighting the Gravity (bonus track)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Natives",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "After Midnight",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "MH 4.18.2011",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Love Is Dangerous",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Even If She Falls (bonus track)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Up All Night",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Wishing Well",
+                    "duration": "3:20",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Cheshire Cat",
+            "url": "https://en.wikipedia.org/wiki/Cheshire_Cat_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Blink-182_-_Cheshire_Cat_cover.jpg/220px-Blink-182_-_Cheshire_Cat_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "February 17, 1995"
+            },
+            "tracks": [
+                {
+                    "name": "Wasting_Time_(Blink-182_song)",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink_182_Wasting_Time.jpg/220px-Blink_182_Wasting_Time.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ben Wah Balls",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "M+M's",
+                    "duration": "2:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/M%2BM%27s_Blink-182.jpg/220px-M%2BM%27s_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Touchdown Boy",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Romeo and Rebecca",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "Just About Done",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Depends",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                },
+                {
+                    "name": "Fentoozler",
+                    "duration": "2:05",
+                    "image": {}
+                },
+                {
+                    "name": "Peggy Sue",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Sometimes",
+                    "duration": "1:09",
+                    "image": {}
+                },
+                {
+                    "name": "TV",
+                    "duration": "1:42",
+                    "image": {}
+                },
+                {
+                    "name": "Toast and Bananas",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Strings",
+                    "duration": "2:26",
+                    "image": {}
+                },
+                {
+                    "name": "Does My Breath Smell?",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Cacophony",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Dude_Ranch_(album)",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Blink-182_-_Dude_Ranch_cover.jpg/220px-Blink-182_-_Dude_Ranch_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "46:50",
+                    "image": {}
+                },
+                {
+                    "name": "Zulu",
+                    "duration": "2:06",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Dude Ranch",
+            "url": "https://en.wikipedia.org/wiki/Dude_Ranch_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Blink-182_-_Dude_Ranch_cover.jpg/220px-Blink-182_-_Dude_Ranch_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 17, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Untitled",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Emo",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "44:54",
+                    "image": {}
+                },
+                {
+                    "name": "Boring",
+                    "duration": "1:41",
+                    "image": {}
+                },
+                {
+                    "name": "Enthused",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Lemmings",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Waggy",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Apple_Shampoo",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Apple_Shampoo_Blink.jpg/220px-Apple_Shampoo_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "A New Hope",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Sorry",
+                    "duration": "5:37",
+                    "image": {}
+                },
+                {
+                    "name": "Pathetic",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Voyeur",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Degenerate",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dick_Lips",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dick_Lips_Blink.jpg/220px-Dick_Lips_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I'm Sorry",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Dog Lapping (hidden track)",
+                    "duration": "7:07",
+                    "image": {}
+                },
+                {
+                    "name": "50:53",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Enema of the State",
+            "url": "https://en.wikipedia.org/wiki/Enema_of_the_State",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Blink-182_-_Enema_of_the_State_cover.jpg/220px-Blink-182_-_Enema_of_the_State_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 1, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "Wendy Clear",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in London)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed",
+                    "duration": "2:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Dumpweed_%28Live%29.png/220px-Dumpweed_%28Live%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All the Small Things (live in London)",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "Untitled (live in Los Angeles)",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "The Party Song",
+                    "duration": "2:19",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "48:39",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Leave Me",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mutt_(song)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit (live in London)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Mutt (live in Los Angeles)",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "35:17",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed (live in London)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Aliens Exist (live in Los Angeles)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Aliens_Exist",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Dysentery Gary",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Anthem",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Aliens Exist (live in Los Angeles)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Going_Away_to_College",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "54:47",
+                    "image": {}
+                },
+                {
+                    "name": "Pathetic (live in Los Angeles)",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "15:38",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things (single edit)",
+                    "duration": "2:54",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed (live in London)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in London)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things (live in London)",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "One More Time...",
+            "url": "https://en.wikipedia.org/wiki/One_More_Time...",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Blink-182_-_One_More_Time....png/220px-Blink-182_-_One_More_Time....png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 20, 2023"
+            },
+            "tracks": [
+                {
+                    "name": "Other Side",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Childhood",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "Turpentine",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck Face",
+                    "duration": "0:27",
+                    "image": {}
+                },
+                {
+                    "name": "Bad News",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "44:35",
+                    "image": {}
+                },
+                {
+                    "name": "Fell_in_Love_(Blink-182_song)",
+                    "duration": "2:18",
+                    "image": {}
+                },
+                {
+                    "name": "Edging_(song)",
+                    "duration": "2:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Blink-182_-_Edging.png/220px-Blink-182_-_Edging.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Terrified",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "One_More_Time_(Blink-182_song)",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "More_Than_You_Know_(Blink-182_song)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Turn This Off!",
+                    "duration": "0:24",
+                    "image": {}
+                },
+                {
+                    "name": "You_Don't_Know_What_You've_Got_(Blink-182_Song)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Hurt (Interlude)",
+                    "duration": "1:22",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem Part 3",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_with_Me_(Blink-182_song)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "When We Were Young",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Blink Wave",
+                    "duration": "3:08",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Blink-182",
+            "url": "https://en.wikipedia.org/wiki/Blink-182_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Blink-182_-_Blink-182_cover.jpg/220px-Blink-182_-_Blink-182_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 18, 2003"
+            },
+            "tracks": [
+                {
+                    "name": "Obvious",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Always_(Blink-182_song)",
+                    "duration": "4:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blink-182_-_Always_cover.jpg/220px-Blink-182_-_Always_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Easy Target",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "Here's Your Letter",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "I'm_Lost_Without_You",
+                    "duration": "6:20",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Violence",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "Stockholm_Syndrome_(Blink-182_song)",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Go",
+                    "duration": "1:53",
+                    "image": {}
+                },
+                {
+                    "name": "Asthenia",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "All_of_This",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "49:21",
+                    "image": {}
+                },
+                {
+                    "name": "The Fallen Interlude",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Chicago",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USA_Illinois_relief_location_map.svg/250px-USA_Illinois_relief_location_map.svg.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "Not_Now",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Blink-182_-_Not_Now_cover.jpg/220px-Blink-182_-_Not_Now_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Anthem Part Two (live in Chicago)",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Not Now",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "The Rock Show (live in Chicago)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Minneapolis",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https:https://maps.wikimedia.org/img/osm-intl,10,44.9819,-93.2692,280x280.png?lang=en\u0026domain=en.wikipedia.org\u0026title=Minneapolis\u0026revid=1180425594\u0026groups=_eba061e3ab775504f4ce5c9dfc0b4b3ce81d42ba",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "The Rock Show (live in Minneapolis)",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Not Now",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel (live in Chicago)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (music video)",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (music video)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down (homemade video)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Violence (homemade video)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Always (music video)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Photo gallery (slideshow)",
+                    "duration": "N/A",
+                    "image": {}
+                },
+                {
+                    "name": "Obvious (homemade video)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (homemade video)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Stockholm Syndrome (homemade video)",
+                    "duration": "4:15",
+                    "image": {}
+                },
+                {
+                    "name": "The Fallen Interlude (homemade video)",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Down (music video)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Together for the Kids (alternate music video)",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Down (making of the video)",
+                    "duration": "5:06",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "California",
+            "url": "https://en.wikipedia.org/wiki/California_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Blink-182_-_Calfornia.jpg/220px-Blink-182_-_Calfornia.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 1, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "She's_Out_of_Her_Mind",
+                    "duration": "2:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/SOOHM_Blink.jpg/220px-SOOHM_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Built This Pool",
+                    "duration": "0:16",
+                    "image": {}
+                },
+                {
+                    "name": "Left Alone",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "California",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Los Angeles",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Home_Is_Such_a_Lonely_Place",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Kings of the Weekend",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Teenage Satellites",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Rabbit Hole",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "Cynical",
+                    "duration": "1:55",
+                    "image": {}
+                },
+                {
+                    "name": "Sober",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Brohemian Rhapsody",
+                    "duration": "0:30",
+                    "image": {}
+                },
+                {
+                    "name": "Bored_to_Death_(song)",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Bored_to_Death_Blink-182_Steve_Aoki_Remix.jpg/220px-Bored_to_Death_Blink-182_Steve_Aoki_Remix.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "No Future",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "San Diego",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "The Only Thing That Matters",
+                    "duration": "1:57",
+                    "image": {}
+                },
+                {
+                    "name": "42:36",
+                    "image": {}
+                },
+                {
+                    "name": "Hey I'm Sorry",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "46:33",
+                    "image": {}
+                },
+                {
+                    "name": "Hey I'm Sorry (Hoppus/Skiba)",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Can't Get You More Pregnant",
+                    "duration": "0:34",
+                    "image": {}
+                },
+                {
+                    "name": "Good Old Days",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Last Train Home",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Wildfire",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Parking_Lot_(Blink-182_song)",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Misery",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Mean Anything",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "6/8",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Long Lost Feeling",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Bottom of the Ocean",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Bored to Death (live and acoustic)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "37:52",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Nine",
+            "url": "https://en.wikipedia.org/wiki/Nine_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Blink-182_-_Nine.png/220px-Blink-182_-_Nine.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "On Some Emo Shit",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Hungover You",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Happy_Days_(Blink-182_song)",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Happy_Days_%28Blink-182_song%29.jpg/220px-Happy_Days_%28Blink-182_song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Run Away",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Ransom",
+                    "duration": "1:25",
+                    "image": {}
+                },
+                {
+                    "name": "Pin the Grenade",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Remember to Forget Me",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "41:40",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Darkside_(Blink-182_song)",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Darkside_-_Blink-182.jpg/220px-Darkside_-_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Blame_It_on_My_Youth_(Blink-182_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Blame_It_on_My_Youth.jpg/220px-Blame_It_on_My_Youth.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Black Rain",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "No Heart to Speak Of",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "The First Time",
+                    "duration": "2:26",
+                    "image": {}
+                },
+                {
+                    "name": "Generational_Divide",
+                    "duration": "0:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Blink-182_-_Generational_Divide.jpg/220px-Blink-182_-_Generational_Divide.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Really_Wish_I_Hated_You",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/I_Really_Wish_I_Hated_You_-_Blink-182.jpg/220px-I_Really_Wish_I_Hated_You_-_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out of My Head",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "44:03",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "The Mark, Tom and Travis Show (The Enema Strikes Back!)",
+            "url": "https://en.wikipedia.org/wiki/The_Mark,_Tom,_and_Travis_Show_(The_Enema_Strikes_Back!)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Blink-182_-_The_Mark%2C_Tom_and_Travis_Show_%28The_Enema_Strikes_Back%21%29_cover.jpg/220px-Blink-182_-_The_Mark%2C_Tom_and_Travis_Show_%28The_Enema_Strikes_Back%21%29_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 7, 2000"
+            },
+            "tracks": [
+                {
+                    "name": "Mutt_(song)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "The Country Song",
+                    "duration": "1:00",
+                    "image": {}
+                },
+                {
+                    "name": "Man_Overboard_(Blink-182_song)",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Blink-182_-_Man_Overboard_cover.jpg/220px-Blink-182_-_Man_Overboard_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pathetic",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Aliens Exist",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Voyeur",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Going_Away_to_College",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Blow Job",
+                    "duration": "0:41",
+                    "image": {}
+                },
+                {
+                    "name": "Peggy Sue",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Wendy Clear",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Leave Me",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Family_Reunion_(Blink-182_song)",
+                    "duration": "0:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Family_Reunion_Blink_182.jpg/220px-Family_Reunion_Blink_182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dick_Lips",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dick_Lips_Blink.jpg/220px-Dick_Lips_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Untitled",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Dumpweed_%28Live%29.png/220px-Dumpweed_%28Live%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fuck Wiping!",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "I Gotta Go Pee-Pee",
+                    "duration": "0:33",
+                    "image": {}
+                },
+                {
+                    "name": "Santa Will Rape Your Dogs",
+                    "duration": "0:14",
+                    "image": {}
+                },
+                {
+                    "name": "7-Up",
+                    "duration": "0:06",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck You Tom",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "I Wish I Took Guitar Lessons",
+                    "duration": "0:19",
+                    "image": {}
+                },
+                {
+                    "name": "You Shave Your Ass!",
+                    "duration": "0:35",
+                    "image": {}
+                },
+                {
+                    "name": "Smells Like Blood and Feces",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "Someone Lost a Contact Lens",
+                    "duration": "0:25",
+                    "image": {}
+                },
+                {
+                    "name": "Hurt Kid",
+                    "duration": "0:17",
+                    "image": {}
+                },
+                {
+                    "name": "I Know a Guy",
+                    "duration": "0:42",
+                    "image": {}
+                },
+                {
+                    "name": "We Need a New Guitarist",
+                    "duration": "0:17",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Ashamed to Be Myself",
+                    "duration": "0:22",
+                    "image": {}
+                },
+                {
+                    "name": "I Like Your Hair",
+                    "duration": "0:09",
+                    "image": {}
+                },
+                {
+                    "name": "Golf Tournament",
+                    "duration": "0:35",
+                    "image": {}
+                },
+                {
+                    "name": "Safe Sex",
+                    "duration": "0:25",
+                    "image": {}
+                },
+                {
+                    "name": "71:32",
+                    "image": {}
+                },
+                {
+                    "name": "Start My Own Nudist Colony",
+                    "duration": "0:23",
+                    "image": {}
+                },
+                {
+                    "name": "My Boner Just Died",
+                    "duration": "0:11",
+                    "image": {}
+                },
+                {
+                    "name": "Excuse Me, Security Guard",
+                    "duration": "0:22",
+                    "image": {}
+                },
+                {
+                    "name": "Mark's Middle Name",
+                    "duration": "0:10",
+                    "image": {}
+                },
+                {
+                    "name": "I Still Have to Go Pee",
+                    "duration": "0:10",
+                    "image": {}
+                },
+                {
+                    "name": "If I Were a Girl",
+                    "duration": "0:05",
+                    "image": {}
+                },
+                {
+                    "name": "Last Words from Satan",
+                    "duration": "0:56",
+                    "image": {}
+                },
+                {
+                    "name": "The Most Special Kind of Love",
+                    "duration": "0:27",
+                    "image": {}
+                },
+                {
+                    "name": "For All the Ladies...",
+                    "duration": "0:21",
+                    "image": {}
+                },
+                {
+                    "name": "A Note from Your Mom",
+                    "duration": "0:16",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck Everybody Else",
+                    "duration": "0:38",
+                    "image": {}
+                },
+                {
+                    "name": "What I Learned in Fifth Grade",
+                    "duration": "0:07",
+                    "image": {}
+                },
+                {
+                    "name": "Say Some Dirty Words",
+                    "duration": "0:34",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Icon",
+            "url": "https://en.wikipedia.org/wiki/Icon_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Blink-182-icon.jpg/220px-Blink-182-icon.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 19, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "35:10",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Blink-182_-_Greatest_Hits_cover.jpg/220px-Blink-182_-_Greatest_Hits_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 31, 2005"
+            },
+            "tracks": [
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Another_Girl,_Another_Planet#Blink-182",
+                    "duration": "2:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Onlyonesgirl.jpg/220px-Onlyonesgirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "M+M's",
+                    "duration": "2:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/M%2BM%27s_Blink-182.jpg/220px-M%2BM%27s_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_Now",
+                    "duration": "4:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Blink-182_-_Not_Now_cover.jpg/220px-Blink-182_-_Not_Now_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Always_(Blink-182_song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blink-182_-_Always_cover.jpg/220px-Blink-182_-_Always_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Man_Overboard_(Blink-182_song)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Blink-182_-_Man_Overboard_cover.jpg/220px-Blink-182_-_Man_Overboard_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Los_Angeles",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nuvola_apps_arts.svg/16px-Nuvola_apps_arts.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "I_Won't_Be_Home_for_Christmas",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg/220px-Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "BBC_Radio_1",
+                    "duration": "1:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BBC_Radio_1%27s_Teen_Awards_2013.png/220px-BBC_Radio_1%27s_Teen_Awards_2013.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Tell Me It's Over",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "Minneapolis",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https:https://maps.wikimedia.org/img/osm-intl,10,44.9819,-93.2692,280x280.png?lang=en\u0026domain=en.wikipedia.org\u0026title=Minneapolis\u0026revid=1180425594\u0026groups=_eba061e3ab775504f4ce5c9dfc0b4b3ce81d42ba",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Josie",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again?",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "The Rock Show",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Together for the Kids (original version)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Down",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Always",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's Song",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Man Overboard",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "First Date",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem Part Two (live in Chicago)",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel (live in Chicago)",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Down (recording and the video)",
+                    "duration": "5:06",
+                    "image": {}
+                },
+                {
+                    "name": "Greatest Hits Trailer",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in Chicago)",
+                    "duration": "3:36",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Cheshire Cat",
+            "url": "https://en.wikipedia.org/wiki/Cheshire_Cat_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Blink-182_-_Cheshire_Cat_cover.jpg/220px-Blink-182_-_Cheshire_Cat_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "February 17, 1995"
+            },
+            "tracks": [
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Fentoozler",
+                    "duration": "2:05",
+                    "image": {}
+                },
+                {
+                    "name": "Romeo and Rebecca",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                },
+                {
+                    "name": "Touchdown Boy",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Strings",
+                    "duration": "2:26",
+                    "image": {}
+                },
+                {
+                    "name": "Sometimes",
+                    "duration": "1:09",
+                    "image": {}
+                },
+                {
+                    "name": "Toast and Bananas",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Ben Wah Balls",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "M+M's",
+                    "duration": "2:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/M%2BM%27s_Blink-182.jpg/220px-M%2BM%27s_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Does My Breath Smell?",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Cacophony",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "TV",
+                    "duration": "1:42",
+                    "image": {}
+                },
+                {
+                    "name": "Depends",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "Peggy Sue",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Wasting_Time_(Blink-182_song)",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink_182_Wasting_Time.jpg/220px-Blink_182_Wasting_Time.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just About Done",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Zulu",
+                    "duration": "2:06",
+                    "image": {}
+                },
+                {
+                    "name": "Dude_Ranch_(album)",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Blink-182_-_Dude_Ranch_cover.jpg/220px-Blink-182_-_Dude_Ranch_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "46:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Dude Ranch",
+            "url": "https://en.wikipedia.org/wiki/Dude_Ranch_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Blink-182_-_Dude_Ranch_cover.jpg/220px-Blink-182_-_Dude_Ranch_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 17, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Boring",
+                    "duration": "1:41",
+                    "image": {}
+                },
+                {
+                    "name": "Waggy",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Pathetic",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Voyeur",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "44:54",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Enthused",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Degenerate",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "Lemmings",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Dick_Lips",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dick_Lips_Blink.jpg/220px-Dick_Lips_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Untitled",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Apple_Shampoo",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Apple_Shampoo_Blink.jpg/220px-Apple_Shampoo_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Emo",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "A New Hope",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Sorry",
+                    "duration": "5:37",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Sorry",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Dog Lapping (hidden track)",
+                    "duration": "7:07",
+                    "image": {}
+                },
+                {
+                    "name": "50:53",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Enema of the State",
+            "url": "https://en.wikipedia.org/wiki/Enema_of_the_State",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Blink-182_-_Enema_of_the_State_cover.jpg/220px-Blink-182_-_Enema_of_the_State_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 1, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "Dysentery Gary",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Mutt_(song)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in London)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Pathetic (live in Los Angeles)",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Party Song",
+                    "duration": "2:19",
+                    "image": {}
+                },
+                {
+                    "name": "Untitled (live in Los Angeles)",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Aliens_Exist",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Going_Away_to_College",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things (live in London)",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed",
+                    "duration": "2:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Dumpweed_%28Live%29.png/220px-Dumpweed_%28Live%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wendy Clear",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "Aliens Exist (live in Los Angeles)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Aliens Exist (live in Los Angeles)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed (live in London)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Mutt (live in Los Angeles)",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "54:47",
+                    "image": {}
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Leave Me",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "35:17",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "48:39",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit (live in London)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things (single edit)",
+                    "duration": "2:54",
+                    "image": {}
+                },
+                {
+                    "name": "Dumpweed (live in London)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in London)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things (live in London)",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "15:38",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Take Off Your Pants and Jacket",
+            "url": "https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Blink-182_-_Take_Off_Your_Pants_and_Jacket_cover.jpg/220px-Blink-182_-_Take_Off_Your_Pants_and_Jacket_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 12, 2001"
+            },
+            "tracks": [
+                {
+                    "name": "Anthem_Part_Two",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Story of a Lonely Guy",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Roller Coaster",
+                    "duration": "2:47",
+                    "image": {}
+                },
+                {
+                    "name": "Reckless Abandon",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Everytime I Look for You",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Happy Holidays, You Bastard",
+                    "duration": "0:42",
+                    "image": {}
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Please Take Me Home",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Online Songs",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "Give Me One Good Reason",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Shut Up",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "38:56",
+                    "image": {}
+                },
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Time to Break Up",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Mother's Day",
+                    "duration": "1:37",
+                    "image": {}
+                },
+                {
+                    "name": "What Went Wrong",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck a Dog",
+                    "duration": "1:25",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Tell Me It's Over",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "When You Fucked Grandpa",
+                    "duration": "1:39",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Blink-182",
+            "url": "https://en.wikipedia.org/wiki/Blink-182_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Blink-182_-_Blink-182_cover.jpg/220px-Blink-182_-_Blink-182_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 18, 2003"
+            },
+            "tracks": [
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Always_(Blink-182_song)",
+                    "duration": "4:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blink-182_-_Always_cover.jpg/220px-Blink-182_-_Always_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_of_This",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "I'm_Lost_Without_You",
+                    "duration": "6:20",
+                    "image": {}
+                },
+                {
+                    "name": "Violence",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "The Fallen Interlude",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Asthenia",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Easy Target",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "Obvious",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Stockholm_Syndrome_(Blink-182_song)",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Go",
+                    "duration": "1:53",
+                    "image": {}
+                },
+                {
+                    "name": "Here's Your Letter",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "49:21",
+                    "image": {}
+                },
+                {
+                    "name": "Chicago",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USA_Illinois_relief_location_map.svg/250px-USA_Illinois_relief_location_map.svg.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "Not_Now",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Blink-182_-_Not_Now_cover.jpg/220px-Blink-182_-_Not_Now_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Anthem Part Two (live in Chicago)",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Not Now",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "The Rock Show (live in Chicago)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Minneapolis",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https:https://maps.wikimedia.org/img/osm-intl,10,44.9819,-93.2692,280x280.png?lang=en\u0026domain=en.wikipedia.org\u0026title=Minneapolis\u0026revid=1180425594\u0026groups=_eba061e3ab775504f4ce5c9dfc0b4b3ce81d42ba",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "The Rock Show (live in Minneapolis)",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Not Now",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel (live in Chicago)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Down (homemade video)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (music video)",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Always (music video)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Photo gallery (slideshow)",
+                    "duration": "N/A",
+                    "image": {}
+                },
+                {
+                    "name": "Stockholm Syndrome (homemade video)",
+                    "duration": "4:15",
+                    "image": {}
+                },
+                {
+                    "name": "The Fallen Interlude (homemade video)",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Down (music video)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Together for the Kids (alternate music video)",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Down (making of the video)",
+                    "duration": "5:06",
+                    "image": {}
+                },
+                {
+                    "name": "Violence (homemade video)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (music video)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (homemade video)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Obvious (homemade video)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feeling This (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Neighborhoods",
+            "url": "https://en.wikipedia.org/wiki/Neighborhoods_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Blink-182_-_Neighborhoods_cover.jpg/220px-Blink-182_-_Neighborhoods_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 27, 2011"
+            },
+            "tracks": [
+                {
+                    "name": "Ghost_on_the_Dance_Floor",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Up_All_Night_(Blink-182_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Blink-182_-_Up_All_Night_cover.jpg/220px-Blink-182_-_Up_All_Night_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Heart's_All_Gone",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "MH 4.18.2011",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "This Is Home",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Love Is Dangerous",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "36:00",
+                    "image": {}
+                },
+                {
+                    "name": "Natives",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "After_Midnight_(Blink-182_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/After_Midnight_Blink-182.jpg/220px-After_Midnight_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wishing Well",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Kaleidoscope",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Up All Night",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Heart's All Gone Interlude (bonus track)",
+                    "duration": "2:02",
+                    "image": {}
+                },
+                {
+                    "name": "Wishing Well",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "This Is Home",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Fighting the Gravity (bonus track)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Natives",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "After Midnight",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Heart's All Gone",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Love Is Dangerous",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Ghost on the Dance Floor",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Snake Charmer (bonus track)",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Kaleidoscope",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "MH 4.18.2011",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Even If She Falls (bonus track)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "49:12",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "California",
+            "url": "https://en.wikipedia.org/wiki/California_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Blink-182_-_Calfornia.jpg/220px-Blink-182_-_Calfornia.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 1, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "Bored_to_Death_(song)",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Bored_to_Death_Blink-182_Steve_Aoki_Remix.jpg/220px-Bored_to_Death_Blink-182_Steve_Aoki_Remix.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She's_Out_of_Her_Mind",
+                    "duration": "2:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/SOOHM_Blink.jpg/220px-SOOHM_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Built This Pool",
+                    "duration": "0:16",
+                    "image": {}
+                },
+                {
+                    "name": "Home_Is_Such_a_Lonely_Place",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Left Alone",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Sober",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Teenage Satellites",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Brohemian Rhapsody",
+                    "duration": "0:30",
+                    "image": {}
+                },
+                {
+                    "name": "No Future",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "California",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "42:36",
+                    "image": {}
+                },
+                {
+                    "name": "Cynical",
+                    "duration": "1:55",
+                    "image": {}
+                },
+                {
+                    "name": "Los Angeles",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Kings of the Weekend",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Rabbit Hole",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "San Diego",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "The Only Thing That Matters",
+                    "duration": "1:57",
+                    "image": {}
+                },
+                {
+                    "name": "Hey I'm Sorry",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "46:33",
+                    "image": {}
+                },
+                {
+                    "name": "Wildfire",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Long Lost Feeling",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Bottom of the Ocean",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Can't Get You More Pregnant",
+                    "duration": "0:34",
+                    "image": {}
+                },
+                {
+                    "name": "Bored to Death (live and acoustic)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Misery",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Mean Anything",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "6/8",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Parking_Lot_(Blink-182_song)",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Good Old Days",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Hey I'm Sorry (Hoppus/Skiba)",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "37:52",
+                    "image": {}
+                },
+                {
+                    "name": "Last Train Home",
+                    "duration": "3:21",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Nine",
+            "url": "https://en.wikipedia.org/wiki/Nine_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Blink-182_-_Nine.png/220px-Blink-182_-_Nine.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "On Some Emo Shit",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Remember to Forget Me",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "The First Time",
+                    "duration": "2:26",
+                    "image": {}
+                },
+                {
+                    "name": "Generational_Divide",
+                    "duration": "0:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Blink-182_-_Generational_Divide.jpg/220px-Blink-182_-_Generational_Divide.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ransom",
+                    "duration": "1:25",
+                    "image": {}
+                },
+                {
+                    "name": "Happy_Days_(Blink-182_song)",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Happy_Days_%28Blink-182_song%29.jpg/220px-Happy_Days_%28Blink-182_song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Run Away",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Pin the Grenade",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "41:40",
+                    "image": {}
+                },
+                {
+                    "name": "Black Rain",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "I_Really_Wish_I_Hated_You",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/I_Really_Wish_I_Hated_You_-_Blink-182.jpg/220px-I_Really_Wish_I_Hated_You_-_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "No Heart to Speak Of",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Hungover You",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Darkside_(Blink-182_song)",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Darkside_-_Blink-182.jpg/220px-Darkside_-_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Blame_It_on_My_Youth_(Blink-182_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Blame_It_on_My_Youth.jpg/220px-Blame_It_on_My_Youth.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Out of My Head",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "44:03",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "One More Time...",
+            "url": "https://en.wikipedia.org/wiki/One_More_Time...",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Blink-182_-_One_More_Time....png/220px-Blink-182_-_One_More_Time....png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 20, 2023"
+            },
+            "tracks": [
+                {
+                    "name": "Fuck Face",
+                    "duration": "0:27",
+                    "image": {}
+                },
+                {
+                    "name": "Childhood",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "Terrified",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Turn This Off!",
+                    "duration": "0:24",
+                    "image": {}
+                },
+                {
+                    "name": "You_Don't_Know_What_You've_Got_(Blink-182_Song)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Fell_in_Love_(Blink-182_song)",
+                    "duration": "2:18",
+                    "image": {}
+                },
+                {
+                    "name": "Edging_(song)",
+                    "duration": "2:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Blink-182_-_Edging.png/220px-Blink-182_-_Edging.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "One_More_Time_(Blink-182_song)",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "More_Than_You_Know_(Blink-182_song)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "When We Were Young",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "44:35",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem Part 3",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_with_Me_(Blink-182_song)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Hurt (Interlude)",
+                    "duration": "1:22",
+                    "image": {}
+                },
+                {
+                    "name": "Turpentine",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Other Side",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Blink Wave",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Bad News",
+                    "duration": "2:20",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Mark, Tom and Travis Show (The Enema Strikes Back!)",
+            "url": "https://en.wikipedia.org/wiki/The_Mark,_Tom,_and_Travis_Show_(The_Enema_Strikes_Back!)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Blink-182_-_The_Mark%2C_Tom_and_Travis_Show_%28The_Enema_Strikes_Back%21%29_cover.jpg/220px-Blink-182_-_The_Mark%2C_Tom_and_Travis_Show_%28The_Enema_Strikes_Back%21%29_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 7, 2000"
+            },
+            "tracks": [
+                {
+                    "name": "Peggy Sue",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Wendy Clear",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Man_Overboard_(Blink-182_song)",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Blink-182_-_Man_Overboard_cover.jpg/220px-Blink-182_-_Man_Overboard_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Aliens Exist",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Dick_Lips",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dick_Lips_Blink.jpg/220px-Dick_Lips_Blink.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pathetic",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "Mutt_(song)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "The Country Song",
+                    "duration": "1:00",
+                    "image": {}
+                },
+                {
+                    "name": "Going_Away_to_College",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Untitled",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Voyeur",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Leave Me",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Family_Reunion_(Blink-182_song)",
+                    "duration": "0:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Family_Reunion_Blink_182.jpg/220px-Family_Reunion_Blink_182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Blow Job",
+                    "duration": "0:41",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dumpweed",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Dumpweed_%28Live%29.png/220px-Dumpweed_%28Live%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fuck You Tom",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "The Most Special Kind of Love",
+                    "duration": "0:27",
+                    "image": {}
+                },
+                {
+                    "name": "I Know a Guy",
+                    "duration": "0:42",
+                    "image": {}
+                },
+                {
+                    "name": "I Still Have to Go Pee",
+                    "duration": "0:10",
+                    "image": {}
+                },
+                {
+                    "name": "71:32",
+                    "image": {}
+                },
+                {
+                    "name": "I Like Your Hair",
+                    "duration": "0:09",
+                    "image": {}
+                },
+                {
+                    "name": "Smells Like Blood and Feces",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Ashamed to Be Myself",
+                    "duration": "0:22",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck Wiping!",
+                    "duration": "0:18",
+                    "image": {}
+                },
+                {
+                    "name": "Last Words from Satan",
+                    "duration": "0:56",
+                    "image": {}
+                },
+                {
+                    "name": "Say Some Dirty Words",
+                    "duration": "0:34",
+                    "image": {}
+                },
+                {
+                    "name": "A Note from Your Mom",
+                    "duration": "0:16",
+                    "image": {}
+                },
+                {
+                    "name": "What I Learned in Fifth Grade",
+                    "duration": "0:07",
+                    "image": {}
+                },
+                {
+                    "name": "7-Up",
+                    "duration": "0:06",
+                    "image": {}
+                },
+                {
+                    "name": "Safe Sex",
+                    "duration": "0:25",
+                    "image": {}
+                },
+                {
+                    "name": "Hurt Kid",
+                    "duration": "0:17",
+                    "image": {}
+                },
+                {
+                    "name": "I Wish I Took Guitar Lessons",
+                    "duration": "0:19",
+                    "image": {}
+                },
+                {
+                    "name": "If I Were a Girl",
+                    "duration": "0:05",
+                    "image": {}
+                },
+                {
+                    "name": "Santa Will Rape Your Dogs",
+                    "duration": "0:14",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck Everybody Else",
+                    "duration": "0:38",
+                    "image": {}
+                },
+                {
+                    "name": "For All the Ladies...",
+                    "duration": "0:21",
+                    "image": {}
+                },
+                {
+                    "name": "My Boner Just Died",
+                    "duration": "0:11",
+                    "image": {}
+                },
+                {
+                    "name": "I Gotta Go Pee-Pee",
+                    "duration": "0:33",
+                    "image": {}
+                },
+                {
+                    "name": "Golf Tournament",
+                    "duration": "0:35",
+                    "image": {}
+                },
+                {
+                    "name": "Someone Lost a Contact Lens",
+                    "duration": "0:25",
+                    "image": {}
+                },
+                {
+                    "name": "Excuse Me, Security Guard",
+                    "duration": "0:22",
+                    "image": {}
+                },
+                {
+                    "name": "You Shave Your Ass!",
+                    "duration": "0:35",
+                    "image": {}
+                },
+                {
+                    "name": "Start My Own Nudist Colony",
+                    "duration": "0:23",
+                    "image": {}
+                },
+                {
+                    "name": "Mark's Middle Name",
+                    "duration": "0:10",
+                    "image": {}
+                },
+                {
+                    "name": "We Need a New Guitarist",
+                    "duration": "0:17",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Blink-182_-_Greatest_Hits_cover.jpg/220px-Blink-182_-_Greatest_Hits_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 31, 2005"
+            },
+            "tracks": [
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Man_Overboard_(Blink-182_song)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Blink-182_-_Man_Overboard_cover.jpg/220px-Blink-182_-_Man_Overboard_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "M+M's",
+                    "duration": "2:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/M%2BM%27s_Blink-182.jpg/220px-M%2BM%27s_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_Now",
+                    "duration": "4:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Blink-182_-_Not_Now_cover.jpg/220px-Blink-182_-_Not_Now_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Always_(Blink-182_song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blink-182_-_Always_cover.jpg/220px-Blink-182_-_Always_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Another_Girl,_Another_Planet#Blink-182",
+                    "duration": "2:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Onlyonesgirl.jpg/220px-Onlyonesgirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Los_Angeles",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nuvola_apps_arts.svg/16px-Nuvola_apps_arts.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "I_Won't_Be_Home_for_Christmas",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg/220px-Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "BBC_Radio_1",
+                    "duration": "1:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BBC_Radio_1%27s_Teen_Awards_2013.png/220px-BBC_Radio_1%27s_Teen_Awards_2013.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Tell Me It's Over",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "Minneapolis",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https:https://maps.wikimedia.org/img/osm-intl,10,44.9819,-93.2692,280x280.png?lang=en\u0026domain=en.wikipedia.org\u0026title=Minneapolis\u0026revid=1180425594\u0026groups=_eba061e3ab775504f4ce5c9dfc0b4b3ce81d42ba",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Josie",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "The Rock Show",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Down",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "First Date",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again?",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Man Overboard",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's Song",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Together for the Kids (original version)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Always",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel (live in Chicago)",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Down (recording and the video)",
+                    "duration": "5:06",
+                    "image": {}
+                },
+                {
+                    "name": "Greatest Hits Trailer",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in Chicago)",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem Part Two (live in Chicago)",
+                    "duration": "2:34",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Icon",
+            "url": "https://en.wikipedia.org/wiki/Icon_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Blink-182-icon.jpg/220px-Blink-182-icon.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 19, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "35:10",
+                    "image": {}
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Urethra Chronicles",
+            "url": "https://en.wikipedia.org/wiki/The_Urethra_Chronicles",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Blink-182_-_The_Urethra_Chronicles_cover.jpg",
+                "width": 210,
+                "height": 210
+            },
+            "album_release": {}
+        },
+        {
+            "name": "The Urethra Chronicles II: Harder Faster Faster Harder",
+            "url": "https://en.wikipedia.org/wiki/The_Urethra_Chronicles_II:_Harder_Faster_Faster_Harder",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/b/b1/Blink-182_-_The_Urethra_Chronicles_II-Harder_Faster_Faster_Harder_cover.jpg",
+                "width": 211,
+                "height": 211
+            },
+            "album_release": {}
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Blink-182_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Blink-182_-_Greatest_Hits_cover.jpg/220px-Blink-182_-_Greatest_Hits_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 31, 2005"
+            },
+            "tracks": [
+                {
+                    "name": "Josie_(Blink-182_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Blink-182_-_Josie_cover.jpg/220px-Blink-182_-_Josie_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All_the_Small_Things",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Jedward_All-The-Small.jpg/220px-Jedward_All-The-Small.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Man_Overboard_(Blink-182_song)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Blink-182_-_Man_Overboard_cover.jpg/220px-Blink-182_-_Man_Overboard_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Rock_Show",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Blink-182_-_The_Rock_Show_cover.jpg/220px-Blink-182_-_The_Rock_Show_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_Together_for_the_Kids",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Blink-182_-_Stay_Together_for_the_Kids_cover.jpg/220px-Blink-182_-_Stay_Together_for_the_Kids_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Down_(Blink-182_song)",
+                    "duration": "3:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Blink-182_-_Down_cover.jpg/220px-Blink-182_-_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adam's_Song",
+                    "duration": "4:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Blink-182_-_Adam%27s_Song_cover.jpg/220px-Blink-182_-_Adam%27s_Song_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Miss_You_(Blink-182_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Blink-182_-_I_Miss_You_cover.jpg/220px-Blink-182_-_I_Miss_You_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What's_My_Age_Again%3F",
+                    "duration": "2:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/What%27s_My_Age_Again%3F_A_Milli.png/220px-What%27s_My_Age_Again%3F_A_Milli.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "First_Date_(Blink-182_song)",
+                    "duration": "2:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FirstDateblink182.jpg/220px-FirstDateblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feeling_This",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Blink-182_-_Feeling_This_cover.jpg/220px-Blink-182_-_Feeling_This_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Always_(Blink-182_song)",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Blink-182_-_Always_cover.jpg/220px-Blink-182_-_Always_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Another_Girl,_Another_Planet#Blink-182",
+                    "duration": "2:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Onlyonesgirl.jpg/220px-Onlyonesgirl.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carousel_(Blink-182_song)",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "M+M's",
+                    "duration": "2:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/M%2BM%27s_Blink-182.jpg/220px-M%2BM%27s_Blink-182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dammitblink182.jpg/220px-Dammitblink182.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_Now",
+                    "duration": "4:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Blink-182_-_Not_Now_cover.jpg/220px-Blink-182_-_Not_Now_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Los_Angeles",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nuvola_apps_arts.svg/16px-Nuvola_apps_arts.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "I_Won't_Be_Home_for_Christmas",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg/220px-Blink-182_-_I_Won%27t_Be_Home_for_Christmas_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "BBC_Radio_1",
+                    "duration": "1:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/BBC_Radio_1%27s_Teen_Awards_2013.png/220px-BBC_Radio_1%27s_Teen_Awards_2013.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Minneapolis",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https:https://maps.wikimedia.org/img/osm-intl,10,44.9819,-93.2692,280x280.png?lang=en\u0026domain=en.wikipedia.org\u0026title=Minneapolis\u0026revid=1180425594\u0026groups=_eba061e3ab775504f4ce5c9dfc0b4b3ce81d42ba",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Tell Me It's Over",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "I Won't Be Home for Christmas",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Adam's Song",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Dammit",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again?",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "All the Small Things",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "First Date",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Down",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Always",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Together for the Kids (original version)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Josie",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Man Overboard",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "The Rock Show",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Anthem Part Two (live in Chicago)",
+                    "duration": "2:34",
+                    "image": {}
+                },
+                {
+                    "name": "Carousel (live in Chicago)",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Feeling This (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "I Miss You (making of the video)",
+                    "duration": "2:01",
+                    "image": {}
+                },
+                {
+                    "name": "Down (recording and the video)",
+                    "duration": "5:06",
+                    "image": {}
+                },
+                {
+                    "name": "Greatest Hits Trailer",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "What's My Age Again? (live in Chicago)",
+                    "duration": "3:36",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

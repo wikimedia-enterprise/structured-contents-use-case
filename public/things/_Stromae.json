@@ -1,0 +1,963 @@
+{
+    "name": "Stromae",
+    "has_occupation": [
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "rapper"
+        },
+        {
+            "name": "recording artist"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "Grand prix de la francophonie",
+        "Victoires de la Musique – Male artist of the year",
+        "Knight of the National Order of the Golden Paper Cone"
+    ],
+    "genres": [
+        "hip hop music"
+    ],
+    "albums": [
+        {
+            "name": "Racine carrée",
+            "url": "https://en.wikipedia.org/wiki/Racine_carr%C3%A9e",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Racine_Carree_Stromae_Cover.jpg/220px-Racine_Carree_Stromae_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "16 August 2013"
+            },
+            "tracks": [
+                {
+                    "name": "Ave_Cesaria",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Formidable_(song)",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Cheyenne_Toney_-_Formidable.jpg",
+                        "width": 170,
+                        "height": 170
+                    }
+                },
+                {
+                    "name": "Tous_les_mêmes",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Tous-les-memes-by-stromae.jpg/220px-Tous-les-memes-by-stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moules frites",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Carmen_(Stromae_song)",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Humain_à_l'eau",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Maître_Gims",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "45:31",
+                    "image": {}
+                },
+                {
+                    "name": "Ta_fête",
+                    "duration": "2:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg/220px-Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bâtard_(song)",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Sommeil",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Papaoutai",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Stromae-Papaoutai.jpg/220px-Stromae-Papaoutai.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Quand c'est?",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Merci",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Angel_Haze",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Angel_Haze.jpg/220px-Angel_Haze.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "49:22",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Multitude",
+            "url": "https://en.wikipedia.org/wiki/Multitude_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Stromae_Multitude_cover.jpg/220px-Stromae_Multitude_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "4 March 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Mauvaise journée",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "35:42",
+                    "image": {}
+                },
+                {
+                    "name": "Invaincu",
+                    "duration": "2:05",
+                    "image": {}
+                },
+                {
+                    "name": "Santé_(song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sant%C3%A9_Stromae.jpg/220px-Sant%C3%A9_Stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "C'est que du bonheur",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Riez",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Déclaration",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "La solassitude",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Fils_de_joie",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Stromae_-_Fils_de_joie.png/220px-Stromae_-_Fils_de_joie.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "L'enfer_(song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Stromae_-_L%27enfer.png/220px-Stromae_-_L%27enfer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pas vraiment",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Bonne journée",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Mon_amour_(Stromae_and_Camila_Cabello_song)",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Mon_amour_cover.jpg/220px-Mon_amour_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Cheese",
+            "url": "https://en.wikipedia.org/wiki/Cheese_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Cheese_Stromae.jpg/220px-Cheese_Stromae.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "14 June 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Summertime",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Silence_(Stromae_song)",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "Te_Quiero_(Stromae_song)",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Stromae_-_te_quiero.jpg/220px-Stromae_-_te_quiero.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Peace_or_Violence",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Peace_or_violence.jpg/220px-Peace_or_violence.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rail de musique",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Je Cours",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "House'llelujah",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Stromae_-_House%27llelujah.jpg/220px-Stromae_-_House%27llelujah.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cheese",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Bienvenue chez moi",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Alors_on_danse",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alors_on_danse.jpg/220px-Alors_on_danse.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dodo",
+                    "duration": "3:58",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Freestyle Finest(\u0026 Gandhi, K-Deeja)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Mixture Elecstro(\u0026 DJ Psar)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Racine carrée Live",
+            "url": "https://en.wikipedia.org/wiki/Racine_carr%C3%A9e_Live",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Racine_carr%C3%A9e_Live.jpg/220px-Racine_carr%C3%A9e_Live.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "11 December 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Intro",
+                    "image": {}
+                },
+                {
+                    "name": "Ta_fête",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg/220px-Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Peace_or_Violence",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Peace_or_violence.jpg/220px-Peace_or_violence.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Te_Quiero_(Stromae_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Stromae_-_te_quiero.jpg/220px-Stromae_-_te_quiero.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sommeil",
+                    "image": {}
+                },
+                {
+                    "name": "Quand c'est?",
+                    "image": {}
+                },
+                {
+                    "name": "Je_cours",
+                    "image": {}
+                },
+                {
+                    "name": "Formidable_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Cheyenne_Toney_-_Formidable.jpg",
+                        "width": 170,
+                        "height": 170
+                    }
+                },
+                {
+                    "name": "Carmen_(Stromae_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Push_the_Feeling_On",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Push_the_feeling_on.jpg/220px-Push_the_feeling_on.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Papaoutai",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Stromae-Papaoutai.jpg/220px-Stromae-Papaoutai.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moules frites",
+                    "image": {}
+                },
+                {
+                    "name": "Silence_(Stromae_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Tous les mêmes (A capella)",
+                    "image": {}
+                },
+                {
+                    "name": "Bâtard",
+                    "image": {}
+                },
+                {
+                    "name": "Ave_Cesaria",
+                    "image": {}
+                },
+                {
+                    "name": "Humain à l'eau",
+                    "image": {}
+                },
+                {
+                    "name": "Rhythm_Is_a_Dancer",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhythm_is_a_dancer_2008.jpg/220px-Rhythm_is_a_dancer_2008.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Merci",
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "name": "Tous_les_mêmes",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Tous-les-memes-by-stromae.jpg/220px-Tous-les-memes-by-stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Alors_on_danse",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alors_on_danse.jpg/220px-Alors_on_danse.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gypsy Woman (Crystal Waters song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Gypsy_Woman_%28She%27s_Homeless%29_%28Crystal_Waters_single_-_cover_art%29.jpg/220px-Gypsy_Woman_%28She%27s_Homeless%29_%28Crystal_Waters_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Insomnia_(Faithless_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/JH_MC_-_Insomnia_single.jpg/220px-JH_MC_-_Insomnia_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cheese + Racine carrée",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Juste un cerveau, un flow, un fond et un mic…",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Cheese",
+            "url": "https://en.wikipedia.org/wiki/Cheese_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Cheese_Stromae.jpg/220px-Cheese_Stromae.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "14 June 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Peace_or_Violence",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Peace_or_violence.jpg/220px-Peace_or_violence.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dodo",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Bienvenue chez moi",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Te_Quiero_(Stromae_song)",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Stromae_-_te_quiero.jpg/220px-Stromae_-_te_quiero.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rail de musique",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Alors_on_danse",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alors_on_danse.jpg/220px-Alors_on_danse.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Summertime",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Silence_(Stromae_song)",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "Je Cours",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "House'llelujah",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Stromae_-_House%27llelujah.jpg/220px-Stromae_-_House%27llelujah.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cheese",
+                    "duration": "3:02",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Racine carrée",
+            "url": "https://en.wikipedia.org/wiki/Racine_carr%C3%A9e",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Racine_Carree_Stromae_Cover.jpg/220px-Racine_Carree_Stromae_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "16 August 2013"
+            },
+            "tracks": [
+                {
+                    "name": "Ta_fête",
+                    "duration": "2:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg/220px-Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Papaoutai",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Stromae-Papaoutai.jpg/220px-Stromae-Papaoutai.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tous_les_mêmes",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Tous-les-memes-by-stromae.jpg/220px-Tous-les-memes-by-stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moules frites",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Formidable_(song)",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Cheyenne_Toney_-_Formidable.jpg",
+                        "width": 170,
+                        "height": 170
+                    }
+                },
+                {
+                    "name": "Carmen_(Stromae_song)",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Humain_à_l'eau",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Sommeil",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Merci",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Maître_Gims",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "Bâtard_(song)",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Ave_Cesaria",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Quand c'est?",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "45:31",
+                    "image": {}
+                },
+                {
+                    "name": "49:22",
+                    "image": {}
+                },
+                {
+                    "name": "Angel_Haze",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Angel_Haze.jpg/220px-Angel_Haze.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Multitude",
+            "url": "https://en.wikipedia.org/wiki/Multitude_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Stromae_Multitude_cover.jpg/220px-Stromae_Multitude_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "4 March 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Invaincu",
+                    "duration": "2:05",
+                    "image": {}
+                },
+                {
+                    "name": "Pas vraiment",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Déclaration",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Mauvaise journée",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "La solassitude",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "C'est que du bonheur",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Mon_amour_(Stromae_and_Camila_Cabello_song)",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Mon_amour_cover.jpg/220px-Mon_amour_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bonne journée",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Santé_(song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sant%C3%A9_Stromae.jpg/220px-Sant%C3%A9_Stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "L'enfer_(song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Stromae_-_L%27enfer.png/220px-Stromae_-_L%27enfer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fils_de_joie",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Stromae_-_Fils_de_joie.png/220px-Stromae_-_Fils_de_joie.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Riez",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "35:42",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Racine carrée Live",
+            "url": "https://en.wikipedia.org/wiki/Racine_carr%C3%A9e_Live",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Racine_carr%C3%A9e_Live.jpg/220px-Racine_carr%C3%A9e_Live.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "11 December 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Bâtard",
+                    "image": {}
+                },
+                {
+                    "name": "Quand c'est?",
+                    "image": {}
+                },
+                {
+                    "name": "Merci",
+                    "image": {}
+                },
+                {
+                    "name": "Tous les mêmes (A capella)",
+                    "image": {}
+                },
+                {
+                    "name": "Push_the_Feeling_On",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Push_the_feeling_on.jpg/220px-Push_the_feeling_on.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gypsy Woman (Crystal Waters song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Gypsy_Woman_%28She%27s_Homeless%29_%28Crystal_Waters_single_-_cover_art%29.jpg/220px-Gypsy_Woman_%28She%27s_Homeless%29_%28Crystal_Waters_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Insomnia_(Faithless_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/JH_MC_-_Insomnia_single.jpg/220px-JH_MC_-_Insomnia_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Intro",
+                    "image": {}
+                },
+                {
+                    "name": "Tous_les_mêmes",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Tous-les-memes-by-stromae.jpg/220px-Tous-les-memes-by-stromae.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ave_Cesaria",
+                    "image": {}
+                },
+                {
+                    "name": "Moules frites",
+                    "image": {}
+                },
+                {
+                    "name": "Alors_on_danse",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alors_on_danse.jpg/220px-Alors_on_danse.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Silence_(Stromae_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Carmen_(Stromae_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Ta_fête",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg/220px-Stromae_-_Ta_f%C3%AAte_%28Official_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Te_Quiero_(Stromae_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Stromae_-_te_quiero.jpg/220px-Stromae_-_te_quiero.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sommeil",
+                    "image": {}
+                },
+                {
+                    "name": "Je_cours",
+                    "image": {}
+                },
+                {
+                    "name": "Formidable_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/19/Cheyenne_Toney_-_Formidable.jpg",
+                        "width": 170,
+                        "height": 170
+                    }
+                },
+                {
+                    "name": "Peace_or_Violence",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Peace_or_violence.jpg/220px-Peace_or_violence.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Humain à l'eau",
+                    "image": {}
+                },
+                {
+                    "name": "Rhythm_Is_a_Dancer",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhythm_is_a_dancer_2008.jpg/220px-Rhythm_is_a_dancer_2008.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Papaoutai",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Stromae-Papaoutai.jpg/220px-Stromae-Papaoutai.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Cheese + Racine carrée",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

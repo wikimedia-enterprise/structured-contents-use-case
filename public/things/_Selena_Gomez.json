@@ -1,0 +1,1900 @@
+{
+    "name": "Selena_Gomez",
+    "has_occupation": [
+        {
+            "name": "singer"
+        },
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "actor"
+        },
+        {
+            "name": "voice actor"
+        },
+        {
+            "name": "model"
+        },
+        {
+            "name": "fashion designer"
+        },
+        {
+            "name": "filmmaker"
+        },
+        {
+            "name": "businessperson"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "2009 Teen Choice Awards",
+        "2010 Teen Choice Awards",
+        "2011 Teen Choice Awards",
+        "2012 Teen Choice Awards",
+        "2013 Teen Choice Awards",
+        "2014 Teen Choice Awards",
+        "American Music Award for Favorite Pop/Rock Female Artist",
+        "MuchMusic Video Award for Peoples Choice: Favourite International Video",
+        "Los Premios 40 Principales for Best International Video",
+        "MTV Video Music Award for Best Pop Video",
+        "Leading Ladies of Entertainment"
+    ],
+    "genres": [
+        "pop music",
+        "dance-pop",
+        "electropop",
+        "pop rock",
+        "rock music",
+        "heavy metal"
+    ],
+    "albums": [
+        {
+            "name": "Stars Dance",
+            "url": "https://en.wikipedia.org/wiki/Stars_Dance",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stars_Dance.png/220px-Stars_Dance.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 19, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "Come_\u0026_Get_It_(Selena_Gomez_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Come_%26_Get_It_cover.png/220px-Come_%26_Get_It_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Forget Forever",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Save the Day",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Write Your Name",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Undercover",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Love Will Remember",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Slow_Down_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Selena_Gomez_-_Slow_Down.png/220px-Selena_Gomez_-_Slow_Down.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stars Dance",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Like a Champion",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "B.E.A.T.",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "39:07",
+                    "image": {}
+                },
+                {
+                    "name": "Birthday_(Selena_Gomez_song)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody Does It Like You",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Music Feels Better",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "46:14",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (DJ Laszlo Club Remix)",
+                    "duration": "7:42",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (Cosmic Dawn Club Mix)",
+                    "duration": "6:28",
+                    "image": {}
+                },
+                {
+                    "name": "Dave_Audé",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "50:06",
+                    "image": {}
+                },
+                {
+                    "name": "Lover in Me",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "I Like It That Way",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "53:54",
+                    "image": {}
+                },
+                {
+                    "name": "Jump_Smokers",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "57:34",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (music video)",
+                    "duration": "4:50",
+                    "image": {}
+                },
+                {
+                    "name": "Slow Down (music video)",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Stars Dance (track by track)",
+                    "duration": "9:03",
+                    "image": {}
+                },
+                {
+                    "name": "17:51",
+                    "image": {}
+                },
+                {
+                    "name": "Who_Says_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg/220px-Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love You like a Love Song",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg/220px-Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Come \u0026 Get It (live at Walmart Soundcheck)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Naturally_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NaturallyEurope.jpeg/220px-NaturallyEurope.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "17:32",
+                    "image": {}
+                },
+                {
+                    "name": "Hit_the_Lights_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Hithelights.jpg/220px-Hithelights.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Revival",
+            "url": "https://en.wikipedia.org/wiki/Revival_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 9, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Camouflage",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Survivors",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Body Heat",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "39:24",
+                    "image": {}
+                },
+                {
+                    "name": "Revival",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Hands_to_Myself",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Selena_Gomez_-_Hands_to_Myself_single_cover.png/220px-Selena_Gomez_-_Hands_to_Myself_single_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Same_Old_Love",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Same_Old_Love_by_Selena_Gomez.png/220px-Same_Old_Love_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sober_(Selena_Gomez_song)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Kill_Em_with_Kindness",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Kill_Em_With_Kindness_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Kill_Em_With_Kindness_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Good_for_You_(song)",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Selena_Gomez_-_Good_For_You_%28Official_Single_Cover%29.png/220px-Selena_Gomez_-_Good_For_You_%28Official_Single_Cover%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Me_\u0026_the_Rhythm",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Selena_Gomez_-_Me_%26_the_Rhythm_%28Official_Single_Cover%29.png/220px-Selena_Gomez_-_Me_%26_the_Rhythm_%28Official_Single_Cover%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rise",
+                    "duration": "2:47",
+                    "image": {}
+                },
+                {
+                    "name": "Me \u0026 My Girls",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "50:33",
+                    "image": {}
+                },
+                {
+                    "name": "Outta My Hands (Loco)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Cologne",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "57:58",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (featuring A$AP Rocky) (KASBO Remix)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "61:39",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (music video)",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (making of)",
+                    "duration": "4:49",
+                    "image": {}
+                },
+                {
+                    "name": "8:04",
+                    "image": {}
+                },
+                {
+                    "name": "Hands to Myself (Kandy Remix)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Borgore",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Borgore_0037.jpg/220px-Borgore_0037.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Good for You (featuring A$AP Rocky) (Nebbra Remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "70:00",
+                    "image": {}
+                },
+                {
+                    "name": "The Revival Event",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Same Old Love (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Hands to Myself (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Kill Em with Kindness (music video)",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Rare",
+            "url": "https://en.wikipedia.org/wiki/Rare_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Selena_Gomez_-_Rare_%28Deluxe%29.png/220px-Selena_Gomez_-_Rare_%28Deluxe%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "January 10, 2020"
+            },
+            "tracks": [
+                {
+                    "name": "Look_at_Her_Now",
+                    "duration": "2:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Selena_Gomez_-_Look_at_Her_Now.png/220px-Selena_Gomez_-_Look_at_Her_Now.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ring",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kinda Crazy",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_Again_(Selena_Gomez_song)",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "People You Know",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Let Me Get Me",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Cut You Off",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Kid_Cudi",
+                    "duration": "4:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Rare_(Selena_Gomez_song)",
+                    "duration": "3:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Selena_Gomez_-_Rare_%28Live_from_the_Village_studio%29.png/220px-Selena_Gomez_-_Rare_%28Live_from_the_Village_studio%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lose_You_to_Love_Me",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Selena_Gomez_-_Lose_You_to_Love_Me.png/220px-Selena_Gomez_-_Lose_You_to_Love_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Vulnerable_(Selena_Gomez_song)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Fun",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "59:09",
+                    "image": {}
+                },
+                {
+                    "name": "Bad_Liar_(Selena_Gomez_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Bad_Liar_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Bad_Liar_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fetish_(song)",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Fetish_%28featuring_Gucci_Mane%29_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Fetish_%28featuring_Gucci_Mane%29_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Ain't_Me",
+                    "duration": "3:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/It_Ain%27t_Me_%28Official_Single_Cover%29_by_Kygo_%26_Selena_Gomez.png/220px-It_Ain%27t_Me_%28Official_Single_Cover%29_by_Kygo_%26_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Back_to_You_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Selena_Gomez_-_Back_to_You_%28Artwork%29.jpg/220px-Selena_Gomez_-_Back_to_You_%28Artwork%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wolves_(Selena_Gomez_and_Marshmello_song)",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Selena_Gomez_and_Marshmello_Wolves.jpg/220px-Selena_Gomez_and_Marshmello_Wolves.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feel_Me_(Selena_Gomez_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Selena_Gomez_-_Feel_Me.png/220px-Selena_Gomez_-_Feel_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "45:38",
+                    "image": {}
+                },
+                {
+                    "name": "Boyfriend_(Selena_Gomez_song)",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Souvenir",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "She",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Feel Me",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "53:55",
+                    "image": {}
+                },
+                {
+                    "name": "Vulnerable",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "53:55",
+                    "image": {}
+                },
+                {
+                    "name": "Boyfriend",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Rare",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Ring",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "A Sweeter Place (featuring Kid Cudi)",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "Cut You Off",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Fun",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Souvenir",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Crowded Room (with 6lack)",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Dance Again",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "People You Know",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Let Me Get Me",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "She",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Kinda Crazy",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Feel Me",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me (music video)",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me (behind the scenes)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now (music video)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now (behind the scenes)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "12:25",
+                    "image": {}
+                },
+                {
+                    "name": "20:45",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (music video)",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (behind the scenes)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (live from The Village Studio)",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "Dance Again (performance video)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Revival_Tour",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Selena_Gomez_-_Revival_Tour_poster.png/220px-Selena_Gomez_-_Revival_Tour_poster.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Boyfriend (music video)",
+                    "duration": "2:55",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "For You",
+            "url": "https://en.wikipedia.org/wiki/For_You_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Selena_Gomez_-_For_You_%28Official_Album_Cover%29.png/220px-Selena_Gomez_-_For_You_%28Official_Album_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 24, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "A_Year_Without_Rain_(song)",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Selena_Gomez_%26_the_Scene_-_A_Year_Without_Rain_%28single_cover%29.jpg/220px-Selena_Gomez_%26_the_Scene_-_A_Year_Without_Rain_%28single_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Más (Spanish version of More)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Do It",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "51:52",
+                    "image": {}
+                },
+                {
+                    "name": "The_Heart_Wants_What_It_Wants",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/The_Heart_Wants_What_It_Wants_Selena_Gomez_cover.png/220px-The_Heart_Wants_What_It_Wants_Selena_Gomez_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stars Dance",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stars_Dance.png/220px-Stars_Dance.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Slow_Down_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Selena_Gomez_-_Slow_Down.png/220px-Selena_Gomez_-_Slow_Down.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Falling_Down_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Falling_Down_cover.jpg/220px-Falling_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My Dilemma 2.0",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Love_You_like_a_Love_Song",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg/220px-Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Round_\u0026_Round_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Roundandroundcover.jpg/220px-Roundandroundcover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Naturally_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "4:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NaturallyEurope.jpeg/220px-NaturallyEurope.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Come_\u0026_Get_It_(Selena_Gomez_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Come_%26_Get_It_cover.png/220px-Come_%26_Get_It_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Who_Says_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg/220px-Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bidi_Bidi_Bom_Bom",
+                    "duration": "4:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Bbbbselena.jpg",
+                        "width": 184,
+                        "height": 184
+                    }
+                },
+                {
+                    "name": "Tell_Me_Something_I_Don't_Know_(Selena_Gomez_song)",
+                    "duration": "2:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Tell_Me_Something_I_Don%27t_Know.jpg/220px-Tell_Me_Something_I_Don%27t_Know.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Heart Wants What It Wants (music video)",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "56:27",
+                    "image": {}
+                },
+                {
+                    "name": "The_Midnight_Beast",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Midnight_Beast%2C_Brighton_Corn_Exchange%2C_Great_Escape_2013_%288750975964%29.jpg/220px-Midnight_Beast%2C_Brighton_Corn_Exchange%2C_Great_Escape_2013_%288750975964%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Do It",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Más (More – Spanish version)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "13:43",
+                    "image": {}
+                },
+                {
+                    "name": "The Heart Wants What It Wants",
+                    "duration": "3:47",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Love You Like a Love Song, Come \u0026 Get It, and More",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Stars Dance",
+            "url": "https://en.wikipedia.org/wiki/Stars_Dance",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stars_Dance.png/220px-Stars_Dance.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 19, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "Birthday_(Selena_Gomez_song)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Slow_Down_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Selena_Gomez_-_Slow_Down.png/220px-Selena_Gomez_-_Slow_Down.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Like a Champion",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "B.E.A.T.",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Love Will Remember",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Stars Dance",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Come_\u0026_Get_It_(Selena_Gomez_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Come_%26_Get_It_cover.png/220px-Come_%26_Get_It_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Forget Forever",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Save the Day",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Write Your Name",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Undercover",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "39:07",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody Does It Like You",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Music Feels Better",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "46:14",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (DJ Laszlo Club Remix)",
+                    "duration": "7:42",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (Cosmic Dawn Club Mix)",
+                    "duration": "6:28",
+                    "image": {}
+                },
+                {
+                    "name": "50:06",
+                    "image": {}
+                },
+                {
+                    "name": "Dave_Audé",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Lover in Me",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "I Like It That Way",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "53:54",
+                    "image": {}
+                },
+                {
+                    "name": "Jump_Smokers",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "57:34",
+                    "image": {}
+                },
+                {
+                    "name": "Slow Down (music video)",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Stars Dance (track by track)",
+                    "duration": "9:03",
+                    "image": {}
+                },
+                {
+                    "name": "17:51",
+                    "image": {}
+                },
+                {
+                    "name": "Come \u0026 Get It (music video)",
+                    "duration": "4:50",
+                    "image": {}
+                },
+                {
+                    "name": "Love You like a Love Song",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg/220px-Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Come \u0026 Get It (live at Walmart Soundcheck)",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Naturally_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NaturallyEurope.jpeg/220px-NaturallyEurope.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "17:32",
+                    "image": {}
+                },
+                {
+                    "name": "Hit_the_Lights_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Hithelights.jpg/220px-Hithelights.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Who_Says_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg/220px-Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Revival",
+            "url": "https://en.wikipedia.org/wiki/Revival_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png/220px-Selena_Gomez_-_Revival_%28Official_Standard_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 9, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Rise",
+                    "duration": "2:47",
+                    "image": {}
+                },
+                {
+                    "name": "Hands_to_Myself",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Selena_Gomez_-_Hands_to_Myself_single_cover.png/220px-Selena_Gomez_-_Hands_to_Myself_single_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Same_Old_Love",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Same_Old_Love_by_Selena_Gomez.png/220px-Same_Old_Love_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Me_\u0026_the_Rhythm",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Selena_Gomez_-_Me_%26_the_Rhythm_%28Official_Single_Cover%29.png/220px-Selena_Gomez_-_Me_%26_the_Rhythm_%28Official_Single_Cover%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Body Heat",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Camouflage",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Survivors",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "39:24",
+                    "image": {}
+                },
+                {
+                    "name": "Revival",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Kill_Em_with_Kindness",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Kill_Em_With_Kindness_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Kill_Em_With_Kindness_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sober_(Selena_Gomez_song)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Good_for_You_(song)",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Selena_Gomez_-_Good_For_You_%28Official_Single_Cover%29.png/220px-Selena_Gomez_-_Good_For_You_%28Official_Single_Cover%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Me \u0026 My Girls",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Perfect",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "50:33",
+                    "image": {}
+                },
+                {
+                    "name": "Outta My Hands (Loco)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Cologne",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "57:58",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (featuring A$AP Rocky) (KASBO Remix)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "61:39",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (making of)",
+                    "duration": "4:49",
+                    "image": {}
+                },
+                {
+                    "name": "8:04",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (music video)",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "Borgore",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Borgore_0037.jpg/220px-Borgore_0037.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Good for You (featuring A$AP Rocky) (Nebbra Remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "70:00",
+                    "image": {}
+                },
+                {
+                    "name": "Hands to Myself (Kandy Remix)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "The Revival Event",
+                    "image": {}
+                },
+                {
+                    "name": "Good for You (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Same Old Love (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Hands to Myself (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Kill Em with Kindness (music video)",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Rare",
+            "url": "https://en.wikipedia.org/wiki/Rare_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Selena_Gomez_-_Rare_%28Deluxe%29.png/220px-Selena_Gomez_-_Rare_%28Deluxe%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "January 10, 2020"
+            },
+            "tracks": [
+                {
+                    "name": "Rare_(Selena_Gomez_song)",
+                    "duration": "3:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Selena_Gomez_-_Rare_%28Live_from_the_Village_studio%29.png/220px-Selena_Gomez_-_Rare_%28Live_from_the_Village_studio%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "People You Know",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Kinda Crazy",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Cut You Off",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Let Me Get Me",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Kid_Cudi",
+                    "duration": "4:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Lose_You_to_Love_Me",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Selena_Gomez_-_Lose_You_to_Love_Me.png/220px-Selena_Gomez_-_Lose_You_to_Love_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Vulnerable_(Selena_Gomez_song)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Fun",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_Again_(Selena_Gomez_song)",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "Look_at_Her_Now",
+                    "duration": "2:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Selena_Gomez_-_Look_at_Her_Now.png/220px-Selena_Gomez_-_Look_at_Her_Now.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ring",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bad_Liar_(Selena_Gomez_song)",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Bad_Liar_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Bad_Liar_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fetish_(song)",
+                    "duration": "3:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Fetish_%28featuring_Gucci_Mane%29_%28Official_Single_Cover%29_by_Selena_Gomez.png/220px-Fetish_%28featuring_Gucci_Mane%29_%28Official_Single_Cover%29_by_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Ain't_Me",
+                    "duration": "3:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/It_Ain%27t_Me_%28Official_Single_Cover%29_by_Kygo_%26_Selena_Gomez.png/220px-It_Ain%27t_Me_%28Official_Single_Cover%29_by_Kygo_%26_Selena_Gomez.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Back_to_You_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Selena_Gomez_-_Back_to_You_%28Artwork%29.jpg/220px-Selena_Gomez_-_Back_to_You_%28Artwork%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wolves_(Selena_Gomez_and_Marshmello_song)",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Selena_Gomez_and_Marshmello_Wolves.jpg/220px-Selena_Gomez_and_Marshmello_Wolves.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "59:09",
+                    "image": {}
+                },
+                {
+                    "name": "Feel_Me_(Selena_Gomez_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Selena_Gomez_-_Feel_Me.png/220px-Selena_Gomez_-_Feel_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "45:38",
+                    "image": {}
+                },
+                {
+                    "name": "Boyfriend_(Selena_Gomez_song)",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Souvenir",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "She",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Feel Me",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "53:55",
+                    "image": {}
+                },
+                {
+                    "name": "Rare",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Souvenir",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Ring",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "A Sweeter Place (featuring Kid Cudi)",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "Let Me Get Me",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Boyfriend",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Cut You Off",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Feel Me",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "She",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Vulnerable",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Dance Again",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Crowded Room (with 6lack)",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "People You Know",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Kinda Crazy",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Fun",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "53:55",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me (music video)",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You to Love Me (behind the scenes)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now (music video)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Look at Her Now (behind the scenes)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "12:25",
+                    "image": {}
+                },
+                {
+                    "name": "20:45",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (music video)",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (behind the scenes)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Rare (live from The Village Studio)",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "Dance Again (performance video)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Revival_Tour",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Selena_Gomez_-_Revival_Tour_poster.png/220px-Selena_Gomez_-_Revival_Tour_poster.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Boyfriend (music video)",
+                    "duration": "2:55",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "For You",
+            "url": "https://en.wikipedia.org/wiki/For_You_(Selena_Gomez_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Selena_Gomez_-_For_You_%28Official_Album_Cover%29.png/220px-Selena_Gomez_-_For_You_%28Official_Album_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 24, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Slow_Down_(Selena_Gomez_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Selena_Gomez_-_Slow_Down.png/220px-Selena_Gomez_-_Slow_Down.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "A_Year_Without_Rain_(song)",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Selena_Gomez_%26_the_Scene_-_A_Year_Without_Rain_%28single_cover%29.jpg/220px-Selena_Gomez_%26_the_Scene_-_A_Year_Without_Rain_%28single_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bidi_Bidi_Bom_Bom",
+                    "duration": "4:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Bbbbselena.jpg",
+                        "width": 184,
+                        "height": 184
+                    }
+                },
+                {
+                    "name": "Do It",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Round_\u0026_Round_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Roundandroundcover.jpg/220px-Roundandroundcover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love_You_like_a_Love_Song",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg/220px-Selena_Gomez_%26_the_Scene_-_Love_You_like_a_Love_Song.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Más (Spanish version of More)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "51:52",
+                    "image": {}
+                },
+                {
+                    "name": "Come_\u0026_Get_It_(Selena_Gomez_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Come_%26_Get_It_cover.png/220px-Come_%26_Get_It_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Who_Says_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg/220px-Dices_%28Selena_Gomez_%26_the_Scene_single_-_cover_art%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stars Dance",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stars_Dance.png/220px-Stars_Dance.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Naturally_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "4:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/NaturallyEurope.jpeg/220px-NaturallyEurope.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tell_Me_Something_I_Don't_Know_(Selena_Gomez_song)",
+                    "duration": "2:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Tell_Me_Something_I_Don%27t_Know.jpg/220px-Tell_Me_Something_I_Don%27t_Know.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My Dilemma 2.0",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "Falling_Down_(Selena_Gomez_\u0026_the_Scene_song)",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Falling_Down_cover.jpg/220px-Falling_Down_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Heart_Wants_What_It_Wants",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/The_Heart_Wants_What_It_Wants_Selena_Gomez_cover.png/220px-The_Heart_Wants_What_It_Wants_Selena_Gomez_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Heart Wants What It Wants (music video)",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "56:27",
+                    "image": {}
+                },
+                {
+                    "name": "Do It",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Más (More – Spanish version)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "13:43",
+                    "image": {}
+                },
+                {
+                    "name": "The Heart Wants What It Wants",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "The_Midnight_Beast",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Midnight_Beast%2C_Brighton_Corn_Exchange%2C_Great_Escape_2013_%288750975964%29.jpg/220px-Midnight_Beast%2C_Brighton_Corn_Exchange%2C_Great_Escape_2013_%288750975964%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Love You Like a Love Song, Come \u0026 Get It, and More",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

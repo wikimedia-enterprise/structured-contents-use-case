@@ -1,0 +1,195 @@
+{
+    "name": "Dave_(rapper)",
+    "has_occupation": [
+        {
+            "name": "rapper"
+        },
+        {
+            "name": "singer"
+        },
+        {
+            "name": "film actor"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "albums": [
+        {
+            "name": "Psychodrama",
+            "url": "https://en.wikipedia.org/wiki/Psychodrama_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Dave_Psychodrama.jpeg/220px-Dave_Psychodrama.jpeg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "8 March 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Location_(Dave_song)",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Ruelle_(singer)",
+                    "duration": "11:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/YouTube_Silver_Play_Button_2.svg/32px-YouTube_Silver_Play_Button_2.svg.png",
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                {
+                    "name": "Voices",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "51:12",
+                    "image": {}
+                },
+                {
+                    "name": "Disaster_(Dave_song)",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Screwface Capital",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "Environment",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Drama",
+                    "duration": "7:04",
+                    "image": {}
+                },
+                {
+                    "name": "Psycho",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Streatham",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Black",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Purple Heart",
+                    "duration": "2:44",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "We're All Alone in This Together",
+            "url": "https://en.wikipedia.org/wiki/We%27re_All_Alone_in_This_Together",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Dave_-_We%27re_All_Alone_in_This_Together.jpg/220px-Dave_-_We%27re_All_Alone_in_This_Together.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "23 July 2021"
+            },
+            "tracks": [
+                {
+                    "name": "James_Blake_(musician)",
+                    "duration": "7:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/James_Blake_at_the_Wang_in_Boston_%2851561366027%29_%28cropped%29.jpg/220px-James_Blake_at_the_Wang_in_Boston_%2851561366027%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Verdansk",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Clash_(song)",
+                    "duration": "4:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Dave_-_Clash.jpeg/220px-Dave_-_Clash.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Three Rivers",
+                    "duration": "5:32",
+                    "image": {}
+                },
+                {
+                    "name": "In the Fire",
+                    "duration": "7:03",
+                    "image": {}
+                },
+                {
+                    "name": "Wizkid",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wizkid_at_Iyanya%27s_album_launch_concert%2C_2013_%28cropped%29.jpg/220px-Wizkid_at_Iyanya%27s_album_launch_concert%2C_2013_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Heart Attack",
+                    "duration": "9:55",
+                    "image": {}
+                },
+                {
+                    "name": "BOJ (musician)",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Snoh_Aalegra",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Snoh_Aalegra_April_2016_%28cropped_portrait%29.jpg/220px-Snoh_Aalegra_April_2016_%28cropped_portrait%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "61:32",
+                    "image": {}
+                },
+                {
+                    "name": "We're All Alone",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "Twenty to One",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Survivor's Guilt",
+                    "duration": "5:40",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        }
+    ]
+}

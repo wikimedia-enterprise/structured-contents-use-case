@@ -1,0 +1,1605 @@
+{
+    "name": "JID",
+    "has_occupation": [
+        {
+            "name": "rapper"
+        },
+        {
+            "name": "singer"
+        },
+        {
+            "name": "songwriter"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "genres": [
+        "hip hop music",
+        "trap music"
+    ],
+    "albums": [
+        {
+            "name": "The Never Story",
+            "url": "https://en.wikipedia.org/wiki/The_Never_Story",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/J.I.D_%E2%80%93_The_Never_Story.png/220px-J.I.D_%E2%80%93_The_Never_Story.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 10, 2017"
+            },
+            "tracks": [
+                {
+                    "name": "Underwear",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "39:51",
+                    "image": {}
+                },
+                {
+                    "name": "EdEddnEddy",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "4:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                },
+                {
+                    "name": "6lack",
+                    "duration": "1:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Doo Wop",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "General",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Mereba",
+                    "duration": "4:51",
+                    "image": {}
+                },
+                {
+                    "name": "Hoodbooger",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Lauder",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Never",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Hereditary",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Somebody",
+                    "duration": "3:35",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "DiCaprio 2",
+            "url": "https://en.wikipedia.org/wiki/DiCaprio_2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/J.I.D_%E2%80%93_DiCaprio_2.png/220px-J.I.D_%E2%80%93_DiCaprio_2.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 26, 2018"
+            },
+            "tracks": [
+                {
+                    "name": "Off da Zoinkys",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Mounted Up",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Despacito Too",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Slick Talk",
+                    "duration": "4:29",
+                    "image": {}
+                },
+                {
+                    "name": "151_Rum_(song)",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/J.i.d-151-Rum.jpg/220px-J.i.d-151-Rum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "50:09",
+                    "image": {}
+                },
+                {
+                    "name": "Off_Deez",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Jid-offdeez-cover.webp/220px-Jid-offdeez-cover.webp.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hasta Luego (Bonus)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Just Da Other Day",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Frequency Change",
+                    "duration": "0:59",
+                    "image": {}
+                },
+                {
+                    "name": "ASAP_Ferg",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/A%24AP_Ferg_%2836593658996%29.jpg/220px-A%24AP_Ferg_%2836593658996%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Workin Out",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "BJ_the_Chicago_Kid",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BJ_the_Chicago_Kid.png/220px-BJ_the_Chicago_Kid.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Method_Man",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Method_Man_at_Shattuck_Down_Low.jpg/220px-Method_Man_at_Shattuck_Down_Low.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The Forever Story",
+            "url": "https://en.wikipedia.org/wiki/The_Forever_Story",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/JID_-_The_Forever_Story.png/220px-JID_-_The_Forever_Story.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 26, 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Galaxy",
+                    "duration": "0:52",
+                    "image": {}
+                },
+                {
+                    "name": "Raydar",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Sistanem",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "Lil_Wayne",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lil_Wayne_logo.svg/225px-Lil_Wayne_logo.svg.png",
+                        "width": 225,
+                        "height": 225
+                    }
+                },
+                {
+                    "name": "Ravyn_Lenae",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ravyn_Lenae_Publicity_Photo_by_Jimmy_Fontaine.jpg/220px-Ravyn_Lenae_Publicity_Photo_by_Jimmy_Fontaine.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kenny_Mason",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kenny-Mason-Picture.jpg/220px-Kenny-Mason-Picture.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "59:06",
+                    "image": {}
+                },
+                {
+                    "name": "Crack Sandwich",
+                    "duration": "4:57",
+                    "image": {}
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                },
+                {
+                    "name": "Surround_Sound_(song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/JID_-_Surround_Sound.jpg/220px-JID_-_Surround_Sound.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kody Blu 31",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "Lil_Durk",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lil_durk_in_2020.png/220px-Lil_durk_in_2020.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Johntá_Austin",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Nickname",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Money",
+                    "duration": "4:26",
+                    "image": {}
+                },
+                {
+                    "name": "2007",
+                    "duration": "7:26",
+                    "image": {}
+                },
+                {
+                    "name": "66:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Cakewalk",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Cakewalk 2",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Route of Evil",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Para Tu",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "D-Day: A Gangsta Grillz Mixtape(with Dreamville)",
+            "url": "https://en.wikipedia.org/wiki/D-Day:_A_Gangsta_Grillz_Mixtape",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Dreamville_D-Day.jpeg/220px-Dreamville_D-Day.jpeg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 31, 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Like Wine (with Lute)",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "Freedom of Speech (with J. Cole)",
+                    "duration": "2:11",
+                    "image": {}
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "JID",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jozi Flows (with Bas and EarthGang)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Ballin in Newport (with Omen)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven's EP (with J. Cole)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Blackberry Sap (with Ari Lennox)",
+                    "duration": "2:29",
+                    "image": {}
+                },
+                {
+                    "name": "Bas_(rapper)",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bas_2016.jpg/220px-Bas_2016.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lute_(rapper)",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Reason_(American_rapper)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Young_Nudy",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Young_Nudy_2023.png/220px-Young_Nudy_2023.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everybody Ain't Shit (with EarthGang)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Big Trouble Freestyle (with Cozz)",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "47:18",
+                    "image": {}
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Revenge of the Dreamers III(with Dreamville)",
+            "url": "https://en.wikipedia.org/wiki/Revenge_of_the_Dreamers_III",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Revenge_of_the_Dreamers_III_Deluxe_cover_art.jpg/220px-Revenge_of_the_Dreamers_III_Deluxe_cover_art.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 5, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Baby Tate (rapper)",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Baby_Tate_at_the_2022_BET_Hip_Hop_Awards.png/220px-Baby_Tate_at_the_2022_BET_Hip_Hop_Awards.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Smino",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Smino_2016.jpg/220px-Smino_2016.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Vince_Staples",
+                    "duration": "2:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vince_Staples_by_Gage_Skidmore.jpg/220px-Vince_Staples_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunset (with J. Cole featuring Young Nudy)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Under_the_Sun_(Dreamville,_J._Cole_and_Lute_song)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Two-9",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "T.I.",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/T.I._in_2020.png/220px-T.I._in_2020.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mereba",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "Sacrifices_(Dreamville,_EarthGang_and_J._Cole_song)",
+                    "duration": "6:22",
+                    "image": {}
+                },
+                {
+                    "name": "Down_Bad",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dreamville-down-bad-ft-earthgang-j-cole-bas-jid-young-nudy.jpg/220px-Dreamville-down-bad-ft-earthgang-j-cole-bas-jid-young-nudy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Swivel (with EarthGang)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Wells Fargo (interlude) (with JID and EarthGang featuring Buddy and Guapdad 4000)",
+                    "duration": "2:03",
+                    "image": {}
+                },
+                {
+                    "name": "Omen_(musician)",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20160330_MCDAAG_Omen_halftime_%282%29.jpg/220px-20160330_MCDAAG_Omen_halftime_%282%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Cozz",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cozz_toohightoriottour_%28cropped%29.jpg/220px-Cozz_toohightoriottour_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Costa_Rica_(Dreamville,_Bas_and_JID_song)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Got_Me_(song)",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Images.genius.com-4cfb6f3ae2e7102a1c9ffb3b79d9b6ab.800x800x1.jpg/220px-Images.genius.com-4cfb6f3ae2e7102a1c9ffb3b79d9b6ab.800x800x1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Middle Child",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/J._Cole_-_Middle_Child.png/220px-J._Cole_-_Middle_Child.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "64:25",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Hics",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Bussit (with Ari Lennox)",
+                    "duration": "2:30",
+                    "image": {}
+                },
+                {
+                    "name": "Passcode (with Ari Lennox featuring Buddy, Smino, Mez and Guapdad 4000)",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Up Up Away (with JID and EarthGang featuring Vince Staples)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Disgusted (with Cozz featuring Childish Major)",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Outta Pocket (with Bas and Cozz)",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "No Chorus (with Bas featuring Buddy, Guapdad 4000 and Dreezy)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Revenge (with Lute, Omen, Ari Lennox and EarthGang featuring Childish Major and Reason)",
+                    "duration": "5:33",
+                    "image": {}
+                },
+                {
+                    "name": "105:14",
+                    "image": {}
+                },
+                {
+                    "name": "Still Up (with EarthGang featuring Reason)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Late Night (with Cozz and Omen featuring Buddy and Landstrip Chip)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Big Black Truck (with JID)",
+                    "duration": "2:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Bears Like This(with Spillage Village)",
+            "url": "https://en.wikipedia.org/wiki/Spillage_Village",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Bears Like This Too(with Spillage Village)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Bears Like This Too Much(with Spillage Village)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Spilligion(with Spillage Village and EarthGang)",
+            "url": "https://en.wikipedia.org/wiki/Spilligion",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Spilligion.jpg/220px-Spilligion.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 25, 2020"
+            },
+            "tracks": [
+                {
+                    "name": "Ea'alah (Family) (with JID and EarthGang featuring Hollywood JB)",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hapi (with Benji and EarthGang featuring Mereba and Big Rube)",
+                    "duration": "6:25",
+                    "image": {}
+                },
+                {
+                    "name": "Desi_Banks",
+                    "duration": "2:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Desi_Banks_2020_01.png/220px-Desi_Banks_2020_01.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "JID",
+                    "duration": "4:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mereba",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Lucky_Daye",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lucky-Daye_Ap-Images-604x800.jpg/220px-Lucky-Daye_Ap-Images-604x800.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shiva (with JID and EarthGang featuring Benji and Jurdan Bryant)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "49:45",
+                    "image": {}
+                },
+                {
+                    "name": "End of Daze (with EarthGang and JID featuring Jurdan Bryant, Mereba and Hollywood JB)",
+                    "duration": "5:32",
+                    "image": {}
+                },
+                {
+                    "name": "Jupiter (with Mereba and JID featuring EarthGang, Hollywood JB and Jurdan Bryant)",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Mecca (with EarthGang and JID)",
+                    "duration": "4:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Never Story",
+            "url": "https://en.wikipedia.org/wiki/The_Never_Story",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/J.I.D_%E2%80%93_The_Never_Story.png/220px-J.I.D_%E2%80%93_The_Never_Story.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 10, 2017"
+            },
+            "tracks": [
+                {
+                    "name": "Mereba",
+                    "duration": "4:51",
+                    "image": {}
+                },
+                {
+                    "name": "Lauder",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "39:51",
+                    "image": {}
+                },
+                {
+                    "name": "General",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Never",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Hoodbooger",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "4:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                },
+                {
+                    "name": "Hereditary",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Underwear",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "1:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Somebody",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Doo Wop",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "EdEddnEddy",
+                    "duration": "2:20",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "DiCaprio 2",
+            "url": "https://en.wikipedia.org/wiki/DiCaprio_2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/J.I.D_%E2%80%93_DiCaprio_2.png/220px-J.I.D_%E2%80%93_DiCaprio_2.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 26, 2018"
+            },
+            "tracks": [
+                {
+                    "name": "151_Rum_(song)",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/J.i.d-151-Rum.jpg/220px-J.i.d-151-Rum.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Workin Out",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Despacito Too",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Slick Talk",
+                    "duration": "4:29",
+                    "image": {}
+                },
+                {
+                    "name": "Off da Zoinkys",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "BJ_the_Chicago_Kid",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BJ_the_Chicago_Kid.png/220px-BJ_the_Chicago_Kid.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mounted Up",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Just Da Other Day",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Off_Deez",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Jid-offdeez-cover.webp/220px-Jid-offdeez-cover.webp.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "ASAP_Ferg",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/A%24AP_Ferg_%2836593658996%29.jpg/220px-A%24AP_Ferg_%2836593658996%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Method_Man",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Method_Man_at_Shattuck_Down_Low.jpg/220px-Method_Man_at_Shattuck_Down_Low.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Frequency Change",
+                    "duration": "0:59",
+                    "image": {}
+                },
+                {
+                    "name": "50:09",
+                    "image": {}
+                },
+                {
+                    "name": "Hasta Luego (Bonus)",
+                    "duration": "3:41",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "The Forever Story",
+            "url": "https://en.wikipedia.org/wiki/The_Forever_Story",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/JID_-_The_Forever_Story.png/220px-JID_-_The_Forever_Story.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 26, 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Raydar",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Kenny_Mason",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kenny-Mason-Picture.jpg/220px-Kenny-Mason-Picture.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Johntá_Austin",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Ravyn_Lenae",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ravyn_Lenae_Publicity_Photo_by_Jimmy_Fontaine.jpg/220px-Ravyn_Lenae_Publicity_Photo_by_Jimmy_Fontaine.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Galaxy",
+                    "duration": "0:52",
+                    "image": {}
+                },
+                {
+                    "name": "Sistanem",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "Lil_Wayne",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lil_Wayne_logo.svg/225px-Lil_Wayne_logo.svg.png",
+                        "width": 225,
+                        "height": 225
+                    }
+                },
+                {
+                    "name": "59:06",
+                    "image": {}
+                },
+                {
+                    "name": "Surround_Sound_(song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/JID_-_Surround_Sound.jpg/220px-JID_-_Surround_Sound.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kody Blu 31",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "Lil_Durk",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lil_durk_in_2020.png/220px-Lil_durk_in_2020.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Money",
+                    "duration": "4:26",
+                    "image": {}
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                },
+                {
+                    "name": "Pen name",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Crack Sandwich",
+                    "duration": "4:57",
+                    "image": {}
+                },
+                {
+                    "name": "2007",
+                    "duration": "7:26",
+                    "image": {}
+                },
+                {
+                    "name": "66:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Revenge of the Dreamers III(with Dreamville)",
+            "url": "https://en.wikipedia.org/wiki/Revenge_of_the_Dreamers_III",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Revenge_of_the_Dreamers_III_Deluxe_cover_art.jpg/220px-Revenge_of_the_Dreamers_III_Deluxe_cover_art.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 5, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Vince_Staples",
+                    "duration": "2:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vince_Staples_by_Gage_Skidmore.jpg/220px-Vince_Staples_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Middle Child",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/J._Cole_-_Middle_Child.png/220px-J._Cole_-_Middle_Child.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "64:25",
+                    "image": {}
+                },
+                {
+                    "name": "Cozz",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cozz_toohightoriottour_%28cropped%29.jpg/220px-Cozz_toohightoriottour_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Swivel (with EarthGang)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Smino",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Smino_2016.jpg/220px-Smino_2016.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Two-9",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "T.I.",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/T.I._in_2020.png/220px-T.I._in_2020.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mereba",
+                    "duration": "3:57",
+                    "image": {}
+                },
+                {
+                    "name": "Got_Me_(song)",
+                    "duration": "4:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Images.genius.com-4cfb6f3ae2e7102a1c9ffb3b79d9b6ab.800x800x1.jpg/220px-Images.genius.com-4cfb6f3ae2e7102a1c9ffb3b79d9b6ab.800x800x1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sacrifices_(Dreamville,_EarthGang_and_J._Cole_song)",
+                    "duration": "6:22",
+                    "image": {}
+                },
+                {
+                    "name": "Baby Tate (rapper)",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Baby_Tate_at_the_2022_BET_Hip_Hop_Awards.png/220px-Baby_Tate_at_the_2022_BET_Hip_Hop_Awards.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Costa_Rica_(Dreamville,_Bas_and_JID_song)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Omen_(musician)",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/20160330_MCDAAG_Omen_halftime_%282%29.jpg/220px-20160330_MCDAAG_Omen_halftime_%282%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunset (with J. Cole featuring Young Nudy)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Under_the_Sun_(Dreamville,_J._Cole_and_Lute_song)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Down_Bad",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dreamville-down-bad-ft-earthgang-j-cole-bas-jid-young-nudy.jpg/220px-Dreamville-down-bad-ft-earthgang-j-cole-bas-jid-young-nudy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wells Fargo (interlude) (with JID and EarthGang featuring Buddy and Guapdad 4000)",
+                    "duration": "2:03",
+                    "image": {}
+                },
+                {
+                    "name": "Revenge (with Lute, Omen, Ari Lennox and EarthGang featuring Childish Major and Reason)",
+                    "duration": "5:33",
+                    "image": {}
+                },
+                {
+                    "name": "Still Up (with EarthGang featuring Reason)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Late Night (with Cozz and Omen featuring Buddy and Landstrip Chip)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Bussit (with Ari Lennox)",
+                    "duration": "2:30",
+                    "image": {}
+                },
+                {
+                    "name": "Big Black Truck (with JID)",
+                    "duration": "2:32",
+                    "image": {}
+                },
+                {
+                    "name": "The_Hics",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "No Chorus (with Bas featuring Buddy, Guapdad 4000 and Dreezy)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Outta Pocket (with Bas and Cozz)",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "Passcode (with Ari Lennox featuring Buddy, Smino, Mez and Guapdad 4000)",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Up Up Away (with JID and EarthGang featuring Vince Staples)",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Disgusted (with Cozz featuring Childish Major)",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "105:14",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "D-Day: A Gangsta Grillz Mixtape(with Dreamville)",
+            "url": "https://en.wikipedia.org/wiki/D-Day:_A_Gangsta_Grillz_Mixtape",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Dreamville_D-Day.jpeg/220px-Dreamville_D-Day.jpeg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 31, 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Big Trouble Freestyle (with Cozz)",
+                    "duration": "2:43",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven's EP (with J. Cole)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Jozi Flows (with Bas and EarthGang)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Young_Nudy",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Young_Nudy_2023.png/220px-Young_Nudy_2023.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ballin in Newport (with Omen)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Bas_(rapper)",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bas_2016.jpg/220px-Bas_2016.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Reason_(American_rapper)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Blackberry Sap (with Ari Lennox)",
+                    "duration": "2:29",
+                    "image": {}
+                },
+                {
+                    "name": "Lute_(rapper)",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "47:18",
+                    "image": {}
+                },
+                {
+                    "name": "Like Wine (with Lute)",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "Everybody Ain't Shit (with EarthGang)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "JID",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "EarthGang",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Earthgang_2016.jpg/294px-Earthgang_2016.jpg",
+                        "width": 294,
+                        "height": 294
+                    }
+                },
+                {
+                    "name": "Freedom of Speech (with J. Cole)",
+                    "duration": "2:11",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Bears Like This(with Spillage Village)",
+            "url": "https://en.wikipedia.org/wiki/Spillage_Village",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Bears Like This Too(with Spillage Village)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Bears Like This Too Much(with Spillage Village)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Spilligion(with Spillage Village and EarthGang)",
+            "url": "https://en.wikipedia.org/wiki/Spilligion",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Spilligion.jpg/220px-Spilligion.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 25, 2020"
+            },
+            "tracks": [
+                {
+                    "name": "Desi_Banks",
+                    "duration": "2:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Desi_Banks_2020_01.png/220px-Desi_Banks_2020_01.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ari_Lennox",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ari_Lennox_Logo.png/200px-Ari_Lennox_Logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "End of Daze (with EarthGang and JID featuring Jurdan Bryant, Mereba and Hollywood JB)",
+                    "duration": "5:32",
+                    "image": {}
+                },
+                {
+                    "name": "49:45",
+                    "image": {}
+                },
+                {
+                    "name": "JID",
+                    "duration": "4:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ea'alah (Family) (with JID and EarthGang featuring Hollywood JB)",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "6lack",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lucky_Daye",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lucky-Daye_Ap-Images-604x800.jpg/220px-Lucky-Daye_Ap-Images-604x800.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hapi (with Benji and EarthGang featuring Mereba and Big Rube)",
+                    "duration": "6:25",
+                    "image": {}
+                },
+                {
+                    "name": "Jupiter (with Mereba and JID featuring EarthGang, Hollywood JB and Jurdan Bryant)",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "Mecca (with EarthGang and JID)",
+                    "duration": "4:50",
+                    "image": {}
+                },
+                {
+                    "name": "Mereba",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Shiva (with JID and EarthGang featuring Benji and Jurdan Bryant)",
+                    "duration": "4:20",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

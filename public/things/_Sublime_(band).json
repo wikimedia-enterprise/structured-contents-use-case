@@ -1,0 +1,1754 @@
+{
+    "name": "Sublime_(band)",
+    "has_occupation": [
+        {
+            "name": "musical group"
+        }
+    ],
+    "genres": [
+        "ska punk",
+        "reggae rock"
+    ],
+    "albums": [
+        {
+            "name": "40oz. to Freedom",
+            "url": "https://en.wikipedia.org/wiki/40oz._to_Freedom",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sublime40OztoFreedomalbumcover.jpg/220px-Sublime40OztoFreedomalbumcover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 1, 1992"
+            },
+            "tracks": [
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Right Back",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "New Song",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Rivers_of_Babylon",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg/220px-Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "75:22",
+                    "image": {}
+                },
+                {
+                    "name": "Get Out!",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "54-46_That's_My_Number",
+                    "duration": "5:17",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go Get Stoned",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Scarlet_Begonias",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "Chica Me Tipo",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Ebin",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "We're Only Gonna Die",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "New Thrash",
+                    "duration": "1:30",
+                    "image": {}
+                },
+                {
+                    "name": "Live at E's",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "D.J.s",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Waiting for My Ruca",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Push",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "What Happened",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Hope",
+                    "duration": "1:43",
+                    "image": {}
+                },
+                {
+                    "name": "KRS-One",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "5:56",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "73:48",
+                    "image": {}
+                },
+                {
+                    "name": "D.J.s",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "What Happened",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Ebin",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Milo Goes to College",
+                    "duration": "1:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Descendents_-_Milo_Goes_to_College_cover.jpg/220px-Descendents_-_Milo_Goes_to_College_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Waiting for My Ruca",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Live at E's",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Scarlet_Begonias",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "We're Only Gonna Die",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Push",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "New Thrash",
+                    "duration": "1:30",
+                    "image": {}
+                },
+                {
+                    "name": "New Song",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "69:15",
+                    "image": {}
+                },
+                {
+                    "name": "54-46_That's_My_Number",
+                    "duration": "5:17",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Let's Go Get Stoned",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "KRS-One",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Rivers_of_Babylon",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg/220px-Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "Chica Me Tipo",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Right Back",
+                    "duration": "2:49",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Robbin' the Hood",
+            "url": "https://en.wikipedia.org/wiki/Robbin%27_the_Hood",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Sublime-RobbinTheHood.jpg/220px-Sublime-RobbinTheHood.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 1, 1994"
+            }
+        },
+        {
+            "name": "Sublime",
+            "url": "https://en.wikipedia.org/wiki/Sublime_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Sublime_Self-Titled.jpg/220px-Sublime_Self-Titled.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 30, 1996"
+            },
+            "tracks": [
+                {
+                    "name": "Burritos",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "What_I_Got",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/WhatIGot.jpg/220px-WhatIGot.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Santeria_(song)",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Santeria_%28song%29.jpg/220px-Santeria_%28song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paddle Out",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "The Ballad of Johnny Butt",
+                    "duration": "2:11",
+                    "image": {}
+                },
+                {
+                    "name": "Get Ready",
+                    "duration": "4:50",
+                    "image": {}
+                },
+                {
+                    "name": "Caress_Me_Down",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (Reprise)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Garden Grove",
+                    "duration": "4:22",
+                    "image": {}
+                },
+                {
+                    "name": "Wrong_Way",
+                    "duration": "2:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Sublime_Wrong_Way.jpg/220px-Sublime_Wrong_Way.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pawn Shop",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Jailhouse",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "58:31",
+                    "image": {}
+                },
+                {
+                    "name": "Same in the End",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "April_29,_1992_(Miami)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Seed",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Under My Voodoo",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Jailhouse",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Under My Voodoo",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Burritos",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (Reprise)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Garden Grove",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "Paddle Out",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "Pawn Shop",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Wrong Way",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Santeria",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Seed",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Caress Me Down",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Same in the End",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Get Ready",
+                    "duration": "4:51",
+                    "image": {}
+                },
+                {
+                    "name": "Bob_Marley",
+                    "duration": "1:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bob-Marley_3_%28cropped%29.jpg/220px-Bob-Marley_3_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Doin' Time (original mix)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "The Ballad of Johnny Butt",
+                    "duration": "2:11",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red (acoustic version)",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (remixed by Marshall Arts featuring The Pharcyde)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami) (instrumental version)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Caress Me Down (instrumental version)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (instrumental version)",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "I Love My Dog",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "Superstar Punani",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami) (alternate version)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Zimbabwe (acoustic version)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (remix by Wyclef Jean)",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Marshall Arts instrumental version)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Little District (acoustic version)",
+                    "duration": "1:56",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (alternate version)",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (uptown dub)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Eerie Splendor remix)",
+                    "duration": "5:15",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Stand by Your Van",
+            "url": "https://en.wikipedia.org/wiki/Stand_by_Your_Van",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime-StandByYourVan.jpg/220px-Sublime-StandByYourVan.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 23, 1998"
+            }
+        },
+        {
+            "name": "3 Ring Circus – Live at the Palace",
+            "url": "https://en.wikipedia.org/wiki/3_Ring_Circus_%E2%80%93_Live_at_the_Palace",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/3_Ring_Circus_-_Live_at_The_Palace.jpg/220px-3_Ring_Circus_-_Live_at_The_Palace.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 2013"
+            }
+        },
+        {
+            "name": "$5 at the Door: Live at Tressel Tavern, 1994",
+            "url": "https://en.wikipedia.org/wiki/$5_at_the_Door:_Live_at_Tressel_Tavern,_1994",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/5_at_the_Door_Sublime_album.jpg/220px-5_at_the_Door_Sublime_album.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "April 21, 2023"
+            }
+        },
+        {
+            "name": "Everything Under the Sun",
+            "url": "https://en.wikipedia.org/wiki/Everything_Under_the_Sun",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Everythingunderthesun.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 14, 2006"
+            }
+        },
+        {
+            "name": "Playlist Your Way",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Icon",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Sublime_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Sublime_Greatest_Hits.jpg/220px-Sublime_Greatest_Hits.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 9, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red",
+                    "duration": "1:57",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "4:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pool Shark",
+                    "duration": "0:57",
+                    "image": {}
+                },
+                {
+                    "name": "27:54",
+                    "image": {}
+                },
+                {
+                    "name": "What_I_Got",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/WhatIGot.jpg/220px-WhatIGot.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wrong_Way",
+                    "duration": "2:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Sublime_Wrong_Way.jpg/220px-Sublime_Wrong_Way.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "ASCII",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USASCII_code_chart.png/250px-USASCII_code_chart.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Second-hand Smoke",
+            "url": "https://en.wikipedia.org/wiki/Second-hand_Smoke",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Sublime-SecondHandSmoke.jpg/220px-Sublime-SecondHandSmoke.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 11, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Don't Push",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Had a DAT",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Bob_Marley",
+                    "duration": "1:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bob-Marley_3_%28cropped%29.jpg/220px-Bob-Marley_3_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Superstar Punani",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Legal Dub",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Eerie Splendor Remix)",
+                    "duration": "5:16",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx Dub",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "New Realization",
+                    "duration": "2:22",
+                    "image": {}
+                },
+                {
+                    "name": "Chick on My Tip",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Garbage Grove",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "April_29,_1992_(Miami)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Romeo",
+                    "duration": "4:31",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Drunk Drivin (Remix)",
+                    "duration": ":18",
+                    "image": {}
+                },
+                {
+                    "name": "What's Really Goin' Wrong",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "Slow Ride",
+                    "duration": "4:22",
+                    "image": {}
+                },
+                {
+                    "name": "Get Out! (Remix)",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red",
+                    "duration": "1:58",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Sublime Acoustic: Bradley Nowell \u0026 Friends",
+            "url": "https://en.wikipedia.org/wiki/Sublime_Acoustic:_Bradley_Nowell_%26_Friends",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Sublime_Acoustic_Vinyl.jpg/220px-Sublime_Acoustic_Vinyl.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 17, 1998"
+            }
+        },
+        {
+            "name": "20th Century Masters: The Millennium Collection: The Best of Sublime",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Gold",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Sublime Meets Scientist \u0026 Mad Professor Inna L.B.C.",
+            "url": "https://en.wikipedia.org/wiki/Scientist_(musician)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Jah Won't Pay the Bills",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "40oz. to Freedom",
+            "url": "https://en.wikipedia.org/wiki/40oz._to_Freedom",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sublime40OztoFreedomalbumcover.jpg/220px-Sublime40OztoFreedomalbumcover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 1, 1992"
+            },
+            "tracks": [
+                {
+                    "name": "Let's Go Get Stoned",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "What Happened",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "Hope",
+                    "duration": "1:43",
+                    "image": {}
+                },
+                {
+                    "name": "Rivers_of_Babylon",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg/220px-Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "75:22",
+                    "image": {}
+                },
+                {
+                    "name": "Get Out!",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "We're Only Gonna Die",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "D.J.s",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Chica Me Tipo",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "New Song",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Ebin",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "KRS-One",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Push",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Scarlet_Begonias",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Live at E's",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Waiting for My Ruca",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "New Thrash",
+                    "duration": "1:30",
+                    "image": {}
+                },
+                {
+                    "name": "Right Back",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "5:56",
+                    "image": {}
+                },
+                {
+                    "name": "54-46_That's_My_Number",
+                    "duration": "5:17",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "73:48",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Push",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "New Thrash",
+                    "duration": "1:30",
+                    "image": {}
+                },
+                {
+                    "name": "D.J.s",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "What Happened",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Ebin",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Thanx",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "Waiting for My Ruca",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "54-46_That's_My_Number",
+                    "duration": "5:17",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go Get Stoned",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Scarlet_Begonias",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "New Song",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Milo Goes to College",
+                    "duration": "1:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Descendents_-_Milo_Goes_to_College_cover.jpg/220px-Descendents_-_Milo_Goes_to_College_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "69:15",
+                    "image": {}
+                },
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "We're Only Gonna Die",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Chica Me Tipo",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "Right Back",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "KRS-One",
+                    "duration": "2:23",
+                    "image": {}
+                },
+                {
+                    "name": "Rivers_of_Babylon",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg/220px-Boney_M._-_Rivers_Of_Babylon_-_Remix_%2788_%281988_single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Live at E's",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "3:38",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Robbin' the Hood",
+            "url": "https://en.wikipedia.org/wiki/Robbin%27_the_Hood",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Sublime-RobbinTheHood.jpg/220px-Sublime-RobbinTheHood.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 1, 1994"
+            }
+        },
+        {
+            "name": "Sublime",
+            "url": "https://en.wikipedia.org/wiki/Sublime_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Sublime_Self-Titled.jpg/220px-Sublime_Self-Titled.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 30, 1996"
+            },
+            "tracks": [
+                {
+                    "name": "What I Got (Reprise)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "58:31",
+                    "image": {}
+                },
+                {
+                    "name": "Wrong_Way",
+                    "duration": "2:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Sublime_Wrong_Way.jpg/220px-Sublime_Wrong_Way.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pawn Shop",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Paddle Out",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "The Ballad of Johnny Butt",
+                    "duration": "2:11",
+                    "image": {}
+                },
+                {
+                    "name": "Burritos",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Under My Voodoo",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "What_I_Got",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/WhatIGot.jpg/220px-WhatIGot.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Get Ready",
+                    "duration": "4:50",
+                    "image": {}
+                },
+                {
+                    "name": "Garden Grove",
+                    "duration": "4:22",
+                    "image": {}
+                },
+                {
+                    "name": "April_29,_1992_(Miami)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Santeria_(song)",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Santeria_%28song%29.jpg/220px-Santeria_%28song%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Same in the End",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Seed",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Jailhouse",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "Caress_Me_Down",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Under My Voodoo",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Burritos",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Get Ready",
+                    "duration": "4:51",
+                    "image": {}
+                },
+                {
+                    "name": "Garden Grove",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (original mix)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Wrong Way",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "The Ballad of Johnny Butt",
+                    "duration": "2:11",
+                    "image": {}
+                },
+                {
+                    "name": "Jailhouse",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "Caress Me Down",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (Reprise)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Bob_Marley",
+                    "duration": "1:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bob-Marley_3_%28cropped%29.jpg/220px-Bob-Marley_3_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pawn Shop",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Santeria",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Seed",
+                    "duration": "2:10",
+                    "image": {}
+                },
+                {
+                    "name": "Same in the End",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Paddle Out",
+                    "duration": "1:15",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "I Love My Dog",
+                    "duration": "4:19",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (instrumental version)",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami) (alternate version)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Little District (acoustic version)",
+                    "duration": "1:56",
+                    "image": {}
+                },
+                {
+                    "name": "Zimbabwe (acoustic version)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Superstar Punani",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "What I Got (alternate version)",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Eerie Splendor remix)",
+                    "duration": "5:15",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (remixed by Marshall Arts featuring The Pharcyde)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red (acoustic version)",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (uptown dub)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (remix by Wyclef Jean)",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Marshall Arts instrumental version)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "April 29th, 1992 (Miami) (instrumental version)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Caress Me Down (instrumental version)",
+                    "duration": "3:32",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Stand by Your Van",
+            "url": "https://en.wikipedia.org/wiki/Stand_by_Your_Van",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime-StandByYourVan.jpg/220px-Sublime-StandByYourVan.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 23, 1998"
+            }
+        },
+        {
+            "name": "3 Ring Circus – Live at the Palace",
+            "url": "https://en.wikipedia.org/wiki/3_Ring_Circus_%E2%80%93_Live_at_the_Palace",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/3_Ring_Circus_-_Live_at_The_Palace.jpg/220px-3_Ring_Circus_-_Live_at_The_Palace.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 2013"
+            }
+        },
+        {
+            "name": "$5 at the Door: Live at Tressel Tavern, 1994",
+            "url": "https://en.wikipedia.org/wiki/$5_at_the_Door:_Live_at_Tressel_Tavern,_1994",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/5_at_the_Door_Sublime_album.jpg/220px-5_at_the_Door_Sublime_album.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "April 21, 2023"
+            }
+        },
+        {
+            "name": "Gold",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Playlist Your Way",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Icon",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Sublime Meets Scientist \u0026 Mad Professor Inna L.B.C.",
+            "url": "https://en.wikipedia.org/wiki/Scientist_(musician)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Jah Won't Pay the Bills",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Second-hand Smoke",
+            "url": "https://en.wikipedia.org/wiki/Second-hand_Smoke",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Sublime-SecondHandSmoke.jpg/220px-Sublime-SecondHandSmoke.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 11, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Chick on My Tip",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Drunk Drivin (Remix)",
+                    "duration": ":18",
+                    "image": {}
+                },
+                {
+                    "name": "Superstar Punani",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Time (Eerie Splendor Remix)",
+                    "duration": "5:16",
+                    "image": {}
+                },
+                {
+                    "name": "Get Out! (Remix)",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Romeo",
+                    "duration": "4:31",
+                    "image": {}
+                },
+                {
+                    "name": "New Realization",
+                    "duration": "2:22",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red",
+                    "duration": "1:58",
+                    "image": {}
+                },
+                {
+                    "name": "Legal Dub",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bob_Marley",
+                    "duration": "1:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bob-Marley_3_%28cropped%29.jpg/220px-Bob-Marley_3_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Thanx Dub",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Push",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Slow Ride",
+                    "duration": "4:22",
+                    "image": {}
+                },
+                {
+                    "name": "Had a DAT",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Garbage Grove",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "April_29,_1992_(Miami)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "What's Really Goin' Wrong",
+                    "duration": "2:35",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Greatest Hits",
+            "url": "https://en.wikipedia.org/wiki/Greatest_Hits_(Sublime_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Sublime_Greatest_Hits.jpg/220px-Sublime_Greatest_Hits.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 9, 1999"
+            },
+            "tracks": [
+                {
+                    "name": "Smoke_Two_Joints",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "Date_Rape_(song)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Saw Red",
+                    "duration": "1:57",
+                    "image": {}
+                },
+                {
+                    "name": "Badfish_(song)",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sublime_Badfish.jpg/220px-Sublime_Badfish.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pool Shark",
+                    "duration": "0:57",
+                    "image": {}
+                },
+                {
+                    "name": "27:54",
+                    "image": {}
+                },
+                {
+                    "name": "What_I_Got",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/WhatIGot.jpg/220px-WhatIGot.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "40oz. to Freedom",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Doin'_Time",
+                    "duration": "4:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Lana_Del_Rey_-_Doin%27_Time.png/220px-Lana_Del_Rey_-_Doin%27_Time.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wrong_Way",
+                    "duration": "2:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Sublime_Wrong_Way.jpg/220px-Sublime_Wrong_Way.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Santería",
+                    "duration": "3:03",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Sublime Acoustic: Bradley Nowell \u0026 Friends",
+            "url": "https://en.wikipedia.org/wiki/Sublime_Acoustic:_Bradley_Nowell_%26_Friends",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Sublime_Acoustic_Vinyl.jpg/220px-Sublime_Acoustic_Vinyl.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 17, 1998"
+            }
+        },
+        {
+            "name": "20th Century Masters: The Millennium Collection: The Best of Sublime",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Everything Under the Sun",
+            "url": "https://en.wikipedia.org/wiki/Everything_Under_the_Sun",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Everythingunderthesun.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 14, 2006"
+            }
+        }
+    ]
+}

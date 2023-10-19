@@ -1,0 +1,1434 @@
+{
+    "name": "Alt-J",
+    "has_occupation": [
+        {
+            "name": "musical group"
+        }
+    ],
+    "awards": [
+        "James Joyce Awards",
+        "Mercury Prize"
+    ],
+    "genres": [
+        "art rock",
+        "indie rock",
+        "indie pop",
+        "folktronica"
+    ],
+    "albums": [
+        {
+            "name": "An Awesome Wave",
+            "url": "https://en.wikipedia.org/wiki/An_Awesome_Wave",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Alt-J_-_An_Awesome_Wave.png/220px-Alt-J_-_An_Awesome_Wave.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "25 May 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Intro",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Tessellate.jpg/220px-Tessellate.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Taro (“Taro” ends at 5:04; hidden track “Hand-Made” starts at 10:04 following 5:00 of silence)",
+                    "duration": "12:41",
+                    "image": {}
+                },
+                {
+                    "name": "Dissolve Me",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Matilda_(alt-J_song)",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Alt-J_matilda.jpg/220px-Alt-J_matilda.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ms",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks_(song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Breezeblocks.jpg/220px-Breezeblocks.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "❦ (Guitar)",
+                    "duration": "1:17",
+                    "image": {}
+                },
+                {
+                    "name": "Something_Good_(alt-J_song)",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/SomethingGood.jpg/220px-SomethingGood.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fitzpleasure",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (The Ripe \u0026 Ruin)",
+                    "duration": "1:12",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (Piano)",
+                    "duration": "0:53",
+                    "image": {}
+                },
+                {
+                    "name": "Bloodflood",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Alt-j_bloodflood.jpg/220px-Alt-j_bloodflood.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Something Good (BlackBox Remix)",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Broadbandits Afro Mix)",
+                    "duration": "5:27",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (The Internet of Odd Future Remix)",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Dam Mantle Remix)",
+                    "duration": "6:17",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Tom Vek's SFX Remix)",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (music video)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (The Invisible BMC Remix)",
+                    "duration": "5:08",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Ben De Vries Remix)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Matilda (SARM Acoustic Version)",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (SARM Acoustic Version)",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (music video)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (music video)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Dave Sitek Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (Fort Romeau Remix)",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (SARM Acoustic Version)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Taro (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:26",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Anstam Remix)",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Bloodflood (SARM Acoustic Version)",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Jim James 'Apple C' Remix)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (BlackBox Remix)",
+                    "duration": "5:55",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Alt-J vs. NOC// Mix)",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (B-JU Remix)",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (bretonLABS Remix)",
+                    "duration": "4.23",
+                    "image": {}
+                },
+                {
+                    "name": "Matilda (Ghostpoet 'Gang Panang Adlit' Remix)",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (Tong \u0026 Rogers Remix)",
+                    "duration": "8:22",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Marlais Remix)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Rockdaworld Remix)",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Submerse Remix)",
+                    "duration": "5:06",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "This Is All Yours",
+            "url": "https://en.wikipedia.org/wiki/This_Is_All_Yours",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Alt-J_-_This_is_all_yours.jpg/220px-Alt-J_-_This_is_all_yours.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "22 September 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Every_Other_Freckle",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Every_Other_Freckle_alt-J.jpg/220px-Every_Other_Freckle_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hunger_of_the_Pine",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Alt_j_hunger_of_the_pine.jpg/220px-Alt_j_hunger_of_the_pine.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bloodflood Pt. II",
+                    "duration": "5:19",
+                    "image": {}
+                },
+                {
+                    "name": "Nara",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Choice Kingdom",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Left_Hand_Free",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Left_Hand_Free_alt-j.jpg/220px-Left_Hand_Free_alt-j.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Warm Foothills",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "The Gospel of John Hurt",
+                    "duration": "5:15",
+                    "image": {}
+                },
+                {
+                    "name": "Pusher",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "64:35",
+                    "image": {}
+                },
+                {
+                    "name": "Arrival in Nara",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (Garden of England)",
+                    "duration": "1:07",
+                    "image": {}
+                },
+                {
+                    "name": "Hidden_track",
+                    "duration": "16:02",
+                    "image": {}
+                },
+                {
+                    "name": "Intro",
+                    "duration": "4:38",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Relaxer",
+            "url": "https://en.wikipedia.org/wiki/Relaxer_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Alt-J_-_Relaxer_cover.jpg/220px-Alt-J_-_Relaxer_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "2 June 2017"
+            },
+            "tracks": [
+                {
+                    "name": "In_Cold_Blood_(alt-J_song)",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/In_Cold_Blood_alt-J.jpg/220px-In_Cold_Blood_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_House_of_the_Rising_Sun",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg/220px-The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adeline_(song)",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Adeline_alt-J.jpg/220px-Adeline_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "38:59",
+                    "image": {}
+                },
+                {
+                    "name": "3WW",
+                    "duration": "5:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/3WW_alt-J.jpg/220px-3WW_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hit Me Like That Snare",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Deadcrush",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Alt-J_Deadcrush_single.jpg/220px-Alt-J_Deadcrush_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Last Year",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Pleader_(song)",
+                    "duration": "5:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Alt-J_pleader_single.jpg/220px-Alt-J_pleader_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The Dream",
+            "url": "https://en.wikipedia.org/wiki/The_Dream_(alt-J_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Alt-J_-_The_Dream.png/220px-Alt-J_-_The_Dream.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "11 February 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Hard Drive Gold",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "The Actor",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Bane",
+                    "duration": "5:10",
+                    "image": {}
+                },
+                {
+                    "name": "Philadelphia",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Delta",
+                    "duration": "1:00",
+                    "image": {}
+                },
+                {
+                    "name": "Happier When You're Gone",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Get Better",
+                    "duration": "5:51",
+                    "image": {}
+                },
+                {
+                    "name": "Chicago",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Powders",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "49:22",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026ME",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Walk a Mile",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "1:09:55",
+                    "image": {}
+                },
+                {
+                    "name": "The Actor (Single Edit)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026Me (Single Edit)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Hard Drive Gold (Loor Remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Maya_Jane_Coles",
+                    "duration": "5:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg/220px-Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Baauer",
+                    "duration": "4:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Baauer_by_No_Fame_Agency.jpg/220px-Baauer_by_No_Fame_Agency.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Matilda_(alt-J_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Alt-J_matilda.jpg/220px-Alt-J_matilda.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "1:10:01",
+                    "image": {}
+                },
+                {
+                    "name": "Oceans Are Forming (Demo)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Hard Drive Gold (Loor Remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026ME (The De Beauvoir Session)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Get Better (The De Beauvoir Session)",
+                    "duration": "5:25",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS Lucid Remix)",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS NREM Remix)",
+                    "duration": "5:02",
+                    "image": {}
+                },
+                {
+                    "name": "1:08:57",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS Cycles Remix)",
+                    "duration": "9:40",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Live at Red Rocks",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Reduxer",
+            "url": "https://en.wikipedia.org/wiki/Reduxer",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Reduxer300x300.png/220px-Reduxer300x300.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "28 September 2018"
+            },
+            "tracks": [
+                {
+                    "name": "Lomepal",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Festival_des_Vieilles_Charrues_2019_-_Lomepal_-_038.jpg/220px-Festival_des_Vieilles_Charrues_2019_-_Lomepal_-_038.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_Cold_Blood_(alt-J_song)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/In_Cold_Blood_alt-J.jpg/220px-In_Cold_Blood_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_House_of_the_Rising_Sun",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg/220px-The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Deadcrush",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Alt-J_Deadcrush_single.jpg/220px-Alt-J_Deadcrush_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adeline_(song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Adeline_alt-J.jpg/220px-Adeline_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Terrace_Martin",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg/220px-Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pleader_(song)",
+                    "duration": "4:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Alt-J_pleader_single.jpg/220px-Alt-J_pleader_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "3WW",
+                    "duration": "5:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/3WW_alt-J.jpg/220px-3WW_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hit Me Like That Snare (Jimi Charles Moody Version)",
+                    "duration": "4:32",
+                    "image": {}
+                },
+                {
+                    "name": "In Cold Blood (Kontra K Version) (featuring Kontra K)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Rejjie_Snow",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "43:07",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "An Awesome Wave",
+            "url": "https://en.wikipedia.org/wiki/An_Awesome_Wave",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Alt-J_-_An_Awesome_Wave.png/220px-Alt-J_-_An_Awesome_Wave.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "25 May 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Breezeblocks_(song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Breezeblocks.jpg/220px-Breezeblocks.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "❦ (Piano)",
+                    "duration": "0:53",
+                    "image": {}
+                },
+                {
+                    "name": "Bloodflood",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Alt-j_bloodflood.jpg/220px-Alt-j_bloodflood.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Taro (“Taro” ends at 5:04; hidden track “Hand-Made” starts at 10:04 following 5:00 of silence)",
+                    "duration": "12:41",
+                    "image": {}
+                },
+                {
+                    "name": "Intro",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (The Ripe \u0026 Ruin)",
+                    "duration": "1:12",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (Guitar)",
+                    "duration": "1:17",
+                    "image": {}
+                },
+                {
+                    "name": "Something_Good_(alt-J_song)",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/SomethingGood.jpg/220px-SomethingGood.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dissolve Me",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate_(song)",
+                    "duration": "3:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Tessellate.jpg/220px-Tessellate.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Matilda_(alt-J_song)",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Alt-J_matilda.jpg/220px-Alt-J_matilda.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ms",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Dave Sitek Remix)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Broadbandits Afro Mix)",
+                    "duration": "5:27",
+                    "image": {}
+                },
+                {
+                    "name": "Bloodflood (SARM Acoustic Version)",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Alt-J vs. NOC// Mix)",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Tom Vek's SFX Remix)",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Ben De Vries Remix)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Matilda (SARM Acoustic Version)",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (music video)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (The Internet of Odd Future Remix)",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (BlackBox Remix)",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (Tong \u0026 Rogers Remix)",
+                    "duration": "8:22",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (music video)",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (music video)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Rockdaworld Remix)",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "Matilda (Ghostpoet 'Gang Panang Adlit' Remix)",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (SARM Acoustic Version)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (SARM Acoustic Version)",
+                    "duration": "3:02",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (Submerse Remix)",
+                    "duration": "5:06",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Jim James 'Apple C' Remix)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (The Invisible BMC Remix)",
+                    "duration": "5:08",
+                    "image": {}
+                },
+                {
+                    "name": "Taro (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:23",
+                    "image": {}
+                },
+                {
+                    "name": "Something Good (Fort Romeau Remix)",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (BlackBox Remix)",
+                    "duration": "5:55",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Dam Mantle Remix)",
+                    "duration": "6:17",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Marlais Remix)",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (bretonLABS Remix)",
+                    "duration": "4.23",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:26",
+                    "image": {}
+                },
+                {
+                    "name": "Breezeblocks (B-JU Remix)",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Tessellate (Anstam Remix)",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Fitzpleasure (Live from the Africa Centre 14.04.12)",
+                    "duration": "4:03",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "This Is All Yours",
+            "url": "https://en.wikipedia.org/wiki/This_Is_All_Yours",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Alt-J_-_This_is_all_yours.jpg/220px-Alt-J_-_This_is_all_yours.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "22 September 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Choice Kingdom",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Bloodflood Pt. II",
+                    "duration": "5:19",
+                    "image": {}
+                },
+                {
+                    "name": "Arrival in Nara",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "❦ (Garden of England)",
+                    "duration": "1:07",
+                    "image": {}
+                },
+                {
+                    "name": "Warm Foothills",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Pusher",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Nara",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Left_Hand_Free",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Left_Hand_Free_alt-j.jpg/220px-Left_Hand_Free_alt-j.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Intro",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "Hunger_of_the_Pine",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Alt_j_hunger_of_the_pine.jpg/220px-Alt_j_hunger_of_the_pine.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Gospel of John Hurt",
+                    "duration": "5:15",
+                    "image": {}
+                },
+                {
+                    "name": "Hidden_track",
+                    "duration": "16:02",
+                    "image": {}
+                },
+                {
+                    "name": "64:35",
+                    "image": {}
+                },
+                {
+                    "name": "Every_Other_Freckle",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Every_Other_Freckle_alt-J.jpg/220px-Every_Other_Freckle_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Relaxer",
+            "url": "https://en.wikipedia.org/wiki/Relaxer_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Alt-J_-_Relaxer_cover.jpg/220px-Alt-J_-_Relaxer_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "2 June 2017"
+            },
+            "tracks": [
+                {
+                    "name": "3WW",
+                    "duration": "5:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/3WW_alt-J.jpg/220px-3WW_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hit Me Like That Snare",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Adeline_(song)",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Adeline_alt-J.jpg/220px-Adeline_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pleader_(song)",
+                    "duration": "5:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Alt-J_pleader_single.jpg/220px-Alt-J_pleader_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "38:59",
+                    "image": {}
+                },
+                {
+                    "name": "In_Cold_Blood_(alt-J_song)",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/In_Cold_Blood_alt-J.jpg/220px-In_Cold_Blood_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_House_of_the_Rising_Sun",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg/220px-The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Deadcrush",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Alt-J_Deadcrush_single.jpg/220px-Alt-J_Deadcrush_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Last Year",
+                    "duration": "6:06",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "The Dream",
+            "url": "https://en.wikipedia.org/wiki/The_Dream_(alt-J_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Alt-J_-_The_Dream.png/220px-Alt-J_-_The_Dream.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "11 February 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Happier When You're Gone",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Chicago",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Philadelphia",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Walk a Mile",
+                    "duration": "6:29",
+                    "image": {}
+                },
+                {
+                    "name": "Delta",
+                    "duration": "1:00",
+                    "image": {}
+                },
+                {
+                    "name": "Hard Drive Gold",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "The Actor",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Get Better",
+                    "duration": "5:51",
+                    "image": {}
+                },
+                {
+                    "name": "Powders",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "Bane",
+                    "duration": "5:10",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026ME",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "49:22",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Baauer",
+                    "duration": "4:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Baauer_by_No_Fame_Agency.jpg/220px-Baauer_by_No_Fame_Agency.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "1:09:55",
+                    "image": {}
+                },
+                {
+                    "name": "The Actor (Single Edit)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026Me (Single Edit)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Hard Drive Gold (Loor Remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Maya_Jane_Coles",
+                    "duration": "5:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg/220px-Maya_Jane_Coles_%28Photo_by_Jennifer_Iliffe%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Matilda_(alt-J_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Alt-J_matilda.jpg/220px-Alt-J_matilda.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "1:10:01",
+                    "image": {}
+                },
+                {
+                    "name": "Oceans Are Forming (Demo)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Hard Drive Gold (Loor Remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "U\u0026ME (The De Beauvoir Session)",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Get Better (The De Beauvoir Session)",
+                    "duration": "5:25",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS Cycles Remix)",
+                    "duration": "9:40",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS Lucid Remix)",
+                    "duration": "4:53",
+                    "image": {}
+                },
+                {
+                    "name": "The Dream (CARBS NREM Remix)",
+                    "duration": "5:02",
+                    "image": {}
+                },
+                {
+                    "name": "1:08:57",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live at Red Rocks",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Reduxer",
+            "url": "https://en.wikipedia.org/wiki/Reduxer",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Reduxer300x300.png/220px-Reduxer300x300.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "28 September 2018"
+            },
+            "tracks": [
+                {
+                    "name": "Lomepal",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Festival_des_Vieilles_Charrues_2019_-_Lomepal_-_038.jpg/220px-Festival_des_Vieilles_Charrues_2019_-_Lomepal_-_038.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:07",
+                    "image": {}
+                },
+                {
+                    "name": "3WW",
+                    "duration": "5:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/3WW_alt-J.jpg/220px-3WW_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hit Me Like That Snare (Jimi Charles Moody Version)",
+                    "duration": "4:32",
+                    "image": {}
+                },
+                {
+                    "name": "Deadcrush",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Alt-J_Deadcrush_single.jpg/220px-Alt-J_Deadcrush_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adeline_(song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Adeline_alt-J.jpg/220px-Adeline_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Terrace_Martin",
+                    "duration": "4:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg/220px-Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pleader_(song)",
+                    "duration": "4:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Alt-J_pleader_single.jpg/220px-Alt-J_pleader_single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_Cold_Blood_(alt-J_song)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/In_Cold_Blood_alt-J.jpg/220px-In_Cold_Blood_alt-J.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_House_of_the_Rising_Sun",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg/220px-The_House_of_the_Rising_Sun_-_Dolly_Parton.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In Cold Blood (Kontra K Version) (featuring Kontra K)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Rejjie_Snow",
+                    "duration": "3:00",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

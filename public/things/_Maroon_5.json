@@ -1,0 +1,4889 @@
+{
+    "name": "Maroon_5",
+    "has_occupation": [
+        {
+            "name": "musical group"
+        }
+    ],
+    "awards": [
+        "Grammy Award for Best New Artist",
+        "MTV Europe Music Award for Best New Act"
+    ],
+    "genres": [
+        "alternative rock",
+        "funk rock",
+        "grunge",
+        "punk rock",
+        "pop rock"
+    ],
+    "albums": [
+        {
+            "name": "Overexposed",
+            "url": "https://en.wikipedia.org/wiki/Overexposed_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Maroon_5_-_Overexposed.png/220px-Maroon_5_-_Overexposed.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 20, 2012"
+            },
+            "tracks": [
+                {
+                    "name": "The Man Who Never Lied",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Somebody_(Maroon_5_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Maroon_5_-_%22Love_Somebody%22.png/220px-Maroon_5_-_%22Love_Somebody%22.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sad",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone_(song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fortune Teller",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Tickets",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "One_More_Night_(Maroon_5_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Maroon_5_One_More_Night_cover.png/220px-Maroon_5_One_More_Night_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lucky_Strike_(Maroon_5_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Lucky_Strike.jpeg/220px-Lucky_Strike.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ladykiller",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Doin' Dirt",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Beautiful Goodbye",
+                    "duration": "4:15",
+                    "image": {}
+                },
+                {
+                    "name": "42:10",
+                    "image": {}
+                },
+                {
+                    "name": "Moves_like_Jagger",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wipe Your Eyes",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted Years",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Let's_Stay_Together_(Al_Green_song)",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Tina_Turner_-_Let%27s_Stay_Together.jpg/220px-Tina_Turner_-_Let%27s_Stay_Together.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kiss_(Prince_song)",
+                    "duration": "7:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Art_Of_Noise_Tom_Jones_Kiss_7%27%27_cover.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "The_Sound_of_Arrows",
+                    "duration": "5:03",
+                    "image": {}
+                },
+                {
+                    "name": "Moves like Jagger (featuring Christina Aguilera)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (Supreme Cuts Remix; featuring Wiz Khalifa)",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (Cutmore Remix; featuring Wiz Khalifa)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Moves Like Jagger (Music video)",
+                    "duration": "4:39",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (music video; featuring Wiz Khalifa)",
+                    "duration": "4:40",
+                    "image": {}
+                },
+                {
+                    "name": "Press kit",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Red Pill Blues",
+            "url": "https://en.wikipedia.org/wiki/Red_Pill_Blues",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Red_Pill_Blues_cover.png/220px-Red_Pill_Blues_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 3, 2017"
+            },
+            "tracks": [
+                {
+                    "name": "LunchMoney_Lewis",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Whiskey_(Maroon_5_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Maroon5Whiskey.jpg/220px-Maroon5Whiskey.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Girls_Like_You",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Girls_like_You_cover.png/220px-Girls_like_You_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "42:10",
+                    "image": {}
+                },
+                {
+                    "name": "Lips on You",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Bet My Heart",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Wait_(Maroon_5_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Maroon5Wait.jpg/220px-Maroon5Wait.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Help_Me_Out",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Closure",
+                    "duration": "11:29",
+                    "image": {}
+                },
+                {
+                    "name": "Best 4 U",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "What_Lovers_Do",
+                    "duration": "3:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Whatloversdo.jpg/220px-Whatloversdo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Denim Jacket",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Visions",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Know",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Don%27t_Wanna_Know_%28featuring_Kendrick_Lamar%29_%28Official_Single_Cover%29_by_Maroon_5.png/220px-Don%27t_Wanna_Know_%28featuring_Kendrick_Lamar%29_%28Official_Single_Cover%29_by_Maroon_5.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cold_(Maroon_5_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Cold_%28featuring_Future%29_%28Official_Single_Cover%29_by_Maroon_5.png/220px-Cold_%28featuring_Future%29_%28Official_Single_Cover%29_by_Maroon_5.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "57:20",
+                    "image": {}
+                },
+                {
+                    "name": "Cardi_B",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cardi_B_logo.png/200px-Cardi_B_logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "46:05",
+                    "image": {}
+                },
+                {
+                    "name": "Cold (featuring Future)",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "61:02",
+                    "image": {}
+                },
+                {
+                    "name": "Plastic Rose",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Know (featuring Kendrick Lamar)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (featuring Cardi B)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "64:57",
+                    "image": {}
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "29:30",
+                    "image": {}
+                },
+                {
+                    "name": "Moves like Jagger",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stereo_Hearts",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Gym_Class_Heroes_-_Stereo_Hearts.jpg/220px-Gym_Class_Heroes_-_Stereo_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "4:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "6:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Moves like Jagger",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Payphone (song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This Love (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Stereo Hearts (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (live)",
+                    "image": {}
+                },
+                {
+                    "name": "St._Vincent_(musician)",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Glastonbury2022_Annie_Erin_Clark_aka_St._Vincent_%28cropped%29.jpg/220px-Glastonbury2022_Annie_Erin_Clark_aka_St._Vincent_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Slushii",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Slushii_Mad_Decent_Block_Party_01_%28cropped%29.jpg/260px-Slushii_Mad_Decent_Block_Party_01_%28cropped%29.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "Gucci_Mane",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gucci_Mane_at_515_Alive_%28cropped_portrait%29.jpg/220px-Gucci_Mane_at_515_Alive_%28cropped_portrait%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "72:27",
+                    "image": {}
+                },
+                {
+                    "name": "What Lovers Do (music video; featuring SZA)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "What Lovers Do (behind the scenes; featuring SZA)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Snapchat",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "28:30",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (music video; featuring Cardi B)",
+                    "duration": "4:31",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (behind the scenes teaser; featuring Cardi B)",
+                    "duration": "0:31",
+                    "image": {}
+                },
+                {
+                    "name": "Cold (music video; featuring Future)",
+                    "duration": "6:51",
+                    "image": {}
+                },
+                {
+                    "name": "Wait (music video)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "Wait (behind the scenes)",
+                    "duration": "3:00",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Kara's Flowers",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Kara's Flowers",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Fourth World",
+            "url": "https://en.wikipedia.org/wiki/The_Fourth_World_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/The_Fourth_World_Cover_2.jpg/220px-The_Fourth_World_Cover_2.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 19, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Oliver",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Loving the Small Time",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "To Her, with Love",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "My Ocean Blue",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Future Kid",
+                    "duration": "4:44",
+                    "image": {}
+                },
+                {
+                    "name": "Myself",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "The Never Saga",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Sleepy Windbreaker",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Pantry Queen",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Captain Splendid",
+                    "duration": "5:59",
+                    "image": {}
+                },
+                {
+                    "name": "39:30",
+                    "image": {}
+                },
+                {
+                    "name": "Soap Disco",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Buddy Two Shoes Wilson",
+                    "duration": "2:29",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Maroon 5",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "It Won't Be Soon Before Long",
+            "url": "https://en.wikipedia.org/wiki/It_Won%27t_Be_Soon_Before_Long",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png/220px-Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "May 16, 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Can't Stop",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "Not_Falling_Apart",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Better That We Break",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Back at Your Door",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "40:32",
+                    "image": {}
+                },
+                {
+                    "name": "Little of Your Time",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "Goodnight Goodnight",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Never_See_Your_Face_Again",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png/220px-Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nothing_Lasts_Forever_(Maroon_5_song)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Kiwi",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Figure It Out",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "The B-Side Collection",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/B-side_Collections.JPG/220px-B-side_Collections.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You (acoustic)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Ronson",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg/220px-Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This Love (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "image": {}
+                },
+                {
+                    "name": "Wake Up Call (Director's Cut) (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "11:28",
+                    "image": {}
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Won't Go Home Without You",
+                    "image": {}
+                },
+                {
+                    "name": "Rihanna",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rihanna-signature.svg/150px-Rihanna-signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again (featuring Rihanna)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Ronson",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg/220px-Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "8:21",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Wake Up Call",
+                    "image": {}
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Secret",
+                    "duration": "5:38",
+                    "image": {}
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Little of Your Time",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again (featuring Rihanna)",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "5:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Hands All Over",
+            "url": "https://en.wikipedia.org/wiki/Hands_All_Over_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Maroon_5_-_Hands_All_Over.png/220px-Maroon_5_-_Hands_All_Over.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 15, 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Just a Feeling",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Runaway",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Lady A",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lady_A_-_Charlotte_12-27-12-39.jpg/300px-Lady_A_-_Charlotte_12-27-12-39.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Never_Gonna_Leave_This_Bed",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Never_Gonna_Leave_This_Bed.jpg/220px-Never_Gonna_Leave_This_Bed.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hands All Over",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "How",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Get Back in My Life",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "40:27",
+                    "image": {}
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stutter",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "I Can't Lie",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Give_a_Little_More",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Maroon-5-give-a-little-more-official-single-cover.jpg/220px-Maroon-5-give-a-little-more-official-single-cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Know Nothing",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Crazy_Little_Thing_Called_Love",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Dwight_-_Crazy_Little_Thing_Called_Love.jpg/220px-Dwight_-_Crazy_Little_Thing_Called_Love.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moves_like_Jagger",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:47",
+                    "image": {}
+                },
+                {
+                    "name": "Last Chance",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "No Curtain Call",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Never Gonna Leave This Bed (acoustic)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Misery (acoustic)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Ain't_Got_You",
+                    "duration": "4:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Alicia_Keys_-_If_I_Ain%27t_Got_You_%28single_cover%29.jpg/220px-Alicia_Keys_-_If_I_Ain%27t_Got_You_%28single_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Crazy Little Thing Called Love (acoustic)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Last Chance (live)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "The Air That I Breathe",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "4:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Way_You_Look_Tonight",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/The_Way_You_Look_Tonight_%28The_Lettermen%29_label.jpg/220px-The_Way_You_Look_Tonight_%28The_Lettermen%29_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Air That I Breathe",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Happy_Xmas_(War_is_Over)#Maroon_5_version",
+                    "duration": "3:28",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "We Like Digging?",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Songs About Jane",
+            "url": "https://en.wikipedia.org/wiki/Songs_About_Jane",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Maroon_5_-_Songs_About_Jane.png/220px-Maroon_5_-_Songs_About_Jane.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 25, 2002"
+            },
+            "tracks": [
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not Coming Home",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tangled",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "45:54",
+                    "image": {}
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Must_Get_Out",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Must_Get_Out.jpg/220px-Must_Get_Out.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Secret",
+                    "duration": "4:55",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Through with You",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Kanye_West",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kanyewestsignature.svg/150px-Kanyewestsignature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "This Love (live acoustic)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (live acoustic)",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (acoustic)",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (acoustic)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (Kanye West remix)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live in Hamburg)",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (live in Hamburg)",
+                    "duration": "5:39",
+                    "image": {}
+                },
+                {
+                    "name": "Secret (live in Hamburg)",
+                    "duration": "7:45",
+                    "image": {}
+                },
+                {
+                    "name": "She Will Be Loved (live in Hamburg)",
+                    "duration": "7:15",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (demo)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Tangled (demo)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Take What You Want (demo)",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "Woman (demo)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "She Will Be Loved (demo)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Through with You (demo)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll (original demo/non-LP international B-side)",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun (alternate mix)",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (demo)",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "Shiver (demo)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun (demo)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Must Get Out (demo)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (demo)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Secret (demo)",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Not Coming Home (demo)",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye (demo)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Chilly Winter (demo)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "(What's the Story) Morning Glory?",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted Years (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (live acoustic)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live acoustic)",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "Woman (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "Take What You Want (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (Kanye West remix)",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "V",
+            "url": "https://en.wikipedia.org/wiki/V_(Maroon_5_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Maroon_5_-_V_%28Official_Album_Cover%29.png/220px-Maroon_5_-_V_%28Official_Album_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 29, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "40:10",
+                    "image": {}
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In Your Pocket",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "New Love",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Coming Back for You",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Feelings_(Maroon_5_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Feelings_Cover.jpg/220px-Feelings_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gwen_Stefani",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gwen_Stefani%27s_signature.svg/150px-Gwen_Stefani%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "It_Was_Always_You",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Maroon_5_-_It_Was_Always_You_Single_Cover.png/220px-Maroon_5_-_It_Was_Always_You_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Unkiss_Me",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Leaving California",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Lost_Stars",
+                    "duration": "4:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Lost_Stars.jpg/220px-Lost_Stars.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "52:12",
+                    "image": {}
+                },
+                {
+                    "name": "Shoot Love",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Sex_and_Candy",
+                    "duration": "4:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Scsingle.jpg/220px-Scsingle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:54",
+                    "image": {}
+                },
+                {
+                    "name": "This_Summer's_Gonna_Hurt_like_a_Motherfucker",
+                    "duration": "3:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/This_Summer%27s_Gonna_Hurt_cover.png/220px-This_Summer%27s_Gonna_Hurt_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Big_Sean",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anderson_at_the_2021_Grammys_%28cropped%29.jpg/220px-Anderson_at_the_2021_Grammys_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "60:05",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Slaptop Remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Reflex Remix; featuring Big Sean)",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "International EPK (interview)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Stars (acoustic performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Behind the Scenes)",
+                    "image": {}
+                },
+                {
+                    "name": "This Summer (music video)",
+                    "duration": "5:27",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (music video)",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Animals (music video)",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Stars (acoustic; music video)",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "Sugar (music video)",
+                    "duration": "5:02",
+                    "image": {}
+                },
+                {
+                    "name": "This Summer",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Slaptop remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Gryffin",
+                    "duration": "5:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Griffyn_%2843228990201%29.jpg/220px-Griffyn_%2843228990201%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nicki_Minaj",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg/220px-Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "J_Balvin",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/J_Balvin_2019.png/220px-J_Balvin_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps (Slaptop remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Animals (Danny Olson remix)",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Gryffin",
+                    "duration": "5:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Griffyn_%2843228990201%29.jpg/220px-Griffyn_%2843228990201%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar (remix; featuring Nicki Minaj)",
+                    "duration": "3:55",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Jordi",
+            "url": "https://en.wikipedia.org/wiki/Jordi_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_-_Jordi.png/220px-Maroon_5_-_Jordi.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 11, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Lost_(Maroon_5_song)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "H.E.R.",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/H.E.R._Interview.jpg/220px-H.E.R._Interview.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Juice_Wrld",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg/220px-Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nipsey_Hussle",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg/220px-Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "One Light (featuring Bantu)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "37:45",
+                    "image": {}
+                },
+                {
+                    "name": "Beautiful_Mistakes",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Maroon_5_and_Megan_Thee_Stallion_-_Beautiful_Mistakes.png/220px-Maroon_5_and_Megan_Thee_Stallion_-_Beautiful_Mistakes.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lovesick",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Stevie_Nicks",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stevie_Nicks_signature.svg/150px-Stevie_Nicks_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Seasons",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody's_Love",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Maroon_5_-_Nobody%27s_Love.png/220px-Maroon_5_-_Nobody%27s_Love.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Echo (featuring Blackbear)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Memories_(Maroon_5_song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Maroon_5_-_Memories.png/220px-Maroon_5_-_Memories.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Anuel_AA",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anuel_AA_in_2022.png/220px-Anuel_AA_in_2022.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lifestyle_(Jason_Derulo_song)",
+                    "duration": "2:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Jason_Derulo_-_Lifestyle_%28feat._Adam_Levine%29.jpg/220px-Jason_Derulo_-_Lifestyle_%28feat._Adam_Levine%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:02",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live – Friday the 13th",
+            "url": "https://en.wikipedia.org/wiki/Live_%E2%80%93_Friday_the_13th",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Maroon5_fridaythe13th_cover.png/220px-Maroon5_fridaythe13th_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2005"
+            },
+            "tracks": [
+                {
+                    "name": "Wasted Years",
+                    "duration": "5:23",
+                    "image": {}
+                },
+                {
+                    "name": "Ain't_No_Sunshine",
+                    "duration": "7:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ain%27t_No_Sunshine_Michael_Jackson.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not Coming Home",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Must_Get_Out",
+                    "duration": "4:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Must_Get_Out.jpg/220px-Must_Get_Out.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "9:39",
+                    "image": {}
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "8:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Through with You",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Oasis_(band)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Oasis_Liam_and_Noel.jpg/260px-Oasis_Liam_and_Noel.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "77:58",
+                    "image": {}
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "4:49",
+                    "image": {}
+                },
+                {
+                    "name": "Tangled",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "7:52",
+                    "image": {}
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "6:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Live from Le Cabaret",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "1.22.03.Acoustic",
+            "url": "https://en.wikipedia.org/wiki/1.22.03.Acoustic",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Maroon_5_-_1.22.03.Acoustic.jpg/220px-Maroon_5_-_1.22.03.Acoustic.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 29, 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Fell",
+                    "duration": "3:23[a]",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/If_i_fell_beatles.PNG",
+                        "width": 210,
+                        "height": 210
+                    }
+                },
+                {
+                    "name": "Highway_to_Hell_(song)",
+                    "duration": "4:30[b]",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Highway_to_Hell_by_ACDC_US_single_side-A.png/220px-Highway_to_Hell_by_ACDC_US_single_side-A.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The B-Side Collection",
+            "url": "https://en.wikipedia.org/wiki/The_B-Side_Collection",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/B-side_Collections.JPG/220px-B-side_Collections.JPG",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 18, 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Until You're Over Me (from UK, Australia and Japan editions of It Won't Be Soon Before Long)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind (from Wake Up Call single)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "The Way I Was (from Makes Me Wonder single)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Figure It Out (US iTunes bonus track from It Won't Be Soon Before Long)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation (Bonus track from It Won't Be Soon Before Long)",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Maroon_5_videography",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Singles",
+            "url": "https://en.wikipedia.org/wiki/Singles_(Maroon_5_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Maroon_5_Singles_cover.png/220px-Maroon_5_Singles_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 25, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:44",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moves like Jagger",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "One_More_Night_(Maroon_5_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Maroon_5_One_More_Night_cover.png/220px-Maroon_5_One_More_Night_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "duration": "3:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "51:37",
+                    "image": {}
+                },
+                {
+                    "name": "Feelings_(Maroon_5_song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Feelings_Cover.jpg/220px-Feelings_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "46:57",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Call and Response: The Remix Album",
+            "url": "https://en.wikipedia.org/wiki/Call_and_Response:_The_Remix_Album",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Call_And_Response_The_Remix_Album.jpg/220px-Call_And_Response_The_Remix_Album.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 9, 2008"
+            },
+            "tracks": [
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bloodshy \u0026 Avant",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karlsson_%26_Winnberg.jpg/300px-Karlsson_%26_Winnberg.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "7:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paul_Oakenfold",
+                    "duration": "7:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paul_Oakenfold_Shine_On_Album_Promo.jpg/290px-Paul_Oakenfold_Shine_On_Album_Promo.jpg",
+                        "width": 290,
+                        "height": 290
+                    }
+                },
+                {
+                    "name": "75:17",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Never_See_Your_Face_Again",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png/220px-Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It Won't Be Soon Before Long",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png/220px-Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_Falling_Apart",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "Better That We Break (Ali Shaheed Muhammad and Doc Remix)",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "DJ_Premier",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_%281_von_6%29_%28cropped%29.jpg/220px-DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_%281_von_6%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sam_Farrar",
+                    "duration": "4:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sam_Farrar_-_Phantom_Planet_%282917001023%29.jpg/260px-Sam_Farrar_-_Phantom_Planet_%282917001023%29.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "DJ_Quik",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/DJ_Quick_in_2015.jpg/220px-DJ_Quick_in_2015.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Of_Montreal",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2015_Of_Montreal-El_Korah_Shrine-Treefort2015-Credit-Kasey_Elliott_%2816385792793%29.jpg/300px-2015_Of_Montreal-El_Korah_Shrine-Treefort2015-Credit-Kasey_Elliott_%2816385792793%29.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                }
+            ]
+        },
+        {
+            "name": "It Won't Be Soon Before Long",
+            "url": "https://en.wikipedia.org/wiki/It_Won%27t_Be_Soon_Before_Long",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png/220px-Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "May 16, 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Little of Your Time",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "Goodnight Goodnight",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Not_Falling_Apart",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Kiwi",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Back at Your Door",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Never_See_Your_Face_Again",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png/220px-Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nothing_Lasts_Forever_(Maroon_5_song)",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Can't Stop",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "Better That We Break",
+                    "duration": "3:07",
+                    "image": {}
+                },
+                {
+                    "name": "40:32",
+                    "image": {}
+                },
+                {
+                    "name": "Figure It Out",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Ronson",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg/220px-Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The B-Side Collection",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/B-side_Collections.JPG/220px-B-side_Collections.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You (acoustic)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "image": {}
+                },
+                {
+                    "name": "Wake Up Call (Director's Cut) (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder (live)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Ronson",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg/220px-Mark_Ronson_and_Jennifer_Su%2C_2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Secret",
+                    "duration": "5:38",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "5:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "11:28",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "8:21",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again",
+                    "duration": "4:14",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Wake Up Call",
+                    "image": {}
+                },
+                {
+                    "name": "Won't Go Home Without You",
+                    "image": {}
+                },
+                {
+                    "name": "Rihanna",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rihanna-signature.svg/150px-Rihanna-signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Story",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Makes Me Wonder",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Little of Your Time",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again (featuring Rihanna)",
+                    "image": {}
+                },
+                {
+                    "name": "Until You're Over Me",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "If I Never See Your Face Again (featuring Rihanna)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Miss You, Love You",
+                    "duration": "3:10",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Overexposed",
+            "url": "https://en.wikipedia.org/wiki/Overexposed_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Maroon_5_-_Overexposed.png/220px-Maroon_5_-_Overexposed.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 20, 2012"
+            },
+            "tracks": [
+                {
+                    "name": "The Man Who Never Lied",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Ladykiller",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Tickets",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Lucky_Strike_(Maroon_5_song)",
+                    "duration": "3:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Lucky_Strike.jpeg/220px-Lucky_Strike.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sad",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone_(song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Doin' Dirt",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Beautiful Goodbye",
+                    "duration": "4:15",
+                    "image": {}
+                },
+                {
+                    "name": "42:10",
+                    "image": {}
+                },
+                {
+                    "name": "One_More_Night_(Maroon_5_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Maroon_5_One_More_Night_cover.png/220px-Maroon_5_One_More_Night_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fortune Teller",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Somebody_(Maroon_5_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Maroon_5_-_%22Love_Somebody%22.png/220px-Maroon_5_-_%22Love_Somebody%22.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moves_like_Jagger",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wipe Your Eyes",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted Years",
+                    "duration": "3:33",
+                    "image": {}
+                },
+                {
+                    "name": "Let's_Stay_Together_(Al_Green_song)",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Tina_Turner_-_Let%27s_Stay_Together.jpg/220px-Tina_Turner_-_Let%27s_Stay_Together.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kiss_(Prince_song)",
+                    "duration": "7:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Art_Of_Noise_Tom_Jones_Kiss_7%27%27_cover.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Moves like Jagger (featuring Christina Aguilera)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (Supreme Cuts Remix; featuring Wiz Khalifa)",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (Cutmore Remix; featuring Wiz Khalifa)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "The_Sound_of_Arrows",
+                    "duration": "5:03",
+                    "image": {}
+                },
+                {
+                    "name": "Press kit",
+                    "image": {}
+                },
+                {
+                    "name": "Moves Like Jagger (Music video)",
+                    "duration": "4:39",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (music video; featuring Wiz Khalifa)",
+                    "duration": "4:40",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Red Pill Blues",
+            "url": "https://en.wikipedia.org/wiki/Red_Pill_Blues",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Red_Pill_Blues_cover.png/220px-Red_Pill_Blues_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 3, 2017"
+            },
+            "tracks": [
+                {
+                    "name": "Bet My Heart",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Help_Me_Out",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "LunchMoney_Lewis",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Closure",
+                    "duration": "11:29",
+                    "image": {}
+                },
+                {
+                    "name": "42:10",
+                    "image": {}
+                },
+                {
+                    "name": "Wait_(Maroon_5_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Maroon5Wait.jpg/220px-Maroon5Wait.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lips on You",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Whiskey_(Maroon_5_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Maroon5Whiskey.jpg/220px-Maroon5Whiskey.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Girls_Like_You",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Girls_like_You_cover.png/220px-Girls_like_You_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Best 4 U",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "What_Lovers_Do",
+                    "duration": "3:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Whatloversdo.jpg/220px-Whatloversdo.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "57:20",
+                    "image": {}
+                },
+                {
+                    "name": "Denim Jacket",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Visions",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Wanna_Know",
+                    "duration": "3:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Don%27t_Wanna_Know_%28featuring_Kendrick_Lamar%29_%28Official_Single_Cover%29_by_Maroon_5.png/220px-Don%27t_Wanna_Know_%28featuring_Kendrick_Lamar%29_%28Official_Single_Cover%29_by_Maroon_5.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cold_(Maroon_5_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Cold_%28featuring_Future%29_%28Official_Single_Cover%29_by_Maroon_5.png/220px-Cold_%28featuring_Future%29_%28Official_Single_Cover%29_by_Maroon_5.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cardi_B",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cardi_B_logo.png/200px-Cardi_B_logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "46:05",
+                    "image": {}
+                },
+                {
+                    "name": "Plastic Rose",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Don't Wanna Know (featuring Kendrick Lamar)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Cold (featuring Future)",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "61:02",
+                    "image": {}
+                },
+                {
+                    "name": "64:57",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (featuring Cardi B)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Moves like Jagger",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stereo_Hearts",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Gym_Class_Heroes_-_Stereo_Hearts.jpg/220px-Gym_Class_Heroes_-_Stereo_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "4:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "6:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "29:30",
+                    "image": {}
+                },
+                {
+                    "name": "Stereo Hearts (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Daylight (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Payphone (song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps (live)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Animals (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Moves like Jagger",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "St._Vincent_(musician)",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Glastonbury2022_Annie_Erin_Clark_aka_St._Vincent_%28cropped%29.jpg/220px-Glastonbury2022_Annie_Erin_Clark_aka_St._Vincent_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Slushii",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Slushii_Mad_Decent_Block_Party_01_%28cropped%29.jpg/260px-Slushii_Mad_Decent_Block_Party_01_%28cropped%29.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "Gucci_Mane",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Gucci_Mane_at_515_Alive_%28cropped_portrait%29.jpg/220px-Gucci_Mane_at_515_Alive_%28cropped_portrait%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "72:27",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (music video; featuring Cardi B)",
+                    "duration": "4:31",
+                    "image": {}
+                },
+                {
+                    "name": "What Lovers Do (music video; featuring SZA)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "What Lovers Do (behind the scenes; featuring SZA)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Snapchat",
+                    "duration": "3:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Wait (behind the scenes)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Cold (music video; featuring Future)",
+                    "duration": "6:51",
+                    "image": {}
+                },
+                {
+                    "name": "Girls Like You (behind the scenes teaser; featuring Cardi B)",
+                    "duration": "0:31",
+                    "image": {}
+                },
+                {
+                    "name": "Wait (music video)",
+                    "duration": "3:35",
+                    "image": {}
+                },
+                {
+                    "name": "28:30",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Jordi",
+            "url": "https://en.wikipedia.org/wiki/Jordi_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_-_Jordi.png/220px-Maroon_5_-_Jordi.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 11, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Juice_Wrld",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg/220px-Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Memories_(Maroon_5_song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Maroon_5_-_Memories.png/220px-Maroon_5_-_Memories.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lovesick",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody's_Love",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Maroon_5_-_Nobody%27s_Love.png/220px-Maroon_5_-_Nobody%27s_Love.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "37:45",
+                    "image": {}
+                },
+                {
+                    "name": "Lost_(Maroon_5_song)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "One Light (featuring Bantu)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Echo (featuring Blackbear)",
+                    "duration": "2:58",
+                    "image": {}
+                },
+                {
+                    "name": "Stevie_Nicks",
+                    "duration": "2:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stevie_Nicks_signature.svg/150px-Stevie_Nicks_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Seasons",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "H.E.R.",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/H.E.R._Interview.jpg/220px-H.E.R._Interview.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nipsey_Hussle",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg/220px-Soundtrack_Beat_Battle_Judging_Panel_March2011_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Beautiful_Mistakes",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Maroon_5_and_Megan_Thee_Stallion_-_Beautiful_Mistakes.png/220px-Maroon_5_and_Megan_Thee_Stallion_-_Beautiful_Mistakes.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lifestyle_(Jason_Derulo_song)",
+                    "duration": "2:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Jason_Derulo_-_Lifestyle_%28feat._Adam_Levine%29.jpg/220px-Jason_Derulo_-_Lifestyle_%28feat._Adam_Levine%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:02",
+                    "image": {}
+                },
+                {
+                    "name": "Anuel_AA",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anuel_AA_in_2022.png/220px-Anuel_AA_in_2022.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "We Like Digging?",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Maroon 5",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Songs About Jane",
+            "url": "https://en.wikipedia.org/wiki/Songs_About_Jane",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Maroon_5_-_Songs_About_Jane.png/220px-Maroon_5_-_Songs_About_Jane.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 25, 2002"
+            },
+            "tracks": [
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Secret",
+                    "duration": "4:55",
+                    "image": {}
+                },
+                {
+                    "name": "Not Coming Home",
+                    "duration": "4:21",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "45:54",
+                    "image": {}
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tangled",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Must_Get_Out",
+                    "duration": "3:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Must_Get_Out.jpg/220px-Must_Get_Out.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Through with You",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Kanye_West",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kanyewestsignature.svg/150px-Kanyewestsignature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "This Love (live acoustic)",
+                    "duration": "4:11",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (live acoustic)",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (acoustic)",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (acoustic)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (Kanye West remix)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (live in Hamburg)",
+                    "duration": "5:39",
+                    "image": {}
+                },
+                {
+                    "name": "Secret (live in Hamburg)",
+                    "duration": "7:45",
+                    "image": {}
+                },
+                {
+                    "name": "She Will Be Loved (live in Hamburg)",
+                    "duration": "7:15",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live in Hamburg)",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Through with You (demo)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Sweetest Goodbye (demo)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Take What You Want (demo)",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll (original demo/non-LP international B-side)",
+                    "duration": "5:28",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun (alternate mix)",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "Tangled (demo)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Must Get Out (demo)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "The Sun (demo)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Woman (demo)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (demo)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Shiver (demo)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Chilly Winter (demo)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Secret (demo)",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Not Coming Home (demo)",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday Morning (demo)",
+                    "duration": "4:12",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (demo)",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "She Will Be Loved (demo)",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted Years (live)",
+                    "image": {}
+                },
+                {
+                    "name": "Harder to Breathe (live acoustic)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (live acoustic)",
+                    "image": {}
+                },
+                {
+                    "name": "Ragdoll (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "Woman (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "Take What You Want (demo)",
+                    "image": {}
+                },
+                {
+                    "name": "This Love (Kanye West remix)",
+                    "image": {}
+                },
+                {
+                    "name": "(What's the Story) Morning Glory?",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Hands All Over",
+            "url": "https://en.wikipedia.org/wiki/Hands_All_Over_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Maroon_5_-_Hands_All_Over.png/220px-Maroon_5_-_Hands_All_Over.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 15, 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Get Back in My Life",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Stutter",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Never_Gonna_Leave_This_Bed",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Never_Gonna_Leave_This_Bed.jpg/220px-Never_Gonna_Leave_This_Bed.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I Can't Lie",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Give_a_Little_More",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Maroon-5-give-a-little-more-official-single-cover.jpg/220px-Maroon-5-give-a-little-more-official-single-cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "How",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Just a Feeling",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Lady A",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lady_A_-_Charlotte_12-27-12-39.jpg/300px-Lady_A_-_Charlotte_12-27-12-39.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "40:27",
+                    "image": {}
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't Know Nothing",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Hands All Over",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Runaway",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Crazy_Little_Thing_Called_Love",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Dwight_-_Crazy_Little_Thing_Called_Love.jpg/220px-Dwight_-_Crazy_Little_Thing_Called_Love.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moves_like_Jagger",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:47",
+                    "image": {}
+                },
+                {
+                    "name": "Never Gonna Leave This Bed (acoustic)",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Misery (acoustic)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Ain't_Got_You",
+                    "duration": "4:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Alicia_Keys_-_If_I_Ain%27t_Got_You_%28single_cover%29.jpg/220px-Alicia_Keys_-_If_I_Ain%27t_Got_You_%28single_cover%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Crazy Little Thing Called Love (acoustic)",
+                    "duration": "3:14",
+                    "image": {}
+                },
+                {
+                    "name": "Last Chance",
+                    "duration": "3:09",
+                    "image": {}
+                },
+                {
+                    "name": "No Curtain Call",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "The Air That I Breathe",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Last Chance (live)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "4:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Way_You_Look_Tonight",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/The_Way_You_Look_Tonight_%28The_Lettermen%29_label.jpg/220px-The_Way_You_Look_Tonight_%28The_Lettermen%29_label.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Air That I Breathe",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Happy_Xmas_(War_is_Over)#Maroon_5_version",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "2:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "V",
+            "url": "https://en.wikipedia.org/wiki/V_(Maroon_5_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Maroon_5_-_V_%28Official_Album_Cover%29.png/220px-Maroon_5_-_V_%28Official_Album_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 29, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Feelings_(Maroon_5_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Feelings_Cover.jpg/220px-Feelings_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gwen_Stefani",
+                    "duration": "3:57",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gwen_Stefani%27s_signature.svg/150px-Gwen_Stefani%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "40:10",
+                    "image": {}
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It_Was_Always_You",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Maroon_5_-_It_Was_Always_You_Single_Cover.png/220px-Maroon_5_-_It_Was_Always_You_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Leaving California",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "In Your Pocket",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Coming Back for You",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Unkiss_Me",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "New Love",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Shoot Love",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Sex_and_Candy",
+                    "duration": "4:25",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Scsingle.jpg/220px-Scsingle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lost_Stars",
+                    "duration": "4:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Lost_Stars.jpg/220px-Lost_Stars.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "52:12",
+                    "image": {}
+                },
+                {
+                    "name": "43:54",
+                    "image": {}
+                },
+                {
+                    "name": "This_Summer's_Gonna_Hurt_like_a_Motherfucker",
+                    "duration": "3:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/This_Summer%27s_Gonna_Hurt_cover.png/220px-This_Summer%27s_Gonna_Hurt_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Big_Sean",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anderson_at_the_2021_Grammys_%28cropped%29.jpg/220px-Anderson_at_the_2021_Grammys_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "60:05",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Slaptop Remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Reflex Remix; featuring Big Sean)",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "International EPK (interview)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Stars (acoustic performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (music video)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Behind the Scenes)",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (music video)",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Animals (music video)",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Stars (acoustic; music video)",
+                    "duration": "4:35",
+                    "image": {}
+                },
+                {
+                    "name": "Sugar (music video)",
+                    "duration": "5:02",
+                    "image": {}
+                },
+                {
+                    "name": "This Summer (music video)",
+                    "duration": "5:27",
+                    "image": {}
+                },
+                {
+                    "name": "Nicki_Minaj",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg/220px-Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This Summer",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Maps (Slaptop remix)",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Gryffin",
+                    "duration": "5:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Griffyn_%2843228990201%29.jpg/220px-Griffyn_%2843228990201%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "J_Balvin",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/J_Balvin_2019.png/220px-J_Balvin_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps (Slaptop remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Animals (Danny Olson remix)",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Gryffin",
+                    "duration": "5:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Griffyn_%2843228990201%29.jpg/220px-Griffyn_%2843228990201%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar (remix; featuring Nicki Minaj)",
+                    "duration": "3:55",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Kara's Flowers",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Kara's Flowers",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The Fourth World",
+            "url": "https://en.wikipedia.org/wiki/The_Fourth_World_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/The_Fourth_World_Cover_2.jpg/220px-The_Fourth_World_Cover_2.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 19, 1997"
+            },
+            "tracks": [
+                {
+                    "name": "Soap Disco",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Future Kid",
+                    "duration": "4:44",
+                    "image": {}
+                },
+                {
+                    "name": "Oliver",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "The Never Saga",
+                    "duration": "3:58",
+                    "image": {}
+                },
+                {
+                    "name": "Pantry Queen",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Captain Splendid",
+                    "duration": "5:59",
+                    "image": {}
+                },
+                {
+                    "name": "39:30",
+                    "image": {}
+                },
+                {
+                    "name": "Myself",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Loving the Small Time",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "To Her, with Love",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Sleepy Windbreaker",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "My Ocean Blue",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Buddy Two Shoes Wilson",
+                    "duration": "2:29",
+                    "image": {}
+                },
+                {
+                    "name": "41:59",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "1.22.03.Acoustic",
+            "url": "https://en.wikipedia.org/wiki/1.22.03.Acoustic",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Maroon_5_-_1.22.03.Acoustic.jpg/220px-Maroon_5_-_1.22.03.Acoustic.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 29, 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Highway_to_Hell_(song)",
+                    "duration": "4:30[b]",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Highway_to_Hell_by_ACDC_US_single_side-A.png/220px-Highway_to_Hell_by_ACDC_US_single_side-A.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "4:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "5:18",
+                    "image": {}
+                },
+                {
+                    "name": "If_I_Fell",
+                    "duration": "3:23[a]",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/1/1e/If_i_fell_beatles.PNG",
+                        "width": 210,
+                        "height": 210
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Live – Friday the 13th",
+            "url": "https://en.wikipedia.org/wiki/Live_%E2%80%93_Friday_the_13th",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Maroon5_fridaythe13th_cover.png/220px-Maroon5_fridaythe13th_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 20, 2005"
+            },
+            "tracks": [
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Sun",
+                    "duration": "7:52",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted Years",
+                    "duration": "5:23",
+                    "image": {}
+                },
+                {
+                    "name": "Not Coming Home",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "5:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Must_Get_Out",
+                    "duration": "4:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Must_Get_Out.jpg/220px-Must_Get_Out.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ain't_No_Sunshine",
+                    "duration": "7:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ain%27t_No_Sunshine_Michael_Jackson.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Oasis_(band)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Oasis_Liam_and_Noel.jpg/260px-Oasis_Liam_and_Noel.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "Through with You",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "8:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "77:58",
+                    "image": {}
+                },
+                {
+                    "name": "Shiver",
+                    "duration": "4:49",
+                    "image": {}
+                },
+                {
+                    "name": "Tangled",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "6:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweetest Goodbye",
+                    "duration": "9:39",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live from Le Cabaret",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The B-Side Collection",
+            "url": "https://en.wikipedia.org/wiki/The_B-Side_Collection",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/B-side_Collections.JPG/220px-B-side_Collections.JPG",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 18, 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Maroon_5_videography",
+                    "duration": "4:27",
+                    "image": {}
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Until You're Over Me (from UK, Australia and Japan editions of It Won't Be Soon Before Long)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Losing My Mind (from Wake Up Call single)",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "The Way I Was (from Makes Me Wonder single)",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Figure It Out (US iTunes bonus track from It Won't Be Soon Before Long)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Infatuation (Bonus track from It Won't Be Soon Before Long)",
+                    "duration": "4:27",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Singles",
+            "url": "https://en.wikipedia.org/wiki/Singles_(Maroon_5_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Maroon_5_Singles_cover.png/220px-Maroon_5_Singles_cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 25, 2015"
+            },
+            "tracks": [
+                {
+                    "name": "Moves like Jagger",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Maroon_5_Moves_Like_Jagger_cover.png/220px-Maroon_5_Moves_Like_Jagger_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Animals_(Maroon_5_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Maroon_5_-_Animals_Single_Cover.png/220px-Maroon_5_-_Animals_Single_Cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sugar_(Maroon_5_song)",
+                    "duration": "3:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Maroon_5_Sugar_cover.png/220px-Maroon_5_Sugar_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "3:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Maps_(Maroon_5_song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Maroon_5_Maps_cover.png/220px-Maroon_5_Maps_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Payphone (song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Payphonesong.jpg/220px-Payphonesong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "One_More_Night_(Maroon_5_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Maroon_5_One_More_Night_cover.png/220px-Maroon_5_One_More_Night_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Misery_(Maroon_5_song)",
+                    "duration": "3:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Misery-maroon_5.jpg/220px-Misery-maroon_5.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Daylight_(Maroon_5_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Maroon_5_Daylight_cover.png/220px-Maroon_5_Daylight_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:44",
+                    "image": {}
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Won't_Go_Home_Without_You",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG/220px-Maroon_5_Won%27t_Go_Home_Without_You_Cover.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "51:37",
+                    "image": {}
+                },
+                {
+                    "name": "Feelings_(Maroon_5_song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Feelings_Cover.jpg/220px-Feelings_Cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "46:57",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Call and Response: The Remix Album",
+            "url": "https://en.wikipedia.org/wiki/Call_and_Response:_The_Remix_Album",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Call_And_Response_The_Remix_Album.jpg/220px-Call_And_Response_The_Remix_Album.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 9, 2008"
+            },
+            "tracks": [
+                {
+                    "name": "It Won't Be Soon Before Long",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png/220px-Maroon_5_-_It_Won%27t_Be_Soon_Before_Long.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "75:17",
+                    "image": {}
+                },
+                {
+                    "name": "Of_Montreal",
+                    "duration": "3:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2015_Of_Montreal-El_Korah_Shrine-Treefort2015-Credit-Kasey_Elliott_%2816385792793%29.jpg/300px-2015_Of_Montreal-El_Korah_Shrine-Treefort2015-Credit-Kasey_Elliott_%2816385792793%29.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bloodshy \u0026 Avant",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karlsson_%26_Winnberg.jpg/300px-Karlsson_%26_Winnberg.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Better That We Break (Ali Shaheed Muhammad and Doc Remix)",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "DJ_Premier",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_%281_von_6%29_%28cropped%29.jpg/220px-DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_%281_von_6%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sunday_Morning_(Maroon_5_song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sunday_Morning_cover.png/220px-Sunday_Morning_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_Falling_Apart",
+                    "duration": "6:09",
+                    "image": {}
+                },
+                {
+                    "name": "Sam_Farrar",
+                    "duration": "4:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sam_Farrar_-_Phantom_Planet_%282917001023%29.jpg/260px-Sam_Farrar_-_Phantom_Planet_%282917001023%29.jpg",
+                        "width": 260,
+                        "height": 260
+                    }
+                },
+                {
+                    "name": "This_Love_(Maroon_5_song)",
+                    "duration": "7:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/This_Love_cover.png/220px-This_Love_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Makes_Me_Wonder",
+                    "duration": "5:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Maroon5-makes-me-wonder.jpg/220px-Maroon5-makes-me-wonder.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wake_Up_Call_(Maroon_5_song)",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Maroon5-WakeUpCall.jpg/220px-Maroon5-WakeUpCall.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "She_Will_Be_Loved",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/She_Will_be_Loved_cover.png/220px-She_Will_be_Loved_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "DJ_Quik",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/DJ_Quick_in_2015.jpg/220px-DJ_Quick_in_2015.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Harder_to_Breathe",
+                    "duration": "2:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Maroon_5_-_Harder_to_Breathe.png/220px-Maroon_5_-_Harder_to_Breathe.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Paul_Oakenfold",
+                    "duration": "7:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Paul_Oakenfold_Shine_On_Album_Promo.jpg/290px-Paul_Oakenfold_Shine_On_Album_Promo.jpg",
+                        "width": 290,
+                        "height": 290
+                    }
+                },
+                {
+                    "name": "If_I_Never_See_Your_Face_Again",
+                    "duration": "3:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png/220px-Maroon_5_feat_rihanna-if_i_never_see_your_face_again.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        }
+    ]
+}

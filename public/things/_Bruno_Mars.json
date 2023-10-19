@@ -1,0 +1,697 @@
+{
+    "name": "Bruno_Mars",
+    "has_occupation": [
+        {
+            "name": "dancer"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "songwriter"
+        },
+        {
+            "name": "voice actor"
+        },
+        {
+            "name": "music video director"
+        },
+        {
+            "name": "multi-instrumentalist"
+        },
+        {
+            "name": "musician"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "Grammy Awards",
+        "American Music Award for Artist of the Year",
+        "QQ Music Awards"
+    ],
+    "genres": [
+        "contemporary R\u0026B",
+        "funk",
+        "pop music",
+        "soul music",
+        "reggae",
+        "hip hop music",
+        "rock music"
+    ],
+    "albums": [
+        {
+            "name": "Doo-Wops \u0026 Hooligans",
+            "url": "https://en.wikipedia.org/wiki/Doo-Wops_%26_Hooligans",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Bruno_Mars_-_Doo-Wops_%26_Hooligans.png/220px-Bruno_Mars_-_Doo-Wops_%26_Hooligans.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 4, 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Talking_to_the_Moon",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Liquor_Store_Blues",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Bruno-mars-liquor-store-blues.jpg/220px-Bruno-mars-liquor-store-blues.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Grenade_(song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/BrunoMarsGrenade.jpg/220px-BrunoMarsGrenade.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Marry_You",
+                    "duration": "3:50",
+                    "image": {}
+                },
+                {
+                    "name": "Runaway_Baby",
+                    "duration": "2:27",
+                    "image": {}
+                },
+                {
+                    "name": "The_Lazy_Song",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/The_Lazy_Song.jpg/220px-The_Lazy_Song.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Count_On_Me_(Bruno_Mars_song)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "CeeLo_Green",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CeeLo_Green_by_Gage_Skidmore.jpg/220px-CeeLo_Green_by_Gage_Skidmore.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "35:27",
+                    "image": {}
+                },
+                {
+                    "name": "Just_the_Way_You_Are_(Bruno_Mars_song)",
+                    "duration": "3:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Bruno-mars-just-the-way-you-are.jpg/220px-Bruno-mars-just-the-way-you-are.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Our First Time",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "Somewhere in Brooklyn",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Talking to the Moon (Acoustic Piano Version)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Just the Way You Are (Music video)",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (featuring CeeLo Green and B.o.B) (Music video)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Lupe_Fiasco",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lupe_Fiasco_2012.jpg/220px-Lupe_Fiasco_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Somewhere in Brooklyn",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Somewhere in Brooklyn",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Talking to the Moon (Acoustic Piano Version)",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Just_the_Way_You_Are_(Bruno_Mars_song)",
+                    "duration": "4:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Bruno-mars-just-the-way-you-are.jpg/220px-Bruno-mars-just-the-way-you-are.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Grenade (Walmart Soundcheck Version) (Live)",
+                    "duration": "4:37",
+                    "image": {}
+                },
+                {
+                    "name": "The Other Side (Walmart Soundcheck Version) (Live)",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Lupe_Fiasco",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lupe_Fiasco_2012.jpg/220px-Lupe_Fiasco_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Grenade (The Hooligans Remix)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Passion_Pit",
+                    "duration": "6:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Passion_Pit_%282013%29.jpg/300px-Passion_Pit_%282013%29.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Grenade (Dexpistols Remix)",
+                    "duration": "4:19",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Unorthodox Jukebox",
+            "url": "https://en.wikipedia.org/wiki/Unorthodox_Jukebox",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/BrunoMarsUJAlbumCover.png/220px-BrunoMarsUJAlbumCover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 7, 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Moonshine_(Bruno_Mars_song)",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Bruno-mars-moonshine.jpg/220px-Bruno-mars-moonshine.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Natalie",
+                    "duration": "3:45",
+                    "image": {}
+                },
+                {
+                    "name": "Show Me",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Young_Girls",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/BrunoMarsYoungGirls.jpeg/220px-BrunoMarsYoungGirls.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Locked_Out_of_Heaven",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Bruno_Mars_-_Locked_Out_of_Heaven.jpg/220px-Bruno_Mars_-_Locked_Out_of_Heaven.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Treasure_(song)",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Bruno_Mars_-_Treasure.jpg/220px-Bruno_Mars_-_Treasure.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "If I Knew",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "32:51",
+                    "image": {}
+                },
+                {
+                    "name": "Gorilla_(song)",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/BrunoMarsGorillaArtwork.jpg/220px-BrunoMarsGorillaArtwork.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "When_I_Was_Your_Man",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Bruno-mars-when-i-was-your-man.jpg/220px-Bruno-mars-when-i-was-your-man.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Money Make Her Smile",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Gorilla (Demo)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "The_Futuristics",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Futuristics%2C_2022.jpg/300px-The_Futuristics%2C_2022.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Major_Lazer",
+                    "duration": "4:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Diplo_and_Walshy_Fire_of_Major_Lazer_%40_Flow_2015.jpg/220px-Diplo_and_Walshy_Fire_of_Major_Lazer_%40_Flow_2015.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "48:32",
+                    "image": {}
+                },
+                {
+                    "name": "Esperanza_Spalding",
+                    "duration": "1:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Esperanza_Spalding%2C_2009.jpg/220px-Esperanza_Spalding%2C_2009.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Young Girls (Demo)",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Locked Out of Heaven (music video)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "When I Was Your Man (music video)",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Treasure (music video)",
+                    "duration": "3:11",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "24K Magic",
+            "url": "https://en.wikipedia.org/wiki/24K_Magic_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Bruno_Mars_-_24K_Magic_%28Official_Album_Cover%29.png/220px-Bruno_Mars_-_24K_Magic_%28Official_Album_Cover%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 18, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "Chunky_(Bruno_Mars_song)",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "That's_What_I_Like_(Bruno_Mars_song)",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/That%27s_What_I_Like_Remixes.jpg/220px-That%27s_What_I_Like_Remixes.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Straight Up \u0026 Down",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Calling All My Lovelies",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Too Good to Say Goodbye",
+                    "duration": "4:41",
+                    "image": {}
+                },
+                {
+                    "name": "33:28",
+                    "image": {}
+                },
+                {
+                    "name": "24K_Magic_(song)",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Bruno_Mars_%26_R3hab_-_24K_Magic_remix.jpg/220px-Bruno_Mars_%26_R3hab_-_24K_Magic_remix.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Perm",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Versace_on_the_Floor",
+                    "duration": "4:21",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/VersaceOnTheFloorBrunoMarsvsDavidGuetta.jpg/220px-VersaceOnTheFloorBrunoMarsvsDavidGuetta.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Finesse_(song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Bruno_Mars_%26_Cardi_B_-_Finesse.png/220px-Bruno_Mars_%26_Cardi_B_-_Finesse.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "24K Magic (music video)",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Cardi_B",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cardi_B_logo.png/200px-Cardi_B_logo.png",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "24K Magic",
+                    "image": {}
+                },
+                {
+                    "name": "Perm",
+                    "image": {}
+                },
+                {
+                    "name": "That's What I Like",
+                    "image": {}
+                },
+                {
+                    "name": "Chess in Harlem",
+                    "image": {}
+                },
+                {
+                    "name": "Sylvia's Soul Food",
+                    "image": {}
+                },
+                {
+                    "name": "Good Morning Harlem",
+                    "image": {}
+                },
+                {
+                    "name": "Calling All My Lovelies",
+                    "image": {}
+                },
+                {
+                    "name": "Chunky",
+                    "image": {}
+                },
+                {
+                    "name": "Straight Up \u0026 Down",
+                    "image": {}
+                },
+                {
+                    "name": "Uptown_Funk",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Mark_Ronson_-_Uptown_Funk_%28feat._Bruno_Mars%29_%28Official_Single_Cover%29.png/220px-Mark_Ronson_-_Uptown_Funk_%28feat._Bruno_Mars%29_%28Official_Single_Cover%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Credits",
+                    "image": {}
+                },
+                {
+                    "name": "Finesse",
+                    "image": {}
+                },
+                {
+                    "name": "Treasure (song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Bruno_Mars_-_Treasure.jpg/220px-Bruno_Mars_-_Treasure.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Versace on the Floor",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "An Evening with Silk Sonic(with Anderson .Paak as Silk Sonic)",
+            "url": "https://en.wikipedia.org/wiki/An_Evening_with_Silk_Sonic",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Silk_Sonic_-_An_Evening_with_Silk_Sonic.png/220px-Silk_Sonic_-_An_Evening_with_Silk_Sonic.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 12, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Smokin_out_the_Window",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Silk_Sonic_-_Smokin_Out_The_Window.png/220px-Silk_Sonic_-_Smokin_Out_The_Window.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Put On a Smile",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "777",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Skate_(song)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "31:19",
+                    "image": {}
+                },
+                {
+                    "name": "Silk Sonic Intro",
+                    "duration": "1:03",
+                    "image": {}
+                },
+                {
+                    "name": "Leave_the_Door_Open",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Leavethedooropenlive.jpg/220px-Leavethedooropenlive.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fly as Me",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "After_Last_Night",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Blast Off",
+                    "duration": "4:45",
+                    "image": {}
+                },
+                {
+                    "name": "Love's_Train#Silk_Sonic_version",
+                    "duration": "5:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Lovestrain.jpg/220px-Lovestrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "36:26",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "An Evening with Silk Sonic(with Anderson .Paak as Silk Sonic)",
+            "url": "https://en.wikipedia.org/wiki/An_Evening_with_Silk_Sonic",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Silk_Sonic_-_An_Evening_with_Silk_Sonic.png/220px-Silk_Sonic_-_An_Evening_with_Silk_Sonic.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 12, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Smokin_out_the_Window",
+                    "duration": "3:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Silk_Sonic_-_Smokin_Out_The_Window.png/220px-Silk_Sonic_-_Smokin_Out_The_Window.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Put On a Smile",
+                    "duration": "4:16",
+                    "image": {}
+                },
+                {
+                    "name": "777",
+                    "duration": "2:45",
+                    "image": {}
+                },
+                {
+                    "name": "Skate_(song)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "31:19",
+                    "image": {}
+                },
+                {
+                    "name": "Silk Sonic Intro",
+                    "duration": "1:03",
+                    "image": {}
+                },
+                {
+                    "name": "Leave_the_Door_Open",
+                    "duration": "4:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Leavethedooropenlive.jpg/220px-Leavethedooropenlive.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Fly as Me",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "After_Last_Night",
+                    "duration": "4:09",
+                    "image": {}
+                },
+                {
+                    "name": "Blast Off",
+                    "duration": "4:45",
+                    "image": {}
+                },
+                {
+                    "name": "Love's_Train#Silk_Sonic_version",
+                    "duration": "5:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Lovestrain.jpg/220px-Lovestrain.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "36:26",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

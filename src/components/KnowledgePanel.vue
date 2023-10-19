@@ -12,6 +12,7 @@ const props = defineProps({
   }
 })
 const loading = ref(false)
+const tracksCollapsed = ref(true)
 const structuredContent = ref(null as null | StructuredContent)
 const thing = ref(null as null | Thing)
 const wme = inject('wme') as IWME
@@ -19,6 +20,7 @@ const sock = inject('sock') as ISOCK
 
 watch(() => props.name, async (value) => {
   loading.value = true
+  tracksCollapsed.value = true
   wme.accessToken = localStorage.getItem('access_token') || ''
 
   try {
@@ -81,7 +83,12 @@ const singerFacts = computed(() => {
 
   return [
     ...facts.filter(part => part.name?.toLowerCase().includes('born')),
-    ...facts.filter(part => part.name?.toLowerCase().includes('spouse')),
+    ...facts.filter(part => part.name?.toLowerCase().includes('spouse')).map(part => {
+      return {
+        ...part,
+        value: part.type == 'list' ? part?.values?.join(', ') : part.value
+      }
+    }),
     ...facts.filter(part => part.name?.toLowerCase().includes('partner'))
   ]
 })
@@ -96,12 +103,27 @@ const singerAwards = computed(() => {
 
   return award.links[0]
 })
+const albums = computed(() => {
+  if (!thing.value?.albums) return null
+
+  const albums = thing.value.albums.filter(album => album?.image && album?.image?.content_url)
+  const names = albums.map((album) => album?.name ? album?.name.toLowerCase() : '')
+  return albums.filter((album, index) => !names.includes(album?.name ? album?.name?.toLowerCase() : '', index + 1))
+})
 const tracks = computed(() => {
   if (!thing.value?.albums) return null
 
-  return thing.value.albums.map(album => album.tracks).flat()
+  const tracks = thing.value.albums.map(album => album.tracks).flat().filter(track => track?.duration)
+  const names = tracks.map((track) => track?.name ? track?.name.toLowerCase() : '')
+  return tracks.
+    filter((track, index) => !names.includes(track?.name ? track?.name?.toLowerCase() : '', index + 1)).
+    map((track) => {
+      return {
+        ...track,
+        name: track?.name ? track?.name.replace(/_/g, ' ') : ''
+      }
+    })
 })
-const tracksCollapsed = ref(true)
 const tracksRowHeight = 96
 const tracksHeigh = computed(() => {
   if (!tracks.value) return 0
@@ -110,8 +132,7 @@ const tracksHeigh = computed(() => {
     return tracks.value.length > 1 ? tracksRowHeight * 2 : tracksRowHeight
   }
 
-  return Math.ceil(tracks.value.length) / 2 * tracksRowHeight
-
+  return Math.ceil(tracks.value.length / 2) * tracksRowHeight
 })
 </script>
 
@@ -149,8 +170,8 @@ const tracksHeigh = computed(() => {
             <n-gi v-for="track in tracks" :key="track?.name">
               <div class="wme-app-knowledge-panel-track">
                 <div class="wme-app-knowledge-panel-track-content">
-                  <n-image v-if="track?.image" class="wme-app-knowledge-panel-track-image" :width="80" :height="80" :preview-disabled="true" :src="track?.image?.content_url" object-fit="cover" />
-                  <div v-if="!track?.image" class="wme-app-knowledge-panel-track-song-image-placeholder" >
+                  <n-image v-if="track?.image && track?.image?.content_url" class="wme-app-knowledge-panel-track-image" :width="80" :height="80" :preview-disabled="true" :src="track?.image?.content_url" object-fit="cover" />
+                  <div v-if="!track?.image || !track?.image?.content_url" class="wme-app-knowledge-panel-track-song-image-placeholder" >
                     <n-icon class="wme-app-knowledge-panel-track-song-icon" :component="MusicNote2Play20Filled" size="40" />
                   </div>
                   <div class="wme-app-knowledge-panel-track-description">
@@ -174,17 +195,22 @@ const tracksHeigh = computed(() => {
           <n-icon size="small" :component="tracksCollapsed ? ChevronDown12Regular : ChevronUp12Regular" />
         </n-button>
       </div>
-      <h4 v-if="thing?.albums"><b><i>Albums</i></b></h4>
-      <n-grid :cols="3" v-if="thing?.albums" :x-gap="10" :y-gap="10">
-        <n-gi v-for="album in thing.albums" :key="album.name">
+      <h4 v-if="albums"><b><i>Albums</i></b></h4>
+      <n-grid :cols="3" v-if="albums" :x-gap="10" :y-gap="10">
+        <n-gi v-for="album in albums" :key="album.name">
           <n-card :bordered="false" class="wpe-app-knowledge-panel-album-card">
             <template #header>
-              <a :href="album?.url" target="_blank">{{ album.name }}</a>
+              <n-tooltip>
+                <template #trigger>
+                  {{ album.name }}
+                </template>
+                {{ album.name }}
+              </n-tooltip>
             </template>
             <template v-if="album.image" #cover>
               <n-image :preview-disabled="true" :src="album.image?.content_url" object-fit="cover" />
             </template>
-            {{ album?.album_release?.date_published }}
+            {{ album?.album_release?.date_published ? album?.album_release?.date_published : 'n/a' }}
           </n-card>
         </n-gi>
       </n-grid>
@@ -305,6 +331,14 @@ const tracksHeigh = computed(() => {
   max-width: 120px;
 }
 
+.wpe-app-knowledge-panel-album-card .n-card-header__main, .wpe-app-knowledge-panel-album-card .n-card__content {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 135px;
+  display: block;
+}
+
 .wme-app-knowledge-panel-track {
   height: 96px;
 }
@@ -322,5 +356,12 @@ const tracksHeigh = computed(() => {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.wpe-app-knowledge-panel-album-card img {
+  object-position: 50% 0;
+  min-width: 135px; /* need a media query for smaller screens */
+  max-height: 135px;
+  min-height: 135px;
 }
 </style>

@@ -1,0 +1,835 @@
+{
+    "name": "Doja_Cat",
+    "has_occupation": [
+        {
+            "name": "rapper"
+        },
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "American Music Award for New Artist of the Year",
+        "American Music Award for Favorite Soul/R\u0026B Female Artist",
+        "American Music Award for Collaboration of the Year",
+        "American Music Award for Favorite Soul/R\u0026B Female Artist",
+        "American Music Award for Favorite Soul/R\u0026B Album",
+        "Grammy Award for Best Pop Duo/Group Performance",
+        "MTV Europe Music Award for Best New Act",
+        "MTV Europe Music Award for Best Collaboration",
+        "MTV Video Music Award for Best New Artist",
+        "MTV Video Music Award for Best Collaboration"
+    ],
+    "genres": [
+        "contemporary R\u0026B",
+        "hip hop music",
+        "pop music",
+        "pop rap",
+        "indie pop",
+        "alternative R\u0026B",
+        "trap music",
+        "alternative hip hop",
+        "pop-punk"
+    ],
+    "albums": [
+        {
+            "name": "Hot Pink",
+            "url": "https://en.wikipedia.org/wiki/Hot_Pink_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Doja_Cat_-_Hot_Pink.png/220px-Doja_Cat_-_Hot_Pink.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 7, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Like_That_(Doja_Cat_song)",
+                    "duration": "2:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Doja_Cat_-_Say_So_-_Like_That_%28Mashup%29.png/220px-Doja_Cat_-_Say_So_-_Like_That_%28Mashup%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Talk Dirty",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Bottom_Bitch",
+                    "duration": "3:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Doja_Cat-Bottom_Bitch.png/220px-Doja_Cat-Bottom_Bitch.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Addiction",
+                    "duration": "3:28",
+                    "image": {}
+                },
+                {
+                    "name": "Better than Me",
+                    "duration": "3:22",
+                    "image": {}
+                },
+                {
+                    "name": "Juicy_(Doja_Cat_song)",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Doja_Cat_and_Tyga_-_Juicy.png/220px-Doja_Cat_and_Tyga_-_Juicy.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Smino",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Smino_2016.jpg/220px-Smino_2016.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rules_(Doja_Cat_song)",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Doja_Cat_-_Rules.png/220px-Doja_Cat_-_Rules.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Streets_(song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Doja_Cat_-_Streets_%28Remixes%29.png/220px-Doja_Cat_-_Streets_%28Remixes%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shine",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "39:48",
+                    "image": {}
+                },
+                {
+                    "name": "Cyber Sex",
+                    "duration": "2:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Cyber_Sex_cover.jpg/220px-Cyber_Sex_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Say_So",
+                    "duration": "3:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Doja_Cat_featuring_Nicki_Minaj_-_Say_So_%28Remix%29.png/220px-Doja_Cat_featuring_Nicki_Minaj_-_Say_So_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Go to Town",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Tia_Tamera",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tia_Tamera_single_cover.png/220px-Tia_Tamera_single_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "58:27",
+                    "image": {}
+                },
+                {
+                    "name": "Jax_Jones",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Mooo!",
+                    "duration": "4:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Doja_Cat_-_Mooo%21.png/220px-Doja_Cat_-_Mooo%21.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Candy_(Doja_Cat_song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Doja_Cat_-_Candy.jpg/220px-Doja_Cat_-_Candy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Say So (featuring Nicki Minaj)",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Like That (featuring Gucci Mane) (music video)",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Streets (music video)",
+                    "duration": "4:33",
+                    "image": {}
+                },
+                {
+                    "name": "Bottom Bitch (music video)",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "Rules (music video)",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Say So (music video)",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Snakehips_(duo)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Streets (DJ Sliink Remix)",
+                    "duration": "2:13",
+                    "image": {}
+                },
+                {
+                    "name": "Ape_Drums",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Party_Favor_(DJ)",
+                    "duration": "3:20",
+                    "image": {}
+                },
+                {
+                    "name": "Cyber Sex (music video)",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "Say So (Jax Jones Midnight Snack Remix)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Streets (Silhouette Remix)",
+                    "duration": "4:02",
+                    "image": {}
+                },
+                {
+                    "name": "Juicy (with Tyga) (music video)",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "101:10",
+                    "image": {}
+                },
+                {
+                    "name": "Say_So#Remix",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Doja_Cat_featuring_Nicki_Minaj_-_Say_So_%28Remix%29.png/220px-Doja_Cat_featuring_Nicki_Minaj_-_Say_So_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Say So (Friend Within Remix)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Disclosure_(band)",
+                    "duration": "4:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Disclosure_2013.jpg/300px-Disclosure_2013.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Lazerbeak",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lazerbeak%2C_Scottsdale%2C_2012.jpg/220px-Lazerbeak%2C_Scottsdale%2C_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Planet Her",
+            "url": "https://en.wikipedia.org/wiki/Planet_Her",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Doja_Cat_-_Planet_Her.png/220px-Doja_Cat_-_Planet_Her.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 25, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Ariana_Grande",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ariana_Grande_autograph.svg/150px-Ariana_Grande_autograph.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Been Like This",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Ain't_Shit",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Ain%27t_Shit_Vevo_Live_cover_-_Doja_Cat.png/220px-Ain%27t_Shit_Vevo_Live_cover_-_Doja_Cat.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Imagine",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "Kiss_Me_More",
+                    "duration": "3:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Doja_Cat_-_Kiss_Me_More_Remix.jpg/220px-Doja_Cat_-_Kiss_Me_More_Remix.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Woman_(Doja_Cat_song)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Get_Into_It_(Yuh)",
+                    "duration": "2:18",
+                    "image": {}
+                },
+                {
+                    "name": "Need_to_Know_(Doja_Cat_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Doja_Cat_-_Need_To_Know.jpeg/220px-Doja_Cat_-_Need_To_Know.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love to Dream",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "You_Right",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "44:06",
+                    "image": {}
+                },
+                {
+                    "name": "Naked",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Young_Thug",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Young_Thug_in_2021.png/220px-Young_Thug_in_2021.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "JID",
+                    "duration": "2:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Alone",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "You Right (extended; with the Weeknd)",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Up and Down",
+                    "duration": "2:31",
+                    "image": {}
+                },
+                {
+                    "name": "Tonight_(Doja_Cat_song)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Ride",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Gunna_(rapper)",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gunna_in_2021.png/220px-Gunna_in_2021.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "59:28",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Planet Her",
+            "url": "https://en.wikipedia.org/wiki/Planet_Her",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Doja_Cat_-_Planet_Her.png/220px-Doja_Cat_-_Planet_Her.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 25, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Ariana_Grande",
+                    "duration": "3:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ariana_Grande_autograph.svg/150px-Ariana_Grande_autograph.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Been Like This",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Ain't_Shit",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Ain%27t_Shit_Vevo_Live_cover_-_Doja_Cat.png/220px-Ain%27t_Shit_Vevo_Live_cover_-_Doja_Cat.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Imagine",
+                    "duration": "2:28",
+                    "image": {}
+                },
+                {
+                    "name": "Kiss_Me_More",
+                    "duration": "3:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Doja_Cat_-_Kiss_Me_More_Remix.jpg/220px-Doja_Cat_-_Kiss_Me_More_Remix.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Woman_(Doja_Cat_song)",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Get_Into_It_(Yuh)",
+                    "duration": "2:18",
+                    "image": {}
+                },
+                {
+                    "name": "Need_to_Know_(Doja_Cat_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Doja_Cat_-_Need_To_Know.jpeg/220px-Doja_Cat_-_Need_To_Know.jpeg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love to Dream",
+                    "duration": "3:36",
+                    "image": {}
+                },
+                {
+                    "name": "You_Right",
+                    "duration": "3:06",
+                    "image": {}
+                },
+                {
+                    "name": "44:06",
+                    "image": {}
+                },
+                {
+                    "name": "Naked",
+                    "duration": "3:43",
+                    "image": {}
+                },
+                {
+                    "name": "Young_Thug",
+                    "duration": "3:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Young_Thug_in_2021.png/220px-Young_Thug_in_2021.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "JID",
+                    "duration": "2:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/JID_%2838530984485%29_%28cropped%29.png/220px-JID_%2838530984485%29_%28cropped%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Alone",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "You Right (extended; with the Weeknd)",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Up and Down",
+                    "duration": "2:31",
+                    "image": {}
+                },
+                {
+                    "name": "Tonight_(Doja_Cat_song)",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Ride",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Gunna_(rapper)",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gunna_in_2021.png/220px-Gunna_in_2021.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "59:28",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Scarlet",
+            "url": "https://en.wikipedia.org/wiki/Scarlet_(Doja_Cat_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Doja_Cat_-_Scarlet_Alt_CD_Cover.png/220px-Doja_Cat_-_Scarlet_Alt_CD_Cover.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 22, 2023"
+            },
+            "tracks": [
+                {
+                    "name": "Gun",
+                    "duration": "2:56",
+                    "image": {}
+                },
+                {
+                    "name": "Can't Wait",
+                    "duration": "3:55",
+                    "image": {}
+                },
+                {
+                    "name": "Fuck the Girls (FTG)",
+                    "duration": "2:32",
+                    "image": {}
+                },
+                {
+                    "name": "97",
+                    "duration": "2:57",
+                    "image": {}
+                },
+                {
+                    "name": "Balut_(song)",
+                    "duration": "3:27",
+                    "image": {}
+                },
+                {
+                    "name": "Wet Vagina",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Go Off",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Love Life",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Skull and Bones",
+                    "duration": "4:08",
+                    "image": {}
+                },
+                {
+                    "name": "Attention_(Doja_Cat_song)",
+                    "duration": "4:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Doja_Cat_-_Attention.png/220px-Doja_Cat_-_Attention.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Demons_(Doja_Cat_song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Doja_Cat_-_Demons.png/220px-Doja_Cat_-_Demons.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ouchies",
+                    "duration": "2:02",
+                    "image": {}
+                },
+                {
+                    "name": "Often",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "51:45",
+                    "image": {}
+                },
+                {
+                    "name": "Paint_the_Town_Red_(Doja_Cat_song)",
+                    "duration": "3:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Doja_Cat_-_Paint_the_Town_Red.png/220px-Doja_Cat_-_Paint_the_Town_Red.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Agora_Hills",
+                    "duration": "4:25",
+                    "image": {}
+                },
+                {
+                    "name": "WYM Freestyle",
+                    "duration": "2:04",
+                    "image": {}
+                },
+                {
+                    "name": "56:56",
+                    "image": {}
+                },
+                {
+                    "name": "Shutcho",
+                    "duration": "3:07",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Amala",
+            "url": "https://en.wikipedia.org/wiki/Amala_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Dojacatamala.png/220px-Dojacatamala.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 30, 2018"
+            },
+            "tracks": [
+                {
+                    "name": "Roll with Us",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Body Language",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "Konshens",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Fancy",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "Wild Beach",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "45:13",
+                    "image": {}
+                },
+                {
+                    "name": "Cookie Jar",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Morning Light",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "Game",
+                    "duration": "3:15",
+                    "image": {}
+                },
+                {
+                    "name": "All Nighter",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Go to Town",
+                    "duration": "3:37",
+                    "image": {}
+                },
+                {
+                    "name": "Candy_(Doja_Cat_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Doja_Cat_-_Candy.jpg/220px-Doja_Cat_-_Candy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Casual",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Down Low",
+                    "duration": "3:31",
+                    "image": {}
+                },
+                {
+                    "name": "Juicy_(Doja_Cat_song)",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Doja_Cat_and_Tyga_-_Juicy.png/220px-Doja_Cat_and_Tyga_-_Juicy.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tia_Tamera",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tia_Tamera_single_cover.png/220px-Tia_Tamera_single_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mooo!",
+                    "duration": "4:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Doja_Cat_-_Mooo%21.png/220px-Doja_Cat_-_Mooo%21.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "56:10",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "name": "Mitski",
+    "has_occupation": [
+        {
+            "name": "singer"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "genres": [
+        "Indie Rock Blues",
+        "indie rock",
+        "punk rock",
+        "folk rock",
+        "folk punk",
+        "art pop"
+    ],
+    "albums": [
+        {
+            "name": "Be the Cowboy",
+            "url": "https://en.wikipedia.org/wiki/Be_the_Cowboy",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Be_the_Cowboy.jpg/220px-Be_the_Cowboy.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 17, 2018"
+            },
+            "tracks": [
+                {
+                    "name": "Blue Light",
+                    "duration": "1:43",
+                    "image": {}
+                },
+                {
+                    "name": "Why Didn't You Stop Me?",
+                    "duration": "2:21",
+                    "image": {}
+                },
+                {
+                    "name": "Old Friend",
+                    "duration": "1:52",
+                    "image": {}
+                },
+                {
+                    "name": "Lonesome Love",
+                    "duration": "1:50",
+                    "image": {}
+                },
+                {
+                    "name": "Remember My Name",
+                    "duration": "2:15",
+                    "image": {}
+                },
+                {
+                    "name": "A Horse Named Cold Air",
+                    "duration": "2:03",
+                    "image": {}
+                },
+                {
+                    "name": "Washing_Machine_Heart",
+                    "duration": "2:08",
+                    "image": {}
+                },
+                {
+                    "name": "Geyser_(song)",
+                    "duration": "2:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Mitski_-_Geyser.png/220px-Mitski_-_Geyser.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Me and My Husband",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "Come into the Water",
+                    "duration": "1:32",
+                    "image": {}
+                },
+                {
+                    "name": "Nobody_(Mitski_song)",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mitski_-_Nobody.png/220px-Mitski_-_Nobody.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pink in the Night",
+                    "duration": "2:16",
+                    "image": {}
+                },
+                {
+                    "name": "A Pearl",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Two Slow Dancers",
+                    "duration": "3:59",
+                    "image": {}
+                },
+                {
+                    "name": "32:28",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Laurel Hell",
+            "url": "https://en.wikipedia.org/wiki/Laurel_Hell",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Mitski_-_Laurel_Hell.png/220px-Mitski_-_Laurel_Hell.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "February 4, 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Valentine, Texas",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Soft",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Love Me More",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "I Guess",
+                    "duration": "2:15",
+                    "image": {}
+                },
+                {
+                    "name": "That's Our Lamp",
+                    "duration": "2:24",
+                    "image": {}
+                },
+                {
+                    "name": "32:25",
+                    "image": {}
+                },
+                {
+                    "name": "Working_for_the_Knife",
+                    "duration": "2:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Working_for_the_Knife_%28Mitski%29.png/220px-Working_for_the_Knife_%28Mitski%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everyone",
+                    "duration": "3:47",
+                    "image": {}
+                },
+                {
+                    "name": "Heat Lightning",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "The_Only_Heartbreaker",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/The_Only_Heartbreaker_Mitski_single_cover.png/220px-The_Only_Heartbreaker_Mitski_single_cover.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "There's Nothing Left for You",
+                    "duration": "2:52",
+                    "image": {}
+                },
+                {
+                    "name": "Should've Been Me",
+                    "duration": "3:11",
+                    "image": {}
+                },
+                {
+                    "name": "Lily_Chou-Chou",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Valentine, Texas (demo version)",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "39:03",
+                    "image": {}
+                },
+                {
+                    "name": "Glide (Lily Chou-Chou)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Valentine, Texas (demo version)",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Love Me More (demo version)",
+                    "image": {}
+                },
+                {
+                    "name": "Stay Soft (acoustic version)",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "The Land Is Inhospitable and So Are We",
+            "url": "https://en.wikipedia.org/wiki/The_Land_Is_Inhospitable_and_So_Are_We",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Mitski_-_The_Land_Is_Inhospitable_and_So_Are_We.png/220px-Mitski_-_The_Land_Is_Inhospitable_and_So_Are_We.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "September 15, 2023"
+            },
+            "tracks": [
+                {
+                    "name": "Star",
+                    "duration": "2:59",
+                    "image": {}
+                },
+                {
+                    "name": "I Love Me After You",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "Bug Like an Angel",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Buffalo Replaced",
+                    "duration": "2:40",
+                    "image": {}
+                },
+                {
+                    "name": "Heaven",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "When Memories Snow",
+                    "duration": "1:44",
+                    "image": {}
+                },
+                {
+                    "name": "The Frost",
+                    "duration": "2:48",
+                    "image": {}
+                },
+                {
+                    "name": "I Don't Like My Mind",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "The Deal",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "My_Love_Mine_All_Mine",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "I'm Your Man",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "32:21",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Lush",
+            "url": "https://en.wikipedia.org/wiki/Lush_(Mitski_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Lush_album_cover_%28Mitski%29.jpg/220px-Lush_album_cover_%28Mitski%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "January 31, 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Eric",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Brand New City",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Wife",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "26:01",
+                    "image": {}
+                },
+                {
+                    "name": "Door",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Pearl Diver",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Liquid Smooth",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Real Men",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Abbey",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Bag of Bones",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Liquid Smooth",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Abbey",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Eric",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Door",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "23:15",
+                    "image": {}
+                },
+                {
+                    "name": "Wife",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Brand New City",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Bag of Bones",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Pearl Diver",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Pearl Diver",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Liquid Smooth",
+                    "duration": "2:49",
+                    "image": {}
+                },
+                {
+                    "name": "Eric",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Brand New City",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Real Men",
+                    "duration": "2:41",
+                    "image": {}
+                },
+                {
+                    "name": "Abbey",
+                    "duration": "2:46",
+                    "image": {}
+                },
+                {
+                    "name": "Bag of Bones",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Door",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Wife",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "26:01",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Retired from Sad, New Career in Business",
+            "url": "https://en.wikipedia.org/wiki/Retired_from_Sad,_New_Career_in_Business",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Retired_from_sad.jpg/220px-Retired_from_sad.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "August 1, 2013"
+            },
+            "tracks": [
+                {
+                    "name": "I Want You",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Shame",
+                    "duration": "2:24",
+                    "image": {}
+                },
+                {
+                    "name": "Because Dreaming Costs Money, My Dear",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "23:54",
+                    "image": {}
+                },
+                {
+                    "name": "Goodbye, My Danish Sweetheart",
+                    "duration": "2:17",
+                    "image": {}
+                },
+                {
+                    "name": "Square",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Strawberry Blond",
+                    "duration": "1:54",
+                    "image": {}
+                },
+                {
+                    "name": "Humpty",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Circle",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "Class of 2013",
+                    "duration": "1:49",
+                    "image": {}
+                },
+                {
+                    "name": "Because Dreaming Costs Money, My Dear",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "I Want You",
+                    "duration": "3:03",
+                    "image": {}
+                },
+                {
+                    "name": "Shame (Jammin' Out Solo version)",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "Shame",
+                    "duration": "2:24",
+                    "image": {}
+                },
+                {
+                    "name": "Humpty",
+                    "duration": "3:21",
+                    "image": {}
+                },
+                {
+                    "name": "Circle",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "Square",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "Strawberry Blond",
+                    "duration": "1:54",
+                    "image": {}
+                },
+                {
+                    "name": "Class of 2013",
+                    "duration": "1:49",
+                    "image": {}
+                },
+                {
+                    "name": "Square (solo piano version)",
+                    "duration": "3:10",
+                    "image": {}
+                },
+                {
+                    "name": "29:40",
+                    "image": {}
+                },
+                {
+                    "name": "Goodbye, My Danish Sweetheart",
+                    "duration": "2:17",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Bury Me at Makeout Creek",
+            "url": "https://en.wikipedia.org/wiki/Bury_Me_at_Makeout_Creek",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Bury_Me_At_Makeout_Creek.jpg/220px-Bury_Me_At_Makeout_Creek.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 11, 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Last Words of a Shooting Star",
+                    "duration": "2:44",
+                    "image": {}
+                },
+                {
+                    "name": "Francis Forever",
+                    "duration": "2:29",
+                    "image": {}
+                },
+                {
+                    "name": "I Don't Smoke",
+                    "duration": "3:18",
+                    "image": {}
+                },
+                {
+                    "name": "Jobless Monday",
+                    "duration": "2:06",
+                    "image": {}
+                },
+                {
+                    "name": "Drunk Walk Home",
+                    "duration": "2:35",
+                    "image": {}
+                },
+                {
+                    "name": "I Will",
+                    "duration": "2:54",
+                    "image": {}
+                },
+                {
+                    "name": "Carry Me Out",
+                    "duration": "3:53",
+                    "image": {}
+                },
+                {
+                    "name": "Texas Reznikoff",
+                    "duration": "2:12",
+                    "image": {}
+                },
+                {
+                    "name": "Townie",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "First_Love_/_Late_Spring",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "30:14",
+                    "image": {}
+                },
+                {
+                    "name": "I Want You (live at WNYU The Sound Between)",
+                    "duration": "3:05",
+                    "image": {}
+                },
+                {
+                    "name": "Francis Forever (live at WNYU The Sound Between)",
+                    "duration": "2:51",
+                    "image": {}
+                },
+                {
+                    "name": "Last Words of a Shooting Star (live at WNYU The Sound Between)",
+                    "duration": "2:47",
+                    "image": {}
+                },
+                {
+                    "name": "42:07",
+                    "image": {}
+                },
+                {
+                    "name": "Square (live solo piano version)",
+                    "duration": "3:10",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Puberty 2",
+            "url": "https://en.wikipedia.org/wiki/Puberty_2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mitskipuberty2.jpg/220px-Mitskipuberty2.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 17, 2016"
+            },
+            "tracks": [
+                {
+                    "name": "Fireworks",
+                    "duration": "2:37",
+                    "image": {}
+                },
+                {
+                    "name": "Your_Best_American_Girl",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "I Bet on Losing Dogs",
+                    "duration": "2:50",
+                    "image": {}
+                },
+                {
+                    "name": "My Body's Made of Crushed Little Stars",
+                    "duration": "1:56",
+                    "image": {}
+                },
+                {
+                    "name": "Thursday Girl",
+                    "duration": "3:08",
+                    "image": {}
+                },
+                {
+                    "name": "Happy_(Mitski_song)",
+                    "duration": "3:40",
+                    "image": {}
+                },
+                {
+                    "name": "Dan the Dancer",
+                    "duration": "2:25",
+                    "image": {}
+                },
+                {
+                    "name": "Once More to See You",
+                    "duration": "3:01",
+                    "image": {}
+                },
+                {
+                    "name": "A Loving Feeling",
+                    "duration": "1:32",
+                    "image": {}
+                },
+                {
+                    "name": "A Burning Hill",
+                    "duration": "1:49",
+                    "image": {}
+                },
+                {
+                    "name": "Crack Baby",
+                    "duration": "4:52",
+                    "image": {}
+                },
+                {
+                    "name": "31:25",
+                    "image": {}
+                },
+                {
+                    "name": "Four (One Direction album)",
+                    "duration": "1:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/One_Direction_-_Four.png/220px-One_Direction_-_Four.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I'm_a_Fool_to_Want_You",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "37:03",
+                    "image": {}
+                }
+            ]
+        }
+    ]
+}

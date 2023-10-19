@@ -1,0 +1,932 @@
+{
+    "name": "Billie_Eilish",
+    "has_occupation": [
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "singer"
+        },
+        {
+            "name": "composer"
+        },
+        {
+            "name": "dancer"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "American Music Award for New Artist of the Year",
+        "American Music Award for Favorite Alternative Rock Artist",
+        "Billboard Music Award for Top New Artist",
+        "Billboard Music Award for Top Female Artist",
+        "Billboard Music Award for Top Billboard 200 Album",
+        "BRIT Award for International Female Solo Artist",
+        "Grammy Award for Album of the Year",
+        "Grammy Award for Best Pop Vocal Album",
+        "Grammy Award for Record of the Year",
+        "Grammy Award for Song of the Year",
+        "Grammy Award for Best New Artist",
+        "Grammy Award for Best Song Written for Visual Media",
+        "Grammy Award for Record of the Year",
+        "MTV Europe Music Award for Best New Act",
+        "MTV Europe Music Award for Best Song",
+        "MTV Europe Music Award for Video for Good",
+        "MTV Video Music Award for Best New Artist",
+        "MTV Video Music Award for Push Performance of the Year",
+        "MTV Video Music Award for Best Editing",
+        "MTV Video Music Award for Best Latin",
+        "MTV Video Music Award for Best Video with a Social Message",
+        "Premios 40 Principales for Best International Album",
+        "Teen Choice Award for Choice Music – Female Artist",
+        "Teen Choice Award for Choice Music – Breakout Artist",
+        "Time 100",
+        "BBC 100 Women",
+        "Billboard 21 Under 21"
+    ],
+    "genres": [
+        "electropop",
+        "indie pop",
+        "alternative pop"
+    ],
+    "albums": [
+        {
+            "name": "When We All Fall Asleep, Where Do We Go?",
+            "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png/220px-When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 29, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Xanny_(song)",
+                    "duration": "4:04",
+                    "image": {}
+                },
+                {
+                    "name": "When_the_Party's_Over_(song)",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Billie_Eilish_-_When_the_Party%27s_Over.png/220px-Billie_Eilish_-_When_the_Party%27s_Over.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Goodbye",
+                    "duration": "1:59",
+                    "image": {}
+                },
+                {
+                    "name": "!!!!!!!",
+                    "duration": "0:14",
+                    "image": {}
+                },
+                {
+                    "name": "You_Should_See_Me_in_a_Crown",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg/220px-Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All the Good Girls Go to Hell",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Billie_Eilish_-_All_the_Good_Girls_Go_to_Hell.png/220px-Billie_Eilish_-_All_the_Good_Girls_Go_to_Hell.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "8",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "I_Love_You_(Billie_Eilish_song)",
+                    "duration": "4:52",
+                    "image": {}
+                },
+                {
+                    "name": "Wish_You_Were_Gay",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "My_Strange_Addiction_(song)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Bury_a_Friend",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "Listen Before I Go",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "42:56",
+                    "image": {}
+                },
+                {
+                    "name": "Bad_Guy_(Billie_Eilish_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png/220px-Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ilomilo_(song)",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Billie_Eilish_-_Ilomilo.png/220px-Billie_Eilish_-_Ilomilo.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Come_Out_and_Play_(Billie_Eilish_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Billie_Eilish_%E2%80%93_Come_Out_and_Play.jpg/220px-Billie_Eilish_%E2%80%93_Come_Out_and_Play.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "When_I_Was_Older",
+                    "duration": "4:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Billie_Eilish_-_When_I_Was_Older.jpg/220px-Billie_Eilish_-_When_I_Was_Older.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "50:48",
+                    "image": {}
+                },
+                {
+                    "name": "Bad_Guy_(Billie_Eilish_song)#Justin_Bieber_version",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png/220px-Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "54:02",
+                    "image": {}
+                },
+                {
+                    "name": "Everything_I_Wanted",
+                    "duration": "4:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Billie_Eilish_-_Everything_I_Wanted.png/220px-Billie_Eilish_-_Everything_I_Wanted.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "58:07",
+                    "image": {}
+                },
+                {
+                    "name": "When I Was Older",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Bitches_Broken_Hearts",
+                    "duration": "2:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg/220px-Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everything I Wanted",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "54:19",
+                    "image": {}
+                },
+                {
+                    "name": "Ilomilo (music video)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "28:07",
+                    "image": {}
+                },
+                {
+                    "name": "Xanny (music video)",
+                    "duration": "4:25",
+                    "image": {}
+                },
+                {
+                    "name": "Bury a Friend (music video)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "All the Good Girls Go to Hell (music video)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "When the Party's Over (music video)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Everything I Wanted (music video)",
+                    "duration": "4:47",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Guy (music video)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Takashi_Murakami",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg/220px-Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Happier Than Ever",
+            "url": "https://en.wikipedia.org/wiki/Happier_Than_Ever",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Billie_Eilish_-_Happier_Than_Ever.png/220px-Billie_Eilish_-_Happier_Than_Ever.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 30, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Your_Power",
+                    "duration": "4:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Billie_Eilish_-_Your_Power_%28Official_Live_Performance%29.png/220px-Billie_Eilish_-_Your_Power_%28Official_Live_Performance%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Billie Bossa Nova",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "My_Future",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Billie_Eilish_-_My_Future.png/220px-Billie_Eilish_-_My_Future.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Oxytocin_(song)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Goldwing",
+                    "duration": "2:31",
+                    "image": {}
+                },
+                {
+                    "name": "Halley's Comet",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Not_My_Responsibility#As_a_song",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Billie_Eilish_-_Not_My_Responsibility.png/220px-Billie_Eilish_-_Not_My_Responsibility.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everybody Dies",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Happier_Than_Ever_(song)",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "I Didn't Change My Number",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "Lost_Cause_(Billie_Eilish_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Billie_Eilish_-_Lost_Cause_%28Official_Live_Performance%29.png/220px-Billie_Eilish_-_Lost_Cause_%28Official_Live_Performance%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Male_Fantasy",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Billie_Eilish_-_Male_Fantasy_%28Official_Live_Performance%29.jpg/220px-Billie_Eilish_-_Male_Fantasy_%28Official_Live_Performance%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Getting_Older",
+                    "duration": "4:04",
+                    "image": {}
+                },
+                {
+                    "name": "Overheated",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "NDA_(song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Billie_Eilish_-_NDA.png/220px-Billie_Eilish_-_NDA.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Therefore_I_Am_(song)",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Billie_Eilish_-_Therefore_I_Am.png/220px-Billie_Eilish_-_Therefore_I_Am.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "56:07",
+                    "image": {}
+                },
+                {
+                    "name": "My Future (Live Performance from the DNC)",
+                    "image": {}
+                },
+                {
+                    "name": "Therefore I Am (Live from iHeartRadio ALTer Ego 2021)",
+                    "image": {}
+                },
+                {
+                    "name": "Your Power (Vevo Live Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Cause (Vevo Live Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "NDA (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Billie Bossa Nova (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Interview for Japan",
+                    "image": {}
+                },
+                {
+                    "name": "Happier Than Ever (Making of the Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Male Fantasy (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "NDA (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "NDA (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Happier Than Ever (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Cause (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Your Power (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Happier_Than_Ever,_The_World_Tour",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Billie_Eilish_-_Happier_Than_Ever%2C_The_World_Tour.png/250px-Billie_Eilish_-_Happier_Than_Ever%2C_The_World_Tour.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "Billie Bossa Nova (Japan Special Performance)",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live at Third Man Records",
+            "url": "https://en.wikipedia.org/wiki/Live_at_Third_Man_Records_(Billie_Eilish_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Live_at_Third_Man_Records_-_Billie_Eilish_%28Record_Store_Day_edition%29.jpg/220px-Live_at_Third_Man_Records_-_Billie_Eilish_%28Record_Store_Day_edition%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 6, 2019"
+            }
+        },
+        {
+            "name": "When We All Fall Asleep, Where Do We Go?",
+            "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png/220px-When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 29, 2019"
+            },
+            "tracks": [
+                {
+                    "name": "Bad_Guy_(Billie_Eilish_song)",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png/220px-Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wish_You_Were_Gay",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "When_the_Party's_Over_(song)",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Billie_Eilish_-_When_the_Party%27s_Over.png/220px-Billie_Eilish_-_When_the_Party%27s_Over.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Listen Before I Go",
+                    "duration": "4:03",
+                    "image": {}
+                },
+                {
+                    "name": "I_Love_You_(Billie_Eilish_song)",
+                    "duration": "4:52",
+                    "image": {}
+                },
+                {
+                    "name": "Goodbye",
+                    "duration": "1:59",
+                    "image": {}
+                },
+                {
+                    "name": "My_Strange_Addiction_(song)",
+                    "duration": "3:00",
+                    "image": {}
+                },
+                {
+                    "name": "Bury_a_Friend",
+                    "duration": "3:13",
+                    "image": {}
+                },
+                {
+                    "name": "42:56",
+                    "image": {}
+                },
+                {
+                    "name": "!!!!!!!",
+                    "duration": "0:14",
+                    "image": {}
+                },
+                {
+                    "name": "All the Good Girls Go to Hell",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Billie_Eilish_-_All_the_Good_Girls_Go_to_Hell.png/220px-Billie_Eilish_-_All_the_Good_Girls_Go_to_Hell.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ilomilo_(song)",
+                    "duration": "2:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Billie_Eilish_-_Ilomilo.png/220px-Billie_Eilish_-_Ilomilo.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Xanny_(song)",
+                    "duration": "4:04",
+                    "image": {}
+                },
+                {
+                    "name": "You_Should_See_Me_in_a_Crown",
+                    "duration": "3:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg/220px-Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "8",
+                    "duration": "2:53",
+                    "image": {}
+                },
+                {
+                    "name": "Come_Out_and_Play_(Billie_Eilish_song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Billie_Eilish_%E2%80%93_Come_Out_and_Play.jpg/220px-Billie_Eilish_%E2%80%93_Come_Out_and_Play.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "When_I_Was_Older",
+                    "duration": "4:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Billie_Eilish_-_When_I_Was_Older.jpg/220px-Billie_Eilish_-_When_I_Was_Older.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "50:48",
+                    "image": {}
+                },
+                {
+                    "name": "Bad_Guy_(Billie_Eilish_song)#Justin_Bieber_version",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png/220px-Billie_Eilish_and_Justin_Bieber_-_Bad_Guy_%28Remix%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "54:02",
+                    "image": {}
+                },
+                {
+                    "name": "Everything_I_Wanted",
+                    "duration": "4:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Billie_Eilish_-_Everything_I_Wanted.png/220px-Billie_Eilish_-_Everything_I_Wanted.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "58:07",
+                    "image": {}
+                },
+                {
+                    "name": "Bitches_Broken_Hearts",
+                    "duration": "2:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg/220px-Billie_Eilish_-_You_Should_See_Me_in_a_Crown_-_Bitches_Broken_Hearts.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everything I Wanted",
+                    "duration": "4:05",
+                    "image": {}
+                },
+                {
+                    "name": "54:19",
+                    "image": {}
+                },
+                {
+                    "name": "When I Was Older",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Xanny (music video)",
+                    "duration": "4:25",
+                    "image": {}
+                },
+                {
+                    "name": "Ilomilo (music video)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "Everything I Wanted (music video)",
+                    "duration": "4:47",
+                    "image": {}
+                },
+                {
+                    "name": "Bad Guy (music video)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "All the Good Girls Go to Hell (music video)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "When the Party's Over (music video)",
+                    "duration": "3:12",
+                    "image": {}
+                },
+                {
+                    "name": "Bury a Friend (music video)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "28:07",
+                    "image": {}
+                },
+                {
+                    "name": "Takashi_Murakami",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg/220px-Takashi_Murakami_at_Versailles_Sept._2010_%28crop%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Happier Than Ever",
+            "url": "https://en.wikipedia.org/wiki/Happier_Than_Ever",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Billie_Eilish_-_Happier_Than_Ever.png/220px-Billie_Eilish_-_Happier_Than_Ever.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "July 30, 2021"
+            },
+            "tracks": [
+                {
+                    "name": "Oxytocin_(song)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Lost_Cause_(Billie_Eilish_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Billie_Eilish_-_Lost_Cause_%28Official_Live_Performance%29.png/220px-Billie_Eilish_-_Lost_Cause_%28Official_Live_Performance%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Not_My_Responsibility#As_a_song",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Billie_Eilish_-_Not_My_Responsibility.png/220px-Billie_Eilish_-_Not_My_Responsibility.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "NDA_(song)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Billie_Eilish_-_NDA.png/220px-Billie_Eilish_-_NDA.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "56:07",
+                    "image": {}
+                },
+                {
+                    "name": "I Didn't Change My Number",
+                    "duration": "2:38",
+                    "image": {}
+                },
+                {
+                    "name": "My_Future",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Billie_Eilish_-_My_Future.png/220px-Billie_Eilish_-_My_Future.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Overheated",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Getting_Older",
+                    "duration": "4:04",
+                    "image": {}
+                },
+                {
+                    "name": "Everybody Dies",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Your_Power",
+                    "duration": "4:05",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Billie_Eilish_-_Your_Power_%28Official_Live_Performance%29.png/220px-Billie_Eilish_-_Your_Power_%28Official_Live_Performance%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Therefore_I_Am_(song)",
+                    "duration": "2:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Billie_Eilish_-_Therefore_I_Am.png/220px-Billie_Eilish_-_Therefore_I_Am.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Billie Bossa Nova",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Goldwing",
+                    "duration": "2:31",
+                    "image": {}
+                },
+                {
+                    "name": "Halley's Comet",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "Happier_Than_Ever_(song)",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Male_Fantasy",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Billie_Eilish_-_Male_Fantasy_%28Official_Live_Performance%29.jpg/220px-Billie_Eilish_-_Male_Fantasy_%28Official_Live_Performance%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "My Future (Live Performance from the DNC)",
+                    "image": {}
+                },
+                {
+                    "name": "Therefore I Am (Live from iHeartRadio ALTer Ego 2021)",
+                    "image": {}
+                },
+                {
+                    "name": "Your Power (Vevo Live Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Cause (Vevo Live Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Billie Bossa Nova (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "NDA (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Happier Than Ever (Making of the Video)",
+                    "image": {}
+                },
+                {
+                    "name": "NDA (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Your Power (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Happier_Than_Ever,_The_World_Tour",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Billie_Eilish_-_Happier_Than_Ever%2C_The_World_Tour.png/250px-Billie_Eilish_-_Happier_Than_Ever%2C_The_World_Tour.png",
+                        "width": 250,
+                        "height": 250
+                    }
+                },
+                {
+                    "name": "NDA (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Happier Than Ever (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Male Fantasy (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Lost Cause (Music Video)",
+                    "image": {}
+                },
+                {
+                    "name": "Billie Bossa Nova (Japan Special Performance)",
+                    "image": {}
+                },
+                {
+                    "name": "Interview for Japan",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Live at Third Man Records",
+            "url": "https://en.wikipedia.org/wiki/Live_at_Third_Man_Records_(Billie_Eilish_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Live_at_Third_Man_Records_-_Billie_Eilish_%28Record_Store_Day_edition%29.jpg/220px-Live_at_Third_Man_Records_-_Billie_Eilish_%28Record_Store_Day_edition%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "December 6, 2019"
+            }
+        },
+        {
+            "name": "Live at the Steve Jobs Theater[112]",
+            "url": "https://en.wikipedia.org/wiki/Billie_Eilish_discography",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg/220px-Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {}
+        }
+    ]
+}

@@ -17,6 +17,7 @@ export interface Part {
   type: string
   name?: string
   value?: string
+  values?: string[]
   has_parts?: Part[]
   links?: Link[]
 }

@@ -1,0 +1,3787 @@
+{
+    "name": "Tiësto",
+    "has_occupation": [
+        {
+            "name": "disc jockey"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "songwriter"
+        },
+        {
+            "name": "music executive"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "awards": [
+        "Golden Harp",
+        "Silver Harp",
+        "MTV Europe Music Award for Best Dutch Act",
+        "Popprijs",
+        "Officer of the order Orange-Nassau",
+        "Grammy Awards",
+        "honorary citizen of North-Brabant"
+    ],
+    "genres": [
+        "trance",
+        "electronic dance music",
+        "electro house",
+        "progressive house",
+        "future house",
+        "deep house",
+        "electronica",
+        "hardcore techno"
+    ],
+    "albums": [
+        {
+            "name": "Just Be",
+            "url": "https://en.wikipedia.org/wiki/Just_Be",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Justbealbum.jpg/220px-Justbealbum.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 April 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Forever Today",
+                    "duration": "11:59",
+                    "image": {}
+                },
+                {
+                    "name": "UR/A_Tear_in_the_Open",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "Kirsty_Hawkshaw",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirsty_Hawkshaw.jpg/220px-Kirsty_Hawkshaw.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "UR/A_Tear_in_the_Open",
+                    "duration": "9:23",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "5:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet Misery",
+                    "duration": "7:29",
+                    "image": {}
+                },
+                {
+                    "name": "Nyana_(album)",
+                    "duration": "6:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Tiesto-nyana.jpg/220px-Tiesto-nyana.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "duration": "8:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "7:23",
+                    "image": {}
+                },
+                {
+                    "name": "Just Be (album)",
+                    "duration": "78:47",
+                    "image": {}
+                },
+                {
+                    "name": "Press Photos",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto_In_Concert",
+                    "duration": "3:20:00",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Radio Edit)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Original Mix)",
+                    "duration": "6:59",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Max Walder Remix)",
+                    "duration": "7:35",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (DJ Montana 12 Edit)",
+                    "duration": "7:41",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (Radio Edit)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Norman_(DJ)",
+                    "duration": "7:23",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal Industry (DJ Richard \u0026 Johnny Bass Remix)",
+                    "duration": "6:39",
+                    "image": {}
+                },
+                {
+                    "name": "Interview \u0026 Photos",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (DJ Montana Full Length Edit)",
+                    "duration": "7:47",
+                    "image": {}
+                },
+                {
+                    "name": "Nyana (video)",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (video)",
+                    "duration": "2:58",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Kaleidoscope",
+            "url": "https://en.wikipedia.org/wiki/Kaleidoscope_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Tiestokaleidoscope.jpg/220px-Tiestokaleidoscope.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 October 2009"
+            },
+            "tracks": [
+                {
+                    "name": "Priscilla_Ahn",
+                    "duration": "5:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Priscilla_Ahn.jpg/220px-Priscilla_Ahn.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Always Near",
+                    "duration": "1:33",
+                    "image": {}
+                },
+                {
+                    "name": "Fresh Fruit",
+                    "duration": "5:23",
+                    "image": {}
+                },
+                {
+                    "name": "Emily_Haines",
+                    "duration": "5:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emily_Haines_2010.jpg/220px-Emily_Haines_2010.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jón_Þór_Birgisson",
+                    "duration": "7:36",
+                    "image": {}
+                },
+                {
+                    "name": "I_Will_Be_Here",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Iwillbeherecover.jpg/220px-Iwillbeherecover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cary_Brothers",
+                    "duration": "4:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Carybrothers2007.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Who_Wants_to_Be_Alone",
+                    "duration": "4:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Who_Wants_to_Be_Alone.png/220px-Who_Wants_to_Be_Alone.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "LA Ride",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "Kianna_Alarid",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Kele_Okereke",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg/220px-Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "4:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Feel_It_in_My_Bones",
+                    "duration": "4:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Tiesto_-feel-it-in-my-bones.jpg/220px-Tiesto_-feel-it-in-my-bones.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bend It Like You Don't Care",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Escape_Me",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Louder Than Boom",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Surrounded by Light",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Organised Chaos",
+                    "duration": "5:12",
+                    "image": {}
+                },
+                {
+                    "name": "Dizzee_Rascal",
+                    "duration": "4:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/13-06-09_RaR_Dizzee_Rascal_10_%28cropped%29.jpg/220px-13-06-09_RaR_Dizzee_Rascal_10_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiss from the Past(as Allure)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "The London Sessions",
+            "url": "https://en.wikipedia.org/wiki/The_London_Sessions_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/London_Sessions_Ti%C3%ABsto_album_Cover.jpg/220px-London_Sessions_Ti%C3%ABsto_album_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 May 2020"
+            },
+            "tracks": [
+                {
+                    "name": "God_Is_a_Dancer",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Ti%C3%ABsto_-_God_Is_a_Dancer.png/220px-Ti%C3%ABsto_-_God_Is_a_Dancer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ritual_(Tiësto,_Jonas_Blue_and_Rita_Ora_song)",
+                    "duration": "3:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Ti%C3%ABsto%2C_Jonas_Blue_and_Rita_Ora_-_Ritual.png/220px-Ti%C3%ABsto%2C_Jonas_Blue_and_Rita_Ora_-_Ritual.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jackie_Chan_(song)#Tiësto_and_Dzeko_version",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Jackie_Chan_%28song%29_cover.jpg/220px-Jackie_Chan_%28song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Shaun_Frank",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Steve_Aoki_%26_Shaun_Frank_live_at_Veld_Music_Festival_2016.jpg/300px-Steve_Aoki_%26_Shaun_Frank_live_at_Veld_Music_Festival_2016.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Becky_Hill",
+                    "duration": "2:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Nothing_Really_Matters_(Becky_Hill_and_Tiësto_song)",
+                    "duration": "2:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Ti%C3%ABsto_and_Becky_Hill_-_Nothing_Really_Matters.png/220px-Ti%C3%ABsto_and_Becky_Hill_-_Nothing_Really_Matters.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Round \u0026 Round (featuring Galxara)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Lose_You_(Tiësto_song)",
+                    "duration": "2:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ti%C3%ABsto_feat._ILIRA_-_Lose_You_%28Chico_Rose_Remix%29.jpg/220px-Ti%C3%ABsto_feat._ILIRA_-_Lose_You_%28Chico_Rose_Remix%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "What's It Gonna Be (featuring Kamille)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Ride (featuring The Kid Daytona and Roe)",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Blue_(Tiësto_song)",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Ti%C3%ABsto_feat._Stevie_Appleton_-_Blue.jpg/220px-Ti%C3%ABsto_feat._Stevie_Appleton_-_Blue.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Violet_Skies",
+                    "duration": "7:35",
+                    "image": {}
+                },
+                {
+                    "name": "Kamille (musician)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "42:38",
+                    "image": {}
+                },
+                {
+                    "name": "Nothing Really Matters (Codeco Remix)",
+                    "duration": "3:04",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You (Chico Rose Remix)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "48:30",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "In My Memory",
+            "url": "https://en.wikipedia.org/wiki/In_My_Memory",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Inmymemoryalbum.jpg/220px-Inmymemoryalbum.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 April 2001"
+            },
+            "tracks": [
+                {
+                    "name": "Battleship_Grey",
+                    "duration": "5:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DJ_Ti%C3%ABsto_feat._Kirsty_Hawkshaw_-_Battleship_Grey.jpg/220px-DJ_Ti%C3%ABsto_feat._Kirsty_Hawkshaw_-_Battleship_Grey.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Magik Journey",
+                    "duration": "9:58",
+                    "image": {}
+                },
+                {
+                    "name": "Close to You",
+                    "duration": "5:01",
+                    "image": {}
+                },
+                {
+                    "name": "Dallas 4 PM",
+                    "duration": "6:43",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "6:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "duration": "9:07",
+                    "image": {}
+                },
+                {
+                    "name": "Flight_643",
+                    "duration": "9:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "6:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "10:20",
+                    "image": {}
+                },
+                {
+                    "name": "643_(Love's_on_Fire)",
+                    "duration": "7:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/643LovesonFire.jpg/220px-643LovesonFire.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "643 (Love's on Fire) (Oliver Klein Vox Mix)",
+                    "duration": "8:57",
+                    "image": {}
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "7:30",
+                    "image": {}
+                },
+                {
+                    "name": "In My Memory (V-One Remix)",
+                    "duration": "8:07",
+                    "image": {}
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "8:52",
+                    "image": {}
+                },
+                {
+                    "name": "Sparkles (Starecase Remix)",
+                    "duration": "7:57",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "8:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Oliver_Lieb",
+                    "duration": "7:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oliver_lieb_%28cropped%29.jpg/220px-Oliver_lieb_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mauro_Picotto",
+                    "duration": "7:39",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Elements of Life",
+            "url": "https://en.wikipedia.org/wiki/Elements_of_Life",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Tiesto-elements-of-life.jpg/220px-Tiesto-elements-of-life.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 April 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Ten Seconds Before Sunrise",
+                    "duration": "7:31",
+                    "image": {}
+                },
+                {
+                    "name": "Jes (musician)",
+                    "duration": "7:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Do You Feel Me (featuring Julie Thompson)",
+                    "duration": "6:03",
+                    "image": {}
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "7:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "4:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life",
+                    "duration": "8:25",
+                    "image": {}
+                },
+                {
+                    "name": "He's_a_Pirate#Tiësto_Remixes",
+                    "duration": "7:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Black-Pearl-Hes-a-Pirate-by-Rebel.jpg/220px-Black-Pearl-Hes-a-Pirate-by-Rebel.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carpe Noctum",
+                    "duration": "7:03",
+                    "image": {}
+                },
+                {
+                    "name": "Driving to Heaven",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Charlotte_Martin",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Charlotte_Martin_2014.jpg/220px-Charlotte_Martin_2014.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bright Morningstar",
+                    "duration": "8:19",
+                    "image": {}
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "5:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Everything (featuring JES) (acoustic version)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Fonzerelli",
+                    "duration": "7:48",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "8:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                }
+            ]
+        },
+        {
+            "name": "A Town Called Paradise",
+            "url": "https://en.wikipedia.org/wiki/A_Town_Called_Paradise",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Tiesto_-_A_Town_Called_Paradise.jpg/220px-Tiesto_-_A_Town_Called_Paradise.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "13 June 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Footprints (featuring Cruickshank)",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Rocky (with Kaaze)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Wasted_(Tiësto_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Ti%C3%ABsto_Wasted.jpg/220px-Ti%C3%ABsto_Wasted.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Let's_Go_(Tiësto_song)",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Ti%C3%ABsto_feat._Icona_Pop_-_Let%27s_Go_2.jpg/220px-Ti%C3%ABsto_feat._Icona_Pop_-_Let%27s_Go_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Aden Protectorate",
+                    "duration": "4:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png",
+                        "width": 22,
+                        "height": 22
+                    }
+                },
+                {
+                    "name": "Pair of Dice",
+                    "duration": "4:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ti%C3%ABsto_feat._Krewella_-_Set_Yourself_Free.jpg/220px-Ti%C3%ABsto_feat._Krewella_-_Set_Yourself_Free.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Light_Years_Away_(Tiësto_song)",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Ti%C3%ABsto_feat._DBX_-_Light_Years_Away2.jpg/220px-Ti%C3%ABsto_feat._DBX_-_Light_Years_Away2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Andreas_Moe",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Andreas_Moe_%E2%80%93_Docks_Hamburg_2016_06.jpg/220px-Andreas_Moe_%E2%80%93_Docks_Hamburg_2016_06.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "American Authors",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/American_Authors_at_Heaven_London%2C_2014_%281%29.jpg/300px-American_Authors_at_Heaven_London%2C_2014_%281%29.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Christian_Burns",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Christian_Anthony_Burns.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Last_Train_(Tiësto_and_Firebeatz_song)",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Ti%C3%ABsto_%26_Firebeatz_feat._Ladyhawke_-_Last_Train.jpg/220px-Ti%C3%ABsto_%26_Firebeatz_feat._Ladyhawke_-_Last_Train.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ou_Est_le_Swimming_Pool",
+                    "duration": "4:45",
+                    "image": {}
+                },
+                {
+                    "name": "Red_Lights_(song)",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Red_Lights_CD.jpg/220px-Red_Lights_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hardwell",
+                    "duration": "4:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hardwell_2018_%28cropped%29.jpg/220px-Hardwell_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moti (DJ)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Fred_Falke",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smirnoff_BOTC_with_Felix_Da_Housecat.jpg/300px-Smirnoff_BOTC_with_Felix_Da_Housecat.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Dzeko_\u0026_Torres",
+                    "duration": "4:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Take_Me_(Tiësto_song)",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Ti%C3%ABsto_feat._Kyler_England_-_Take_Me.jpg/220px-Ti%C3%ABsto_feat._Kyler_England_-_Take_Me.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Drive",
+            "url": "https://en.wikipedia.org/wiki/Drive_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ti%C3%ABsto_-_Drive.jpg/220px-Ti%C3%ABsto_-_Drive.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "21 April 2023"
+            },
+            "tracks": [
+                {
+                    "name": "A_Boogie_wit_da_Hoodie",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A_Boogie_wit_da_Hoodie.png/220px-A_Boogie_wit_da_Hoodie.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Motto_(Tiësto_and_Ava_Max_song)",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Ti%C3%ABsto_-_The_Motto.jpg/220px-Ti%C3%ABsto_-_The_Motto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Business_(Tiësto_song)",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Ti%C3%ABsto_%26_Ty_Dolla_Sign_-_The_Business_Part_II.jpg/220px-Ti%C3%ABsto_%26_Ty_Dolla_Sign_-_The_Business_Part_II.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "31:54",
+                    "image": {}
+                },
+                {
+                    "name": "Don't_Be_Shy_(Tiësto_and_Karol_G_song)",
+                    "duration": "2:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Ti%C3%ABsto_-_Don%27t_Be_Shy.jpg/220px-Ti%C3%ABsto_-_Don%27t_Be_Shy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lay Low (vocals by Halvor Folstad)",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "All Nighter",
+                    "duration": "2:14",
+                    "image": {}
+                },
+                {
+                    "name": "Hot_in_It",
+                    "duration": "2:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Ti%C3%ABsto_and_Charli_XCX_-_Hot_in_It.png/220px-Ti%C3%ABsto_and_Charli_XCX_-_Hot_in_It.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Black_Eyed_Peas",
+                    "duration": "2:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Eyed_Peas_performing_at_O2_Apollo_Manchester_Nov2018.jpeg/300px-Black_Eyed_Peas_performing_at_O2_Apollo_Manchester_Nov2018.jpeg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Learn 2 Love (vocals by Hayley May)",
+                    "duration": "2:13",
+                    "image": {}
+                },
+                {
+                    "name": "10:35",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Ti%C3%ABsto_-_1035.png/220px-Ti%C3%ABsto_-_1035.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Freya_Ridings",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Freya_Ridings%2C_Pryzm%2C_Kingston.jpg/220px-Freya_Ridings%2C_Pryzm%2C_Kingston.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Back Around (with AR/CO)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Yesterday (bonus track)",
+                    "duration": "2:20",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Best of System F \u0026 Gouryella (Part 2)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Kamaya Painters: The Collected Works",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Magikal Journey",
+            "url": "https://en.wikipedia.org/wiki/Magikal_Journey",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Tiesto_-_Magikal_Journey.jpg/220px-Tiesto_-_Magikal_Journey.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "17 May 2010"
+            },
+            "tracks": [
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Shiny Toy Guns Club Mix)",
+                    "duration": "7:47",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "duration": "9:07",
+                    "image": {}
+                },
+                {
+                    "name": "Laidback_Luke",
+                    "duration": "6:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Laidback_Luke_2012.jpg/220px-Laidback_Luke_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sander_van_Doorn",
+                    "duration": "7:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sander_van_Doorn_%2811%29.JPG/220px-Sander_van_Doorn_%2811%29.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Flight_643",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "6:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Tiësto 2010 Remix)",
+                    "duration": "7:09",
+                    "image": {}
+                },
+                {
+                    "name": "Jes (musician)",
+                    "duration": "6:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "Bart_Claessen",
+                    "duration": "7:25",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "2:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sean_Tyas",
+                    "duration": "6:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sean_Tyas_%283495991089%29.jpg/280px-Sean_Tyas_%283495991089%29.jpg",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (featuring BT) (Myon \u0026 Shane 54 Monster Mix)",
+                    "duration": "6:32",
+                    "image": {}
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hardwell",
+                    "duration": "5:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hardwell_2018_%28cropped%29.jpg/220px-Hardwell_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Airbase_(DJ)",
+                    "duration": "6:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jezper_aka_Airbase.jpg/160px-Jezper_aka_Airbase.jpg",
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                {
+                    "name": "643_(Love's_on_Fire)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/643LovesonFire.jpg/220px-643LovesonFire.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In My Memory (featuring Nicola Hitchcock) (Tiësto Remix)",
+                    "duration": "9:13",
+                    "image": {}
+                },
+                {
+                    "name": "Goldrush",
+                    "duration": "9:22",
+                    "image": {}
+                },
+                {
+                    "name": "Magikal Circus",
+                    "duration": "12:01",
+                    "image": {}
+                },
+                {
+                    "name": "Forever Today",
+                    "duration": "11:57",
+                    "image": {}
+                },
+                {
+                    "name": "Richard_Durand",
+                    "duration": "6:53",
+                    "image": {}
+                },
+                {
+                    "name": "Just Be (featuring Kirsty Hawkshaw) (Tiësto Remix)",
+                    "duration": "9:13",
+                    "image": {}
+                },
+                {
+                    "name": "List of Resident Evil characters",
+                    "duration": "4:34",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Umbrella_Corporation_logo.svg/220px-Umbrella_Corporation_logo.svg.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life (Radio Edit Live from Copenhagen)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carpe Noctum (Spencer \u0026 Hill Dub)",
+                    "image": {}
+                },
+                {
+                    "name": "Escape_Me",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "image": {}
+                },
+                {
+                    "name": "Jes (musician)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Goldrush (edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Elements of Life (Radio Edit Live from Copenhagen)",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise",
+                    "image": {}
+                },
+                {
+                    "name": "Louder Than Boom",
+                    "image": {}
+                },
+                {
+                    "name": "Flight_643",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Tiësto 2010 Remix)",
+                    "image": {}
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Magikal Circus (edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Parade of the Athletes",
+            "url": "https://en.wikipedia.org/wiki/Parade_of_the_Athletes",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Paradeoftheathletes.jpg/220px-Paradeoftheathletes.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "7 September 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Heroes",
+                    "duration": "8:36",
+                    "image": {}
+                },
+                {
+                    "name": "Breda 8pm (DJ Montana Edit)",
+                    "duration": "6:43",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "4:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Euphoria",
+                    "duration": "6:05",
+                    "image": {}
+                },
+                {
+                    "name": "Olympic Flame",
+                    "duration": "5:34",
+                    "image": {}
+                },
+                {
+                    "name": "Coming Home",
+                    "duration": "6:28",
+                    "image": {}
+                },
+                {
+                    "name": "Ancient History",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Athena",
+                    "duration": "6:17",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "4:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "5:57",
+                    "image": {}
+                },
+                {
+                    "name": "Victorious",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "Forever Today",
+                    "duration": "7:06",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Perfect Remixes Vol. 3",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Best of System F \u0026 Gouryella (Part 1)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Just Be: Remixed",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Gold Remixes",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Elements of Life: Remixed",
+            "url": "https://en.wikipedia.org/wiki/Elements_of_Life:_Remixed",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Elements_of_Life_Remixed_Tiesto2.jpg/220px-Elements_of_Life_Remixed_Tiesto2.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "Disc: 28 April 2008 Bonus Disc: 17 April 2008"
+            },
+            "tracks": [
+                {
+                    "name": "Blue_Man_Group",
+                    "duration": "6:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Man4_%28SP%29_2009_Brazil.JPG/220px-Blue_Man4_%28SP%29_2009_Brazil.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Do You Feel Me (Roger Martinez Remix)",
+                    "duration": "5:08",
+                    "image": {}
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "5:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "6:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life (Alex Kunnari Remix) ",
+                    "duration": "6:36",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Things (Tom Cloud Remix)",
+                    "duration": "6:26",
+                    "image": {}
+                },
+                {
+                    "name": "Bright Morningstar (Andy Duguid Remix)",
+                    "duration": "7:36",
+                    "image": {}
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "5:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise (First State Remix)",
+                    "duration": "7:44",
+                    "image": {}
+                },
+                {
+                    "name": "Cosmic_Gate",
+                    "duration": "7:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cosmic_Gate_performing_at_the_Rupublik_in_Honolulu%2C_Hawaii.jpg/300px-Cosmic_Gate_performing_at_the_Rupublik_in_Honolulu%2C_Hawaii.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Carpe Noctum (Fire Element Mix)",
+                    "duration": "5:48",
+                    "image": {}
+                },
+                {
+                    "name": "Mat_Zo",
+                    "duration": "7:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mat_Zo_Performing_in_2013.jpg/300px-Mat_Zo_Performing_in_2013.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Everything (Andrew Bennett Remix)",
+                    "duration": "9:38",
+                    "image": {}
+                },
+                {
+                    "name": "Carpe Noctum (Spencer \u0026 Hill Remix)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise (First State's A Global Taste Remix)",
+                    "duration": "9:32",
+                    "image": {}
+                },
+                {
+                    "name": "Carpe Noctum (DJ Preach Remix)",
+                    "duration": "7:50",
+                    "image": {}
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "7:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jezper_Söderlund",
+                    "duration": "8:13",
+                    "image": {}
+                },
+                {
+                    "name": "In the Dark (Shiny Toy Guns Club Mix)",
+                    "duration": "7:50",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Kaleidoscope: Remixed",
+            "url": "https://en.wikipedia.org/wiki/Kaleidoscope:_Remixed",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Tiesto_-_Kaleidoscope_Remixed.jpg/220px-Tiesto_-_Kaleidoscope_Remixed.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "31 August 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Louder Than Boom (Bart B More Remix)",
+                    "duration": "7:08",
+                    "image": {}
+                },
+                {
+                    "name": "Feel_It_in_My_Bones",
+                    "duration": "8:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Tiesto_-feel-it-in-my-bones.jpg/220px-Tiesto_-feel-it-in-my-bones.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "7:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Priscilla_Ahn",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Priscilla_Ahn.jpg/220px-Priscilla_Ahn.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wolfgang_Gartner",
+                    "duration": "8:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WG_Press_Shot_2021.jpg/300px-WG_Press_Shot_2021.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "I_Will_Be_Here",
+                    "duration": "7:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Iwillbeherecover.jpg/220px-Iwillbeherecover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kele_Okereke",
+                    "duration": "7:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg/220px-Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "8:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Ferry_Corsten",
+                    "duration": "8:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Nic_Chagall",
+                    "duration": "9:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cosmic_Gate.jpg/220px-Cosmic_Gate.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Escape_Me",
+                    "duration": "7:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Abd al-Hafid of Morocco",
+                    "duration": "8:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8.jpg/220px-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Who_Wants_to_Be_Alone",
+                    "duration": "9:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Who_Wants_to_Be_Alone.png/220px-Who_Wants_to_Be_Alone.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "List of DC Comics characters: M",
+                    "duration": "7:55",
+                    "image": {}
+                },
+                {
+                    "name": "It's Not the Things You Say (Tiësto Remix) (featuring Kele Okereke)",
+                    "duration": "10:12",
+                    "image": {}
+                },
+                {
+                    "name": "It's Not the Things You Say (Filthy Dukes Remix) (featuring Kele Okereke)",
+                    "duration": "7:59",
+                    "image": {}
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "7:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "8:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Cary_Brothers",
+                    "duration": "8:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Carybrothers2007.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiss from the Past: The Remix Album(as Allure)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "In My Memory",
+            "url": "https://en.wikipedia.org/wiki/In_My_Memory",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Inmymemoryalbum.jpg/220px-Inmymemoryalbum.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 April 2001"
+            },
+            "tracks": [
+                {
+                    "name": "Magik Journey",
+                    "duration": "9:58",
+                    "image": {}
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "duration": "9:07",
+                    "image": {}
+                },
+                {
+                    "name": "Battleship_Grey",
+                    "duration": "5:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/DJ_Ti%C3%ABsto_feat._Kirsty_Hawkshaw_-_Battleship_Grey.jpg/220px-DJ_Ti%C3%ABsto_feat._Kirsty_Hawkshaw_-_Battleship_Grey.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Flight_643",
+                    "duration": "9:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "10:20",
+                    "image": {}
+                },
+                {
+                    "name": "Close to You",
+                    "duration": "5:01",
+                    "image": {}
+                },
+                {
+                    "name": "Dallas 4 PM",
+                    "duration": "6:43",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "6:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "6:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "8:52",
+                    "image": {}
+                },
+                {
+                    "name": "Sparkles (Starecase Remix)",
+                    "duration": "7:57",
+                    "image": {}
+                },
+                {
+                    "name": "643_(Love's_on_Fire)",
+                    "duration": "7:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/643LovesonFire.jpg/220px-643LovesonFire.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "7:30",
+                    "image": {}
+                },
+                {
+                    "name": "In My Memory (V-One Remix)",
+                    "duration": "8:07",
+                    "image": {}
+                },
+                {
+                    "name": "Mauro_Picotto",
+                    "duration": "7:39",
+                    "image": {}
+                },
+                {
+                    "name": "643 (Love's on Fire) (Oliver Klein Vox Mix)",
+                    "duration": "8:57",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "8:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Oliver_Lieb",
+                    "duration": "7:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oliver_lieb_%28cropped%29.jpg/220px-Oliver_lieb_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kaleidoscope",
+            "url": "https://en.wikipedia.org/wiki/Kaleidoscope_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Tiestokaleidoscope.jpg/220px-Tiestokaleidoscope.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 October 2009"
+            },
+            "tracks": [
+                {
+                    "name": "Escape_Me",
+                    "duration": "4:17",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "4:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Louder Than Boom",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "Kianna_Alarid",
+                    "duration": "4:10",
+                    "image": {}
+                },
+                {
+                    "name": "I_Will_Be_Here",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Iwillbeherecover.jpg/220px-Iwillbeherecover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Cary_Brothers",
+                    "duration": "4:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Carybrothers2007.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Fresh Fruit",
+                    "duration": "5:23",
+                    "image": {}
+                },
+                {
+                    "name": "Who_Wants_to_Be_Alone",
+                    "duration": "4:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Who_Wants_to_Be_Alone.png/220px-Who_Wants_to_Be_Alone.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "LA Ride",
+                    "duration": "4:13",
+                    "image": {}
+                },
+                {
+                    "name": "Bend It Like You Don't Care",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Jón_Þór_Birgisson",
+                    "duration": "7:36",
+                    "image": {}
+                },
+                {
+                    "name": "Always Near",
+                    "duration": "1:33",
+                    "image": {}
+                },
+                {
+                    "name": "Feel_It_in_My_Bones",
+                    "duration": "4:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Tiesto_-feel-it-in-my-bones.jpg/220px-Tiesto_-feel-it-in-my-bones.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Priscilla_Ahn",
+                    "duration": "5:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Priscilla_Ahn.jpg/220px-Priscilla_Ahn.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kele_Okereke",
+                    "duration": "3:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg/220px-Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Emily_Haines",
+                    "duration": "5:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emily_Haines_2010.jpg/220px-Emily_Haines_2010.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Surrounded by Light",
+                    "duration": "2:39",
+                    "image": {}
+                },
+                {
+                    "name": "Organised Chaos",
+                    "duration": "5:12",
+                    "image": {}
+                },
+                {
+                    "name": "Dizzee_Rascal",
+                    "duration": "4:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/13-06-09_RaR_Dizzee_Rascal_10_%28cropped%29.jpg/220px-13-06-09_RaR_Dizzee_Rascal_10_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "A Town Called Paradise",
+            "url": "https://en.wikipedia.org/wiki/A_Town_Called_Paradise",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Tiesto_-_A_Town_Called_Paradise.jpg/220px-Tiesto_-_A_Town_Called_Paradise.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "13 June 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Ou_Est_le_Swimming_Pool",
+                    "duration": "4:45",
+                    "image": {}
+                },
+                {
+                    "name": "Christian_Burns",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Christian_Anthony_Burns.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Rocky (with Kaaze)",
+                    "duration": "3:32",
+                    "image": {}
+                },
+                {
+                    "name": "Footprints (featuring Cruickshank)",
+                    "duration": "4:17",
+                    "image": {}
+                },
+                {
+                    "name": "Light_Years_Away_(Tiësto_song)",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Ti%C3%ABsto_feat._DBX_-_Light_Years_Away2.jpg/220px-Ti%C3%ABsto_feat._DBX_-_Light_Years_Away2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hardwell",
+                    "duration": "4:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hardwell_2018_%28cropped%29.jpg/220px-Hardwell_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Andreas_Moe",
+                    "duration": "4:59",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Andreas_Moe_%E2%80%93_Docks_Hamburg_2016_06.jpg/220px-Andreas_Moe_%E2%80%93_Docks_Hamburg_2016_06.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wasted_(Tiësto_song)",
+                    "duration": "3:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Ti%C3%ABsto_Wasted.jpg/220px-Ti%C3%ABsto_Wasted.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Abstract noun",
+                    "duration": "4:20",
+                    "image": {}
+                },
+                {
+                    "name": "Let's_Go_(Tiësto_song)",
+                    "duration": "3:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Ti%C3%ABsto_feat._Icona_Pop_-_Let%27s_Go_2.jpg/220px-Ti%C3%ABsto_feat._Icona_Pop_-_Let%27s_Go_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pair of Dice",
+                    "duration": "4:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ti%C3%ABsto_feat._Krewella_-_Set_Yourself_Free.jpg/220px-Ti%C3%ABsto_feat._Krewella_-_Set_Yourself_Free.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "American Authors",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/American_Authors_at_Heaven_London%2C_2014_%281%29.jpg/300px-American_Authors_at_Heaven_London%2C_2014_%281%29.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Last_Train_(Tiësto_and_Firebeatz_song)",
+                    "duration": "4:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Ti%C3%ABsto_%26_Firebeatz_feat._Ladyhawke_-_Last_Train.jpg/220px-Ti%C3%ABsto_%26_Firebeatz_feat._Ladyhawke_-_Last_Train.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Red_Lights_(song)",
+                    "duration": "4:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Red_Lights_CD.jpg/220px-Red_Lights_CD.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Moti (DJ)",
+                    "duration": "3:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Fred_Falke",
+                    "duration": "3:16",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Smirnoff_BOTC_with_Felix_Da_Housecat.jpg/300px-Smirnoff_BOTC_with_Felix_Da_Housecat.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Dzeko_\u0026_Torres",
+                    "duration": "4:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Take_Me_(Tiësto_song)",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Ti%C3%ABsto_feat._Kyler_England_-_Take_Me.jpg/220px-Ti%C3%ABsto_feat._Kyler_England_-_Take_Me.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "The London Sessions",
+            "url": "https://en.wikipedia.org/wiki/The_London_Sessions_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/London_Sessions_Ti%C3%ABsto_album_Cover.jpg/220px-London_Sessions_Ti%C3%ABsto_album_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 May 2020"
+            },
+            "tracks": [
+                {
+                    "name": "Becky_Hill",
+                    "duration": "2:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Kamille (musician)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "Shaun_Frank",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Steve_Aoki_%26_Shaun_Frank_live_at_Veld_Music_Festival_2016.jpg/300px-Steve_Aoki_%26_Shaun_Frank_live_at_Veld_Music_Festival_2016.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Blue_(Tiësto_song)",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Ti%C3%ABsto_feat._Stevie_Appleton_-_Blue.jpg/220px-Ti%C3%ABsto_feat._Stevie_Appleton_-_Blue.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Lose_You_(Tiësto_song)",
+                    "duration": "2:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Ti%C3%ABsto_feat._ILIRA_-_Lose_You_%28Chico_Rose_Remix%29.jpg/220px-Ti%C3%ABsto_feat._ILIRA_-_Lose_You_%28Chico_Rose_Remix%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nothing_Really_Matters_(Becky_Hill_and_Tiësto_song)",
+                    "duration": "2:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Ti%C3%ABsto_and_Becky_Hill_-_Nothing_Really_Matters.png/220px-Ti%C3%ABsto_and_Becky_Hill_-_Nothing_Really_Matters.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Round \u0026 Round (featuring Galxara)",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "What's It Gonna Be (featuring Kamille)",
+                    "duration": "2:42",
+                    "image": {}
+                },
+                {
+                    "name": "God_Is_a_Dancer",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Ti%C3%ABsto_-_God_Is_a_Dancer.png/220px-Ti%C3%ABsto_-_God_Is_a_Dancer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ride (featuring The Kid Daytona and Roe)",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Ritual_(Tiësto,_Jonas_Blue_and_Rita_Ora_song)",
+                    "duration": "3:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Ti%C3%ABsto%2C_Jonas_Blue_and_Rita_Ora_-_Ritual.png/220px-Ti%C3%ABsto%2C_Jonas_Blue_and_Rita_Ora_-_Ritual.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jackie_Chan_(song)#Tiësto_and_Dzeko_version",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Jackie_Chan_%28song%29_cover.jpg/220px-Jackie_Chan_%28song%29_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Violet_Skies",
+                    "duration": "7:35",
+                    "image": {}
+                },
+                {
+                    "name": "42:38",
+                    "image": {}
+                },
+                {
+                    "name": "Lose You (Chico Rose Remix)",
+                    "duration": "2:36",
+                    "image": {}
+                },
+                {
+                    "name": "48:30",
+                    "image": {}
+                },
+                {
+                    "name": "Nothing Really Matters (Codeco Remix)",
+                    "duration": "3:04",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Just Be",
+            "url": "https://en.wikipedia.org/wiki/Just_Be",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Justbealbum.jpg/220px-Justbealbum.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 April 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Sweet Misery",
+                    "duration": "7:29",
+                    "image": {}
+                },
+                {
+                    "name": "UR/A_Tear_in_the_Open",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "UR/A_Tear_in_the_Open",
+                    "duration": "9:23",
+                    "image": {}
+                },
+                {
+                    "name": "Forever Today",
+                    "duration": "11:59",
+                    "image": {}
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "5:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nyana_(album)",
+                    "duration": "6:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Tiesto-nyana.jpg/220px-Tiesto-nyana.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kirsty_Hawkshaw",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kirsty_Hawkshaw.jpg/220px-Kirsty_Hawkshaw.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "duration": "8:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "7:23",
+                    "image": {}
+                },
+                {
+                    "name": "Just Be (album)",
+                    "duration": "78:47",
+                    "image": {}
+                },
+                {
+                    "name": "Press Photos",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto_In_Concert",
+                    "duration": "3:20:00",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Max Walder Remix)",
+                    "duration": "7:35",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (DJ Montana 12 Edit)",
+                    "duration": "7:41",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (Radio Edit)",
+                    "duration": "3:16",
+                    "image": {}
+                },
+                {
+                    "name": "Mark_Norman_(DJ)",
+                    "duration": "7:23",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal Industry (DJ Richard \u0026 Johnny Bass Remix)",
+                    "duration": "6:39",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Radio Edit)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (Original Mix)",
+                    "duration": "6:59",
+                    "image": {}
+                },
+                {
+                    "name": "Nyana (video)",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Interview \u0026 Photos",
+                    "duration": "?",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (DJ Montana Full Length Edit)",
+                    "duration": "7:47",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (video)",
+                    "duration": "3:23",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic (video)",
+                    "duration": "2:58",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Elements of Life",
+            "url": "https://en.wikipedia.org/wiki/Elements_of_Life",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Tiesto-elements-of-life.jpg/220px-Tiesto-elements-of-life.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "6 April 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Do You Feel Me (featuring Julie Thompson)",
+                    "duration": "6:03",
+                    "image": {}
+                },
+                {
+                    "name": "Driving to Heaven",
+                    "duration": "4:42",
+                    "image": {}
+                },
+                {
+                    "name": "Bright Morningstar",
+                    "duration": "8:19",
+                    "image": {}
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "4:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "5:22",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jes (musician)",
+                    "duration": "7:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carpe Noctum",
+                    "duration": "7:03",
+                    "image": {}
+                },
+                {
+                    "name": "Charlotte_Martin",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Charlotte_Martin_2014.jpg/220px-Charlotte_Martin_2014.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "7:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life",
+                    "duration": "8:25",
+                    "image": {}
+                },
+                {
+                    "name": "He's_a_Pirate#Tiësto_Remixes",
+                    "duration": "7:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Black-Pearl-Hes-a-Pirate-by-Rebel.jpg/220px-Black-Pearl-Hes-a-Pirate-by-Rebel.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise",
+                    "duration": "7:31",
+                    "image": {}
+                },
+                {
+                    "name": "Everything (featuring JES) (acoustic version)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Fonzerelli",
+                    "duration": "7:48",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "8:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiss from the Past(as Allure)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Drive",
+            "url": "https://en.wikipedia.org/wiki/Drive_(Ti%C3%ABsto_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Ti%C3%ABsto_-_Drive.jpg/220px-Ti%C3%ABsto_-_Drive.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "21 April 2023"
+            },
+            "tracks": [
+                {
+                    "name": "Hot_in_It",
+                    "duration": "2:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Ti%C3%ABsto_and_Charli_XCX_-_Hot_in_It.png/220px-Ti%C3%ABsto_and_Charli_XCX_-_Hot_in_It.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "A_Boogie_wit_da_Hoodie",
+                    "duration": "3:03",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/A_Boogie_wit_da_Hoodie.png/220px-A_Boogie_wit_da_Hoodie.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "All Nighter",
+                    "duration": "2:14",
+                    "image": {}
+                },
+                {
+                    "name": "Black_Eyed_Peas",
+                    "duration": "2:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Eyed_Peas_performing_at_O2_Apollo_Manchester_Nov2018.jpeg/300px-Black_Eyed_Peas_performing_at_O2_Apollo_Manchester_Nov2018.jpeg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Yesterday (bonus track)",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "The_Motto_(Tiësto_and_Ava_Max_song)",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Ti%C3%ABsto_-_The_Motto.jpg/220px-Ti%C3%ABsto_-_The_Motto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "10:35",
+                    "duration": "2:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Ti%C3%ABsto_-_1035.png/220px-Ti%C3%ABsto_-_1035.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Business_(Tiësto_song)",
+                    "duration": "2:44",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Ti%C3%ABsto_%26_Ty_Dolla_Sign_-_The_Business_Part_II.jpg/220px-Ti%C3%ABsto_%26_Ty_Dolla_Sign_-_The_Business_Part_II.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Don't_Be_Shy_(Tiësto_and_Karol_G_song)",
+                    "duration": "2:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Ti%C3%ABsto_-_Don%27t_Be_Shy.jpg/220px-Ti%C3%ABsto_-_Don%27t_Be_Shy.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Back Around (with AR/CO)",
+                    "duration": "2:55",
+                    "image": {}
+                },
+                {
+                    "name": "Lay Low (vocals by Halvor Folstad)",
+                    "duration": "2:33",
+                    "image": {}
+                },
+                {
+                    "name": "31:54",
+                    "image": {}
+                },
+                {
+                    "name": "Learn 2 Love (vocals by Hayley May)",
+                    "duration": "2:13",
+                    "image": {}
+                },
+                {
+                    "name": "Freya_Ridings",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Freya_Ridings%2C_Pryzm%2C_Kingston.jpg/220px-Freya_Ridings%2C_Pryzm%2C_Kingston.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Best of System F \u0026 Gouryella (Part 1)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Best of System F \u0026 Gouryella (Part 2)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Kamaya Painters: The Collected Works",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Magikal Journey",
+            "url": "https://en.wikipedia.org/wiki/Magikal_Journey",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Tiesto_-_Magikal_Journey.jpg/220px-Tiesto_-_Magikal_Journey.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "17 May 2010"
+            },
+            "tracks": [
+                {
+                    "name": "Flight_643",
+                    "duration": "2:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "3:25",
+                    "image": {}
+                },
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Tiësto 2010 Remix)",
+                    "duration": "7:09",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "3:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Forever Today",
+                    "duration": "11:57",
+                    "image": {}
+                },
+                {
+                    "name": "Dr. Spencer Reid",
+                    "duration": "4:34",
+                    "image": {}
+                },
+                {
+                    "name": "Richard_Durand",
+                    "duration": "6:53",
+                    "image": {}
+                },
+                {
+                    "name": "Love Comes Again (featuring BT) (Myon \u0026 Shane 54 Monster Mix)",
+                    "duration": "6:32",
+                    "image": {}
+                },
+                {
+                    "name": "Goldrush",
+                    "duration": "9:22",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "2:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Hardwell",
+                    "duration": "5:45",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hardwell_2018_%28cropped%29.jpg/220px-Hardwell_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "duration": "3:24",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "2:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "duration": "3:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jes (musician)",
+                    "duration": "6:01",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bart_Claessen",
+                    "duration": "7:25",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "duration": "6:06",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "3:30",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "643_(Love's_on_Fire)",
+                    "duration": "2:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/643LovesonFire.jpg/220px-643LovesonFire.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Magikal Circus",
+                    "duration": "12:01",
+                    "image": {}
+                },
+                {
+                    "name": "Laidback_Luke",
+                    "duration": "6:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Laidback_Luke_2012.jpg/220px-Laidback_Luke_2012.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "duration": "3:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life (Radio Edit Live from Copenhagen)",
+                    "duration": "3:34",
+                    "image": {}
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "duration": "9:07",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Just Be (featuring Kirsty Hawkshaw) (Tiësto Remix)",
+                    "duration": "9:13",
+                    "image": {}
+                },
+                {
+                    "name": "In My Memory (featuring Nicola Hitchcock) (Tiësto Remix)",
+                    "duration": "9:13",
+                    "image": {}
+                },
+                {
+                    "name": "Airbase_(DJ)",
+                    "duration": "6:19",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jezper_aka_Airbase.jpg/160px-Jezper_aka_Airbase.jpg",
+                        "width": 160,
+                        "height": 160
+                    }
+                },
+                {
+                    "name": "Sean_Tyas",
+                    "duration": "6:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sean_Tyas_%283495991089%29.jpg/280px-Sean_Tyas_%283495991089%29.jpg",
+                        "width": 280,
+                        "height": 280
+                    }
+                },
+                {
+                    "name": "Sander_van_Doorn",
+                    "duration": "7:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sander_van_Doorn_%2811%29.JPG/220px-Sander_van_Doorn_%2811%29.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Shiny Toy Guns Club Mix)",
+                    "duration": "7:47",
+                    "image": {}
+                },
+                {
+                    "name": "Elements of Life (Radio Edit Live from Copenhagen)",
+                    "image": {}
+                },
+                {
+                    "name": "Jes (musician)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/JES_wiki1.jpg/220px-JES_wiki1.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Flight_643",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Tiestoflight643.jpg/220px-Tiestoflight643.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "image": {}
+                },
+                {
+                    "name": "Title",
+                    "duration": "Length",
+                    "image": {}
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carpe Noctum (Spencer \u0026 Hill Dub)",
+                    "image": {}
+                },
+                {
+                    "name": "In_My_Memory_(song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TiestoInMyMemorySong.jpg/220px-TiestoInMyMemorySong.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Love_Comes_Again",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Love_Comes_Again_Tiesto.jpg/220px-Love_Comes_Again_Tiesto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Obsession_(Tiësto_song)",
+                    "image": {}
+                },
+                {
+                    "name": "Magikal Circus (edit)",
+                    "image": {}
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise",
+                    "image": {}
+                },
+                {
+                    "name": "In the Dark (featuring Christian Burns) (Tiësto 2010 Remix)",
+                    "image": {}
+                },
+                {
+                    "name": "Suburban_Train/Urban_Train",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Just_Be_(Tiësto_song)",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Just_Be.jpg/220px-Just_Be.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Goldrush (edit)",
+                    "image": {}
+                },
+                {
+                    "name": "Escape_Me",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Louder Than Boom",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Parade of the Athletes",
+            "url": "https://en.wikipedia.org/wiki/Parade_of_the_Athletes",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Paradeoftheathletes.jpg/220px-Paradeoftheathletes.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "7 September 2004"
+            },
+            "tracks": [
+                {
+                    "name": "Heroes",
+                    "duration": "8:36",
+                    "image": {}
+                },
+                {
+                    "name": "Ancient History",
+                    "duration": "6:06",
+                    "image": {}
+                },
+                {
+                    "name": "Athena",
+                    "duration": "6:17",
+                    "image": {}
+                },
+                {
+                    "name": "Coming Home",
+                    "duration": "6:28",
+                    "image": {}
+                },
+                {
+                    "name": "Victorious",
+                    "duration": "4:38",
+                    "image": {}
+                },
+                {
+                    "name": "Forever Today",
+                    "duration": "7:06",
+                    "image": {}
+                },
+                {
+                    "name": "Breda 8pm (DJ Montana Edit)",
+                    "duration": "6:43",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic_(Tiësto_song)",
+                    "duration": "4:13",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Ti%C3%ABsto_-_Traffic_edit.jpg/220px-Ti%C3%ABsto_-_Traffic_edit.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Euphoria",
+                    "duration": "6:05",
+                    "image": {}
+                },
+                {
+                    "name": "Olympic Flame",
+                    "duration": "5:34",
+                    "image": {}
+                },
+                {
+                    "name": "Lethal_Industry",
+                    "duration": "4:36",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/c/c0/Lethal_industry_richard_durand.jpg",
+                        "width": 200,
+                        "height": 200
+                    }
+                },
+                {
+                    "name": "Adagio_for_Strings_(Tiësto)",
+                    "duration": "5:57",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Perfect Remixes Vol. 3",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Kaleidoscope: Remixed",
+            "url": "https://en.wikipedia.org/wiki/Kaleidoscope:_Remixed",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Tiesto_-_Kaleidoscope_Remixed.jpg/220px-Tiesto_-_Kaleidoscope_Remixed.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "31 August 2010"
+            },
+            "tracks": [
+                {
+                    "name": "I_Will_Be_Here",
+                    "duration": "7:12",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Iwillbeherecover.jpg/220px-Iwillbeherecover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Abd al-Hafid of Morocco",
+                    "duration": "8:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8.jpg/220px-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Escape_Me",
+                    "duration": "7:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Escapeme.jpg/220px-Escapeme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "8:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Priscilla_Ahn",
+                    "duration": "7:27",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Priscilla_Ahn.jpg/220px-Priscilla_Ahn.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Wolfgang_Gartner",
+                    "duration": "8:14",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WG_Press_Shot_2021.jpg/300px-WG_Press_Shot_2021.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Ferry_Corsten",
+                    "duration": "8:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "7:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Who_Wants_to_Be_Alone",
+                    "duration": "9:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Who_Wants_to_Be_Alone.png/220px-Who_Wants_to_Be_Alone.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Louder Than Boom (Bart B More Remix)",
+                    "duration": "7:08",
+                    "image": {}
+                },
+                {
+                    "name": "List of DC Comics characters: M",
+                    "duration": "7:55",
+                    "image": {}
+                },
+                {
+                    "name": "Feel_It_in_My_Bones",
+                    "duration": "8:40",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Tiesto_-feel-it-in-my-bones.jpg/220px-Tiesto_-feel-it-in-my-bones.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Kele_Okereke",
+                    "duration": "7:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg/220px-Kele_Okereke%2C_Sydney_2018_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nic_Chagall",
+                    "duration": "9:33",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cosmic_Gate.jpg/220px-Cosmic_Gate.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "It's Not the Things You Say (Tiësto Remix) (featuring Kele Okereke)",
+                    "duration": "10:12",
+                    "image": {}
+                },
+                {
+                    "name": "It's Not the Things You Say (Filthy Dukes Remix) (featuring Kele Okereke)",
+                    "duration": "7:59",
+                    "image": {}
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "7:11",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Calvin_Harris",
+                    "duration": "8:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png/150px-Calvin_Harris_signature%2C_Billboard_Open_Letter_2016.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Cary_Brothers",
+                    "duration": "8:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Carybrothers2007.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Kiss from the Past: The Remix Album(as Allure)",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Just Be: Remixed",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Gold Remixes",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Elements of Life: Remixed",
+            "url": "https://en.wikipedia.org/wiki/Elements_of_Life:_Remixed",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Elements_of_Life_Remixed_Tiesto2.jpg/220px-Elements_of_Life_Remixed_Tiesto2.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "Disc: 28 April 2008 Bonus Disc: 17 April 2008"
+            },
+            "tracks": [
+                {
+                    "name": "Blue_Man_Group",
+                    "duration": "6:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blue_Man4_%28SP%29_2009_Brazil.JPG/220px-Blue_Man4_%28SP%29_2009_Brazil.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Carpe Noctum (Fire Element Mix)",
+                    "duration": "5:48",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Things (Tom Cloud Remix)",
+                    "duration": "6:26",
+                    "image": {}
+                },
+                {
+                    "name": "Bright Morningstar (Andy Duguid Remix)",
+                    "duration": "7:36",
+                    "image": {}
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "6:18",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Break_My_Fall",
+                    "duration": "5:23",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg/220px-DJ_Tiesto_feat._BT_-_Break_My_Fall_%28CD5%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "In_the_Dark_(Tiësto_song)",
+                    "duration": "5:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/TiestoIntheDarkSingle.JPG/220px-TiestoIntheDarkSingle.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Elements of Life (Alex Kunnari Remix) ",
+                    "duration": "6:36",
+                    "image": {}
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise (First State Remix)",
+                    "duration": "7:44",
+                    "image": {}
+                },
+                {
+                    "name": "Cosmic_Gate",
+                    "duration": "7:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cosmic_Gate_performing_at_the_Rupublik_in_Honolulu%2C_Hawaii.jpg/300px-Cosmic_Gate_performing_at_the_Rupublik_in_Honolulu%2C_Hawaii.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Do You Feel Me (Roger Martinez Remix)",
+                    "duration": "5:08",
+                    "image": {}
+                },
+                {
+                    "name": "Mat_Zo",
+                    "duration": "7:10",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mat_Zo_Performing_in_2013.jpg/300px-Mat_Zo_Performing_in_2013.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Jezper_Söderlund",
+                    "duration": "8:13",
+                    "image": {}
+                },
+                {
+                    "name": "In the Dark (Shiny Toy Guns Club Mix)",
+                    "duration": "7:50",
+                    "image": {}
+                },
+                {
+                    "name": "Everything (Andrew Bennett Remix)",
+                    "duration": "9:38",
+                    "image": {}
+                },
+                {
+                    "name": "Carpe Noctum (Spencer \u0026 Hill Remix)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "Ten Seconds Before Sunrise (First State's A Global Taste Remix)",
+                    "duration": "9:32",
+                    "image": {}
+                },
+                {
+                    "name": "Carpe Noctum (DJ Preach Remix)",
+                    "duration": "7:50",
+                    "image": {}
+                },
+                {
+                    "name": "Dance4life_(song)",
+                    "duration": "7:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Dance4life.jpg/220px-Dance4life.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Tiësto in Concert 2",
+            "url": "https://en.wikipedia.org/wiki/Ti%C3%ABsto_in_Concert_2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Ti%C3%ABsto_in_Concert_2_poster.jpg/220px-Ti%C3%ABsto_in_Concert_2_poster.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "November 26, 2004 2005"
+            }
+        },
+        {
+            "name": "Copenhagen: Elements of Life World Tour",
+            "url": "https://en.wikipedia.org/wiki/Copenhagen:_Elements_of_Life_World_Tour",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Elements_of_Life_World_Tour_DVD_Cover.jpg/220px-Elements_of_Life_World_Tour_DVD_Cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 7, 2008"
+            }
+        },
+        {
+            "name": "\"—\" denotes an album that did not chart or was not released.",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "Live at Innercity: Amsterdam RAI",
+            "url": "https://en.wikipedia.org/wiki/Live_at_Innercity:_Amsterdam_RAI",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Live_at_Innercity_Amsterdam_RAI.jpg/220px-Live_at_Innercity_Amsterdam_RAI.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "March 15, 1999 (Netherlands)"
+            },
+            "tracks": [
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                },
+                {
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Another Day at the Office",
+            "url": "https://en.wikipedia.org/wiki/Another_Day_at_the_Office",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Another_Day_at_the_Office_cover.jpg/220px-Another_Day_at_the_Office_cover.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "June 11, 2003"
+            }
+        },
+        {
+            "name": "Tiësto in Concert",
+            "url": "https://en.wikipedia.org/wiki/Ti%C3%ABsto_in_Concert",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Ti%C3%ABsto_in_Concert_poster.jpg/220px-Ti%C3%ABsto_in_Concert_poster.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "October 6, 2003"
+            }
+        }
+    ]
+}

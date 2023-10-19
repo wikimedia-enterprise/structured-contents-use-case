@@ -1,0 +1,2097 @@
+{
+    "name": "Calvin_Harris",
+    "has_occupation": [
+        {
+            "name": "disc jockey"
+        },
+        {
+            "name": "record producer"
+        },
+        {
+            "name": "singer"
+        },
+        {
+            "name": "songwriter"
+        },
+        {
+            "name": "singer-songwriter"
+        },
+        {
+            "name": "manufacturer"
+        },
+        {
+            "name": "public figure"
+        },
+        {
+            "name": "human"
+        }
+    ],
+    "genres": [
+        "electropop",
+        "electro house",
+        "synth-pop",
+        "dance-pop",
+        "nu-disco",
+        "progressive house"
+    ],
+    "albums": [
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "I Created Disco",
+            "url": "https://en.wikipedia.org/wiki/I_Created_Disco",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Calvin_Harris_-_I_Created_Disco.png/220px-Calvin_Harris_-_I_Created_Disco.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 June 2007"
+            },
+            "tracks": [
+                {
+                    "name": "This Is the Industry",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic Cops",
+                    "duration": "0:54",
+                    "image": {}
+                },
+                {
+                    "name": "Disco Heat",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Electro Man",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "Love Souvenir",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Merrymaking_at_My_Place",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Merrymakingatmyplace.jpg/220px-Merrymakingatmyplace.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Girls_(Calvin_Harris_song)",
+                    "duration": "5:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/The_girls_c_harris.jpg/220px-The_girls_c_harris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Acceptable_in_the_80s",
+                    "duration": "5:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/CalvinHarrisAcceptableInThe80s.jpg/220px-CalvinHarrisAcceptableInThe80s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Neon Rocks",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Vegas",
+                    "duration": "5:41",
+                    "image": {}
+                },
+                {
+                    "name": "I Created Disco",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Colours",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "Vault Character",
+                    "duration": "0:08",
+                    "image": {}
+                },
+                {
+                    "name": "Certified",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "We're All the Same",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:11",
+                    "image": {}
+                },
+                {
+                    "name": "Groove_Armada",
+                    "duration": "8:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Groove_Armada.jpg/300px-Groove_Armada.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Deadmau5",
+                    "duration": "5:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Deadmau5_d_%28cropped%29.jpg/220px-Deadmau5_d_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rock 'n Roll Attitude",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Love for You",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "The Girls (Groove Armada Remix)",
+                    "duration": "8:03",
+                    "image": {}
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:16",
+                    "image": {}
+                },
+                {
+                    "name": "Mr._Oizo",
+                    "duration": "3:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quentin_Dupieux.jpg/220px-Quentin_Dupieux.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:16",
+                    "image": {}
+                },
+                {
+                    "name": "The Girls (Groove Armada Remix)",
+                    "duration": "8:03",
+                    "image": {}
+                },
+                {
+                    "name": "The Girls (Acoustic Version)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Rock 'n Roll Attitude",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "We're All the Same",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Love for You",
+                    "duration": "3:52",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Ready for the Weekend",
+            "url": "https://en.wikipedia.org/wiki/Ready_for_the_Weekend_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Calvin_Harris_-_Ready_for_the_Weekend_%28album%29.png/220px-Calvin_Harris_-_Ready_for_the_Weekend_%28album%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "14 August 2009"
+            },
+            "tracks": [
+                {
+                    "name": "Stars Come Out",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Izza_Kizza",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Ready_for_the_Weekend_(song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Calvin_readyfortheweekend%28single%29.jpg/220px-Calvin_readyfortheweekend%28single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Burns Night",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "Relax",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Blue",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Flashback_(Calvin_Harris_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Calvin_Harris-Flashback-Single.jpg/220px-Calvin_Harris-Flashback-Single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Limits",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "You_Used_to_Hold_Me_(Calvin_Harris_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Youusedtoholdme.jpg/220px-Youusedtoholdme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I'm_Not_Alone",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Calvin_Harris_-_I%27m_Not_Alone_2019.png/220px-Calvin_Harris_-_I%27m_Not_Alone_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Yeah Yeah Yeah La La La",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_wiv_Me",
+                    "duration": "4:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dizzee_Rascal_Featuring_Calvin_Harris_%26_Chrome_-_Dance_Wiv_Me.jpg/220px-Dizzee_Rascal_Featuring_Calvin_Harris_%26_Chrome_-_Dance_Wiv_Me.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "5iliconeator",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "The Rain",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Deadmau5",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Deadmau5_d_%28cropped%29.jpg/220px-Deadmau5_d_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Theo_Keating",
+                    "duration": "5:40",
+                    "image": {}
+                },
+                {
+                    "name": "Greatest Fear",
+                    "duration": "6:20",
+                    "image": {}
+                },
+                {
+                    "name": "High_Contrast",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/High_Contrast_AKA_Lincoln_Barrett.JPG/220px-High_Contrast_AKA_Lincoln_Barrett.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ready for the Weekend (Fake Blood Remix)",
+                    "duration": "5:40",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "6:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Taku_Takahashi",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/M-flo-takutakahashi-live-tokyorainbowpride-2019-4-28.jpg/220px-M-flo-takutakahashi-live-tokyorainbowpride-2019-4-28.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "18 Months",
+            "url": "https://en.wikipedia.org/wiki/18_Months",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Calvin_Harris_-_18_Months.png/220px-Calvin_Harris_-_18_Months.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "26 October 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Feel_So_Close",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Calvin_Harris_-_Feel_So_Close.png/220px-Calvin_Harris_-_Feel_So_Close.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Iron_(Nicky_Romero_and_Calvin_Harris_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Nicky_Romero_and_Calvin_Harris_Iron.jpg/220px-Nicky_Romero_and_Calvin_Harris_Iron.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "School",
+                    "duration": "1:47",
+                    "image": {}
+                },
+                {
+                    "name": "Dillon_Francis",
+                    "duration": "2:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DillonFrancisPressPhoto2.jpg/220px-DillonFrancisPressPhoto2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Awooga",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "Thinking_About_You_(Calvin_Harris_song)",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Thinking_About_You_%28Calvin_Harris_song%29.jpg",
+                        "width": 204,
+                        "height": 204
+                    }
+                },
+                {
+                    "name": "Bounce_(Calvin_Harris_song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Bounce.jpg/220px-Bounce.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Sweet_Nothing_(Calvin_Harris_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Calvin_Harris_-_Sweet_Nothing.png/220px-Calvin_Harris_-_Sweet_Nothing.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Green Valley",
+                    "duration": "1:49",
+                    "image": {}
+                },
+                {
+                    "name": "We_Found_Love",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/We_Found_Love.png/220px-We_Found_Love.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Drinking_from_the_Bottle",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Calvin_Harris_Featuring_Tinie_Tempah_-_Drinking_From_The_Bottle.jpg/220px-Calvin_Harris_Featuring_Tinie_Tempah_-_Drinking_From_The_Bottle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Let's_Go_(Calvin_Harris_song)",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Let%27sGoCalvinHarris.jpg/220px-Let%27sGoCalvinHarris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "We'll_Be_Coming_Back",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/WellBeComingBack.jpg/220px-WellBeComingBack.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mansion",
+                    "duration": "2:07",
+                    "image": {}
+                },
+                {
+                    "name": "I_Need_Your_Love_(Calvin_Harris_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Calvin_Harris_-_I_Need_Your_Love_ft_Ellie_Goulding.png/220px-Calvin_Harris_-_I_Need_Your_Love_ft_Ellie_Goulding.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Michael Woods (DJ)",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michael_Woods_2015.jpg/300px-Michael_Woods_2015.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Sweet Nothing (Extended Mix) (featuring Florence Welch)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "Drinking from the Bottle (featuring Tinie Tempah)",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "Awooga (Extended Mix)",
+                    "duration": "7:14",
+                    "image": {}
+                },
+                {
+                    "name": "Thinking About You (featuring Ayah Marar)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (featuring Kelis)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "R3hab",
+                    "duration": "5:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/R3habpressphoto.jpg/220px-R3habpressphoto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "We'll Be Coming Back (Original Extended Mix) (featuring Example)",
+                    "duration": "6:33",
+                    "image": {}
+                },
+                {
+                    "name": "Iron (with Nicky Romero)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "I Need Your Love (featuring Ellie Goulding)",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "We Found Love (Extended Mix) (featuring Rihanna)",
+                    "duration": "5:45",
+                    "image": {}
+                },
+                {
+                    "name": "Feel So Close",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go (Extended Mix) (featuring Ne-Yo)",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Nothing (Extended Mix) (featuring Florence Welch)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "18 Months (Continuous Mix)",
+                    "duration": "52:54",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go (Director's Cut) (music video) (featuring Ne-Yo)",
+                    "duration": "7:26",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Nothing (Director's Cut) (music video) (featuring Florence Welch)",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go (Extended Mix) (featuring Ne-Yo)",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "We Found Love (Extended Mix) (featuring Rihanna)",
+                    "duration": "5:45",
+                    "image": {}
+                },
+                {
+                    "name": "Feel So Close (Director's Cut) (music video)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (Director's Cut) (music video) (featuring Kelis)",
+                    "duration": "4:29",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Director's Cut) (music video) (featuring Example)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (R3hab Remix) (featuring Kelis)",
+                    "duration": "5:24",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Original Extended Mix) (featuring Example)",
+                    "duration": "6:33",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Michael Woods Remix) (featuring Example)",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "Awooga (Extended Mix)",
+                    "duration": "7:14",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (R3hab Remix) (featuring Kelis)",
+                    "duration": "5:24",
+                    "image": {}
+                },
+                {
+                    "name": "Benny_Benassi",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bennyvegas.jpg/300px-Bennyvegas.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "We'll Be Coming Back (Michael Woods Remix) (featuring Example)",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "5:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Motion",
+            "url": "https://en.wikipedia.org/wiki/Motion_(Calvin_Harris_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Calvin_Harris_-_Motion.png/220px-Calvin_Harris_-_Motion.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "31 October 2014"
+            },
+            "tracks": [
+                {
+                    "name": "Outside_(Calvin_Harris_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Calvin_Harris_-_Outside.png/220px-Calvin_Harris_-_Outside.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ummet_Ozcan",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ummet_Ozcan.jpg/220px-Ummet_Ozcan.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gwen_Stefani",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gwen_Stefani%27s_signature.svg/150px-Gwen_Stefani%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Under_Control_(Calvin_Harris_and_Alesso_song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Calvin_Harris_and_Alesso_feat_Hurts_-_Under_Control.png/220px-Calvin_Harris_and_Alesso_feat_Hurts_-_Under_Control.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Slow_Acid",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Calvin_Harris_Slow_Acid.jpg/220px-Calvin_Harris_Slow_Acid.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "R3hab",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/R3habpressphoto.jpg/220px-R3habpressphoto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Blame_(Calvin_Harris_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Calvin_Harris_-_Blame.png/220px-Calvin_Harris_-_Blame.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Summer_(Calvin_Harris_song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Calvin_Harris_-_Summer.png/220px-Calvin_Harris_-_Summer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Open_Wide_(song)",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Calvin_Harris_Big_Sean_Open_Wide.jpg/220px-Calvin_Harris_Big_Sean_Open_Wide.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Faith",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Ecstasy (featuring Hurts)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Pray_to_God_(song)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Calvin_Harris_-_Pray_to_God_%28feat._Haim%29.png/220px-Calvin_Harris_-_Pray_to_God_%28feat._Haim%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Tinashe",
+                    "duration": "3:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "All_About_She",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Firebeatz",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "Under Control (Sunnery James and Ryan Marciano Mix) (with Alesso featuring Hurts)",
+                    "duration": "6:03",
+                    "image": {}
+                },
+                {
+                    "name": "Summer (R3hab \u0026 Ummet Ozcan Remix)",
+                    "duration": "4:43",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Funk Wav Bounces Vol. 1",
+            "url": "https://en.wikipedia.org/wiki/Funk_Wav_Bounces_Vol._1",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Funk_Wav_Bounces_1.jpg/220px-Funk_Wav_Bounces_1.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "30 June 2017"
+            },
+            "tracks": [
+                {
+                    "name": "Slide_(Calvin_Harris_song)",
+                    "duration": "3:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Calvin_Harris_%22Slide%22_single_cover.jpg/220px-Calvin_Harris_%22Slide%22_single_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Heatstroke_(song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Heatstroke.png/220px-Heatstroke.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rollin_(Calvin_Harris_song)",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Rollin_Calvin_Harris.jpg/220px-Rollin_Calvin_Harris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Travis_Scott",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Nicki_Minaj",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg/220px-Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jessie_Reyez",
+                    "duration": "3:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jessie_Reyez_-_Collision_2019_Toronto_%2847105669284%29_%28cropped%29.jpg/220px-Jessie_Reyez_-_Collision_2019_Toronto_%2847105669284%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Schoolboy_Q",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ScHoolboy_Q_at_the_SPIN_party_at_Stubb%27s_SXSW_2014--6_%2815659829087%29.jpg/220px-ScHoolboy_Q_at_the_SPIN_party_at_Stubb%27s_SXSW_2014--6_%2815659829087%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feels_(song)",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Calvin_Harris_-_Feels_cover_art.png/220px-Calvin_Harris_-_Feels_cover_art.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Faking_It_(song)",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Calvin_Harris_-_Faking_It.png/220px-Calvin_Harris_-_Faking_It.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "37:40",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Funk Wav Bounces Vol. 2",
+            "url": "https://en.wikipedia.org/wiki/Funk_Wav_Bounces_Vol._2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Calvin_Harris_-_Funk_Wav_Bounces_Vol._2.png/220px-Calvin_Harris_-_Funk_Wav_Bounces_Vol._2.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "5 August 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Potion_(song)",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Calvin_Harris_-_Potion_cover_art.png/220px-Calvin_Harris_-_Potion_cover_art.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "2:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pusha_T",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pusha_T%27s_signature.svg/150px-Pusha_T%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Stefflon_Don",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Glasto2023_%282_of_468%29_%2853009095919%29_%28cropped%29.jpg/220px-Glasto2023_%282_of_468%29_%2853009095919%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:51",
+                    "image": {}
+                },
+                {
+                    "name": "Intro",
+                    "duration": "0:39",
+                    "image": {}
+                },
+                {
+                    "name": "21_Savage",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/21_Savage_2018.jpg/220px-21_Savage_2018.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Charlie_Puth",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Charlie_Puth_autograph.svg/150px-Charlie_Puth_autograph.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Busta_Rhymes",
+                    "duration": "2:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg/220px-Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay with Me (Part 2) (with Justin Timberlake, Halsey, and Pharrell Williams)",
+                    "duration": "1:23",
+                    "image": {}
+                },
+                {
+                    "name": "Swae_Lee",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Swae_Lee_in_Feb_2019.png/220px-Swae_Lee_in_Feb_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "New_to_You",
+                    "duration": "5:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Calvin_Harris_-_New_to_You.png/220px-Calvin_Harris_-_New_to_You.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay_with_Me_(Calvin_Harris,_Justin_Timberlake,_Halsey_and_Pharrell_Williams_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Calvin_Harris_-_Stay_with_Me.png/220px-Calvin_Harris_-_Stay_with_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jorja_Smith",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jorja_Smith_11_26_2018_-5_%2845772599074%29.jpg/220px-Jorja_Smith_11_26_2018_-5_%2845772599074%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "6lack",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "18 Months",
+            "url": "https://en.wikipedia.org/wiki/18_Months",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Calvin_Harris_-_18_Months.png/220px-Calvin_Harris_-_18_Months.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "26 October 2012"
+            },
+            "tracks": [
+                {
+                    "name": "Thinking_About_You_(Calvin_Harris_song)",
+                    "duration": "4:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Thinking_About_You_%28Calvin_Harris_song%29.jpg",
+                        "width": 204,
+                        "height": 204
+                    }
+                },
+                {
+                    "name": "Green Valley",
+                    "duration": "1:49",
+                    "image": {}
+                },
+                {
+                    "name": "Feel_So_Close",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Calvin_Harris_-_Feel_So_Close.png/220px-Calvin_Harris_-_Feel_So_Close.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Iron_(Nicky_Romero_and_Calvin_Harris_song)",
+                    "duration": "3:39",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Nicky_Romero_and_Calvin_Harris_Iron.jpg/220px-Nicky_Romero_and_Calvin_Harris_Iron.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Drinking_from_the_Bottle",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Calvin_Harris_Featuring_Tinie_Tempah_-_Drinking_From_The_Bottle.jpg/220px-Calvin_Harris_Featuring_Tinie_Tempah_-_Drinking_From_The_Bottle.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Dillon_Francis",
+                    "duration": "2:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DillonFrancisPressPhoto2.jpg/220px-DillonFrancisPressPhoto2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Bounce_(Calvin_Harris_song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Bounce.jpg/220px-Bounce.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "We'll_Be_Coming_Back",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/WellBeComingBack.jpg/220px-WellBeComingBack.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Mansion",
+                    "duration": "2:07",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet_Nothing_(Calvin_Harris_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Calvin_Harris_-_Sweet_Nothing.png/220px-Calvin_Harris_-_Sweet_Nothing.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Awooga",
+                    "duration": "3:51",
+                    "image": {}
+                },
+                {
+                    "name": "We_Found_Love",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/We_Found_Love.png/220px-We_Found_Love.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I_Need_Your_Love_(Calvin_Harris_song)",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Calvin_Harris_-_I_Need_Your_Love_ft_Ellie_Goulding.png/220px-Calvin_Harris_-_I_Need_Your_Love_ft_Ellie_Goulding.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "School",
+                    "duration": "1:47",
+                    "image": {}
+                },
+                {
+                    "name": "Let's_Go_(Calvin_Harris_song)",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Let%27sGoCalvinHarris.jpg/220px-Let%27sGoCalvinHarris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Let's Go (Extended Mix) (featuring Ne-Yo)",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "Iron (with Nicky Romero)",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Drinking from the Bottle (featuring Tinie Tempah)",
+                    "duration": "4:00",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Original Extended Mix) (featuring Example)",
+                    "duration": "6:33",
+                    "image": {}
+                },
+                {
+                    "name": "Awooga (Extended Mix)",
+                    "duration": "7:14",
+                    "image": {}
+                },
+                {
+                    "name": "We Found Love (Extended Mix) (featuring Rihanna)",
+                    "duration": "5:45",
+                    "image": {}
+                },
+                {
+                    "name": "Michael Woods (DJ)",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michael_Woods_2015.jpg/300px-Michael_Woods_2015.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Thinking About You (featuring Ayah Marar)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "R3hab",
+                    "duration": "5:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/R3habpressphoto.jpg/220px-R3habpressphoto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feel So Close",
+                    "duration": "3:26",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Nothing (Extended Mix) (featuring Florence Welch)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (featuring Kelis)",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "I Need Your Love (featuring Ellie Goulding)",
+                    "duration": "3:54",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Michael Woods Remix) (featuring Example)",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "Feel So Close (Director's Cut) (music video)",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go (Director's Cut) (music video) (featuring Ne-Yo)",
+                    "duration": "7:26",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Nothing (Director's Cut) (music video) (featuring Florence Welch)",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (Director's Cut) (music video) (featuring Kelis)",
+                    "duration": "4:29",
+                    "image": {}
+                },
+                {
+                    "name": "Bounce (R3hab Remix) (featuring Kelis)",
+                    "duration": "5:24",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Original Extended Mix) (featuring Example)",
+                    "duration": "6:33",
+                    "image": {}
+                },
+                {
+                    "name": "Let's Go (Extended Mix) (featuring Ne-Yo)",
+                    "duration": "6:00",
+                    "image": {}
+                },
+                {
+                    "name": "Awooga (Extended Mix)",
+                    "duration": "7:14",
+                    "image": {}
+                },
+                {
+                    "name": "18 Months (Continuous Mix)",
+                    "duration": "52:54",
+                    "image": {}
+                },
+                {
+                    "name": "We Found Love (Extended Mix) (featuring Rihanna)",
+                    "duration": "5:45",
+                    "image": {}
+                },
+                {
+                    "name": "Sweet Nothing (Extended Mix) (featuring Florence Welch)",
+                    "duration": "5:52",
+                    "image": {}
+                },
+                {
+                    "name": "We'll Be Coming Back (Director's Cut) (music video) (featuring Example)",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Benny_Benassi",
+                    "duration": "5:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bennyvegas.jpg/300px-Bennyvegas.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "We'll Be Coming Back (Michael Woods Remix) (featuring Example)",
+                    "duration": "5:20",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "5:08",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Bounce (R3hab Remix) (featuring Kelis)",
+                    "duration": "5:24",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Motion",
+            "url": "https://en.wikipedia.org/wiki/Motion_(Calvin_Harris_album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Calvin_Harris_-_Motion.png/220px-Calvin_Harris_-_Motion.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "31 October 2014"
+            },
+            "tracks": [
+                {
+                    "name": "All_About_She",
+                    "duration": "3:38",
+                    "image": {}
+                },
+                {
+                    "name": "Faith",
+                    "duration": "3:39",
+                    "image": {}
+                },
+                {
+                    "name": "Firebeatz",
+                    "duration": "3:44",
+                    "image": {}
+                },
+                {
+                    "name": "R3hab",
+                    "duration": "3:54",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/R3habpressphoto.jpg/220px-R3habpressphoto.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Under_Control_(Calvin_Harris_and_Alesso_song)",
+                    "duration": "3:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Calvin_Harris_and_Alesso_feat_Hurts_-_Under_Control.png/220px-Calvin_Harris_and_Alesso_feat_Hurts_-_Under_Control.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Summer_(Calvin_Harris_song)",
+                    "duration": "3:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Calvin_Harris_-_Summer.png/220px-Calvin_Harris_-_Summer.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Gwen_Stefani",
+                    "duration": "3:38",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gwen_Stefani%27s_signature.svg/150px-Gwen_Stefani%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Tinashe",
+                    "duration": "3:56",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Blame_(Calvin_Harris_song)",
+                    "duration": "3:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Calvin_Harris_-_Blame.png/220px-Calvin_Harris_-_Blame.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Slow_Acid",
+                    "duration": "3:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Calvin_Harris_Slow_Acid.jpg/220px-Calvin_Harris_Slow_Acid.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Outside_(Calvin_Harris_song)",
+                    "duration": "3:47",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Calvin_Harris_-_Outside.png/220px-Calvin_Harris_-_Outside.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ummet_Ozcan",
+                    "duration": "4:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ummet_Ozcan.jpg/220px-Ummet_Ozcan.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ecstasy (featuring Hurts)",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Pray_to_God_(song)",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Calvin_Harris_-_Pray_to_God_%28feat._Haim%29.png/220px-Calvin_Harris_-_Pray_to_God_%28feat._Haim%29.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Open_Wide_(song)",
+                    "duration": "3:07",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Calvin_Harris_Big_Sean_Open_Wide.jpg/220px-Calvin_Harris_Big_Sean_Open_Wide.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Under Control (Sunnery James and Ryan Marciano Mix) (with Alesso featuring Hurts)",
+                    "duration": "6:03",
+                    "image": {}
+                },
+                {
+                    "name": "Summer (R3hab \u0026 Ummet Ozcan Remix)",
+                    "duration": "4:43",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Funk Wav Bounces Vol. 1",
+            "url": "https://en.wikipedia.org/wiki/Funk_Wav_Bounces_Vol._1",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Funk_Wav_Bounces_1.jpg/220px-Funk_Wav_Bounces_1.jpg",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "30 June 2017"
+            },
+            "tracks": [
+                {
+                    "name": "Schoolboy_Q",
+                    "duration": "3:55",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ScHoolboy_Q_at_the_SPIN_party_at_Stubb%27s_SXSW_2014--6_%2815659829087%29.jpg/220px-ScHoolboy_Q_at_the_SPIN_party_at_Stubb%27s_SXSW_2014--6_%2815659829087%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "2:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Feels_(song)",
+                    "duration": "3:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Calvin_Harris_-_Feels_cover_art.png/220px-Calvin_Harris_-_Feels_cover_art.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "37:40",
+                    "image": {}
+                },
+                {
+                    "name": "Slide_(Calvin_Harris_song)",
+                    "duration": "3:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Calvin_Harris_%22Slide%22_single_cover.jpg/220px-Calvin_Harris_%22Slide%22_single_cover.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Rollin_(Calvin_Harris_song)",
+                    "duration": "4:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Rollin_Calvin_Harris.jpg/220px-Rollin_Calvin_Harris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Travis_Scott",
+                    "duration": "3:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+                        "width": 10,
+                        "height": 10
+                    }
+                },
+                {
+                    "name": "Nicki_Minaj",
+                    "duration": "3:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg/220px-Nicki_Minaj_VMAs_2018_%282%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Faking_It_(song)",
+                    "duration": "4:00",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Calvin_Harris_-_Faking_It.png/220px-Calvin_Harris_-_Faking_It.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Jessie_Reyez",
+                    "duration": "3:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jessie_Reyez_-_Collision_2019_Toronto_%2847105669284%29_%28cropped%29.jpg/220px-Jessie_Reyez_-_Collision_2019_Toronto_%2847105669284%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Heatstroke_(song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Heatstroke.png/220px-Heatstroke.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Funk Wav Bounces Vol. 2",
+            "url": "https://en.wikipedia.org/wiki/Funk_Wav_Bounces_Vol._2",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Calvin_Harris_-_Funk_Wav_Bounces_Vol._2.png/220px-Calvin_Harris_-_Funk_Wav_Bounces_Vol._2.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "5 August 2022"
+            },
+            "tracks": [
+                {
+                    "name": "Swae_Lee",
+                    "duration": "3:52",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Swae_Lee_in_Feb_2019.png/220px-Swae_Lee_in_Feb_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "43:51",
+                    "image": {}
+                },
+                {
+                    "name": "Potion_(song)",
+                    "duration": "3:35",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Calvin_Harris_-_Potion_cover_art.png/220px-Calvin_Harris_-_Potion_cover_art.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stefflon_Don",
+                    "duration": "3:26",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Glasto2023_%282_of_468%29_%2853009095919%29_%28cropped%29.jpg/220px-Glasto2023_%282_of_468%29_%2853009095919%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Charlie_Puth",
+                    "duration": "3:46",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Charlie_Puth_autograph.svg/150px-Charlie_Puth_autograph.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                },
+                {
+                    "name": "Stay_with_Me_(Calvin_Harris,_Justin_Timberlake,_Halsey_and_Pharrell_Williams_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Calvin_Harris_-_Stay_with_Me.png/220px-Calvin_Harris_-_Stay_with_Me.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Intro",
+                    "duration": "0:39",
+                    "image": {}
+                },
+                {
+                    "name": "21_Savage",
+                    "duration": "2:48",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/21_Savage_2018.jpg/220px-21_Savage_2018.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "New_to_You",
+                    "duration": "5:02",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Calvin_Harris_-_New_to_You.png/220px-Calvin_Harris_-_New_to_You.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "6lack",
+                    "duration": "3:53",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/6lack_2018.png/220px-6lack_2018.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Snoop_Dogg",
+                    "duration": "2:43",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Snoop_Dogg_in_2022_-_2.jpg/220px-Snoop_Dogg_in_2022_-_2.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Busta_Rhymes",
+                    "duration": "2:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg/220px-Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stay with Me (Part 2) (with Justin Timberlake, Halsey, and Pharrell Williams)",
+                    "duration": "1:23",
+                    "image": {}
+                },
+                {
+                    "name": "Jorja_Smith",
+                    "duration": "2:58",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jorja_Smith_11_26_2018_-5_%2845772599074%29.jpg/220px-Jorja_Smith_11_26_2018_-5_%2845772599074%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Pusha_T",
+                    "duration": "3:20",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pusha_T%27s_signature.svg/150px-Pusha_T%27s_signature.svg.png",
+                        "width": 150,
+                        "height": 150
+                    }
+                }
+            ]
+        },
+        {
+            "name": "\"—\" denotes a recording that did not chart or was not released in that territory",
+            "image": {},
+            "album_release": {}
+        },
+        {
+            "name": "I Created Disco",
+            "url": "https://en.wikipedia.org/wiki/I_Created_Disco",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Calvin_Harris_-_I_Created_Disco.png/220px-Calvin_Harris_-_I_Created_Disco.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "15 June 2007"
+            },
+            "tracks": [
+                {
+                    "name": "Acceptable_in_the_80s",
+                    "duration": "5:32",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/CalvinHarrisAcceptableInThe80s.jpg/220px-CalvinHarrisAcceptableInThe80s.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Vault Character",
+                    "duration": "0:08",
+                    "image": {}
+                },
+                {
+                    "name": "Colours",
+                    "duration": "4:01",
+                    "image": {}
+                },
+                {
+                    "name": "I Created Disco",
+                    "duration": "4:07",
+                    "image": {}
+                },
+                {
+                    "name": "Disco Heat",
+                    "duration": "4:30",
+                    "image": {}
+                },
+                {
+                    "name": "Merrymaking_at_My_Place",
+                    "duration": "4:09",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Merrymakingatmyplace.jpg/220px-Merrymakingatmyplace.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The_Girls_(Calvin_Harris_song)",
+                    "duration": "5:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/The_girls_c_harris.jpg/220px-The_girls_c_harris.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Certified",
+                    "duration": "4:06",
+                    "image": {}
+                },
+                {
+                    "name": "Love Souvenir",
+                    "duration": "4:18",
+                    "image": {}
+                },
+                {
+                    "name": "Electro Man",
+                    "duration": "4:58",
+                    "image": {}
+                },
+                {
+                    "name": "This Is the Industry",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Neon Rocks",
+                    "duration": "3:48",
+                    "image": {}
+                },
+                {
+                    "name": "Traffic Cops",
+                    "duration": "0:54",
+                    "image": {}
+                },
+                {
+                    "name": "Vegas",
+                    "duration": "5:41",
+                    "image": {}
+                },
+                {
+                    "name": "We're All the Same",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:11",
+                    "image": {}
+                },
+                {
+                    "name": "Groove_Armada",
+                    "duration": "8:04",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Groove_Armada.jpg/300px-Groove_Armada.jpg",
+                        "width": 300,
+                        "height": 300
+                    }
+                },
+                {
+                    "name": "Deadmau5",
+                    "duration": "5:28",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Deadmau5_d_%28cropped%29.jpg/220px-Deadmau5_d_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "The Girls (Groove Armada Remix)",
+                    "duration": "8:03",
+                    "image": {}
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:16",
+                    "image": {}
+                },
+                {
+                    "name": "Rock 'n Roll Attitude",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "Love for You",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "The Girls (Acoustic Version)",
+                    "duration": "3:30",
+                    "image": {}
+                },
+                {
+                    "name": "Rock 'n Roll Attitude",
+                    "duration": "3:19",
+                    "image": {}
+                },
+                {
+                    "name": "We're All the Same",
+                    "duration": "3:56",
+                    "image": {}
+                },
+                {
+                    "name": "Love for You",
+                    "duration": "3:52",
+                    "image": {}
+                },
+                {
+                    "name": "Mr._Oizo",
+                    "duration": "3:29",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quentin_Dupieux.jpg/220px-Quentin_Dupieux.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Acceptable in the 80s (Tom Neville Remix)",
+                    "duration": "7:16",
+                    "image": {}
+                },
+                {
+                    "name": "The Girls (Groove Armada Remix)",
+                    "duration": "8:03",
+                    "image": {}
+                }
+            ]
+        },
+        {
+            "name": "Ready for the Weekend",
+            "url": "https://en.wikipedia.org/wiki/Ready_for_the_Weekend_(album)",
+            "image": {
+                "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Calvin_Harris_-_Ready_for_the_Weekend_%28album%29.png/220px-Calvin_Harris_-_Ready_for_the_Weekend_%28album%29.png",
+                "width": 220,
+                "height": 220
+            },
+            "album_release": {
+                "date_published": "14 August 2009"
+            },
+            "tracks": [
+                {
+                    "name": "Blue",
+                    "duration": "3:41",
+                    "image": {}
+                },
+                {
+                    "name": "Flashback_(Calvin_Harris_song)",
+                    "duration": "3:49",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Calvin_Harris-Flashback-Single.jpg/220px-Calvin_Harris-Flashback-Single.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "You_Used_to_Hold_Me_(Calvin_Harris_song)",
+                    "duration": "3:51",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Youusedtoholdme.jpg/220px-Youusedtoholdme.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "I'm_Not_Alone",
+                    "duration": "3:31",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Calvin_Harris_-_I%27m_Not_Alone_2019.png/220px-Calvin_Harris_-_I%27m_Not_Alone_2019.png",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Izza_Kizza",
+                    "duration": "3:46",
+                    "image": {}
+                },
+                {
+                    "name": "Yeah Yeah Yeah La La La",
+                    "duration": "3:17",
+                    "image": {}
+                },
+                {
+                    "name": "5iliconeator",
+                    "duration": "3:29",
+                    "image": {}
+                },
+                {
+                    "name": "Ready_for_the_Weekend_(song)",
+                    "duration": "3:37",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Calvin_readyfortheweekend%28single%29.jpg/220px-Calvin_readyfortheweekend%28single%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Stars Come Out",
+                    "duration": "4:28",
+                    "image": {}
+                },
+                {
+                    "name": "Relax",
+                    "duration": "3:49",
+                    "image": {}
+                },
+                {
+                    "name": "Burns Night",
+                    "duration": "2:20",
+                    "image": {}
+                },
+                {
+                    "name": "The Rain",
+                    "duration": "4:36",
+                    "image": {}
+                },
+                {
+                    "name": "Limits",
+                    "duration": "3:42",
+                    "image": {}
+                },
+                {
+                    "name": "Dance_wiv_Me",
+                    "duration": "4:24",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dizzee_Rascal_Featuring_Calvin_Harris_%26_Chrome_-_Dance_Wiv_Me.jpg/220px-Dizzee_Rascal_Featuring_Calvin_Harris_%26_Chrome_-_Dance_Wiv_Me.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Greatest Fear",
+                    "duration": "6:20",
+                    "image": {}
+                },
+                {
+                    "name": "Deadmau5",
+                    "duration": "8:15",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Deadmau5_d_%28cropped%29.jpg/220px-Deadmau5_d_%28cropped%29.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Theo_Keating",
+                    "duration": "5:40",
+                    "image": {}
+                },
+                {
+                    "name": "High_Contrast",
+                    "duration": "5:42",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/High_Contrast_AKA_Lincoln_Barrett.JPG/220px-High_Contrast_AKA_Lincoln_Barrett.JPG",
+                        "width": 220,
+                        "height": 220
+                    }
+                },
+                {
+                    "name": "Ready for the Weekend (Fake Blood Remix)",
+                    "duration": "5:40",
+                    "image": {}
+                },
+                {
+                    "name": "Tiësto",
+                    "duration": "6:41",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png",
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                {
+                    "name": "Taku_Takahashi",
+                    "duration": "5:50",
+                    "image": {
+                        "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/M-flo-takutakahashi-live-tokyorainbowpride-2019-4-28.jpg/220px-M-flo-takutakahashi-live-tokyorainbowpride-2019-4-28.jpg",
+                        "width": 220,
+                        "height": 220
+                    }
+                }
+            ]
+        }
+    ]
+}
