@@ -1,7 +1,7 @@
-if [ "$1" ]; then
+if [ -z "$1" ]; then
   echo 'need to provide a return branch name'
   exit 1
-else
+fi
 
 git checkout --orphan gh-pages
 
