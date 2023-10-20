@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { NCard, NButton, NImage, NTag, NIcon, NSpin, NGrid, NGi, NDivider, NTooltip } from 'naive-ui'
+import { NCard, NButton, NImage, NTag, NIcon, NSpin, NGrid, NGi, NDivider, NTooltip, NModal } from 'naive-ui'
 import { Link48Regular, MusicNote2Play20Filled, ChevronDown12Regular, ChevronUp12Regular, Open16Filled } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
-import { type Thing, type ISOCK } from '@/libraries/sock';
+import { type Thing, type ISOCK, type MusicAlbum } from '@/libraries/sock';
 
 const props = defineProps({
   name: {
@@ -14,6 +14,8 @@ const props = defineProps({
 const loading = ref(false)
 const tracksCollapsed = ref(true)
 const structuredContent = ref(null as null | StructuredContent)
+const albumModalOpen = ref(false)
+const modalAlbum = ref(null as null | MusicAlbum)
 const thing = ref(null as null | Thing)
 const wme = inject('wme') as IWME
 const sock = inject('sock') as ISOCK
@@ -130,6 +132,22 @@ const albums = computed(() => {
   const names = albums.map((album) => album?.name ? album?.name.toLowerCase() : '')
   return albums.filter((album, index) => !names.includes(album?.name ? album?.name?.toLowerCase() : '', index + 1))
 })
+const modalTracks = computed(() => {
+  const tracks = modalAlbum.value?.tracks?.filter(track => track?.duration).
+    filter(track => !track?.name.toLowerCase().includes('html element'))
+  
+    if (!tracks) return []
+  
+  const names = tracks.map((track) => track?.name ? track?.name.toLowerCase() : '')
+  return tracks.
+    filter((track, index) => !names.includes(track?.name ? track?.name?.toLowerCase() : '', index + 1)).
+    map((track) => {
+      return {
+        ...track,
+        name: track?.name ? track?.name.replace(/_/g, ' ') : ''
+      }
+    })
+})
 const tracks = computed(() => {
   if (!thing.value?.albums) return null
 
@@ -235,12 +253,14 @@ const tracksHeigh = computed(() => {
         <n-gi v-for="album in albums" :key="album.name">
           <n-card :bordered="false" class="wpe-app-knowledge-panel-album-card">
             <template #header>
-              <n-tooltip>
-                <template #trigger>
+              <div class="wpe-app-knowledge-panel-album-title" @click="() => {if (album.tracks) {modalAlbum = album; albumModalOpen = true}}">
+                <n-tooltip>
+                  <template #trigger>
+                    {{ album.name }}
+                  </template>
                   {{ album.name }}
-                </template>
-                {{ album.name }}
-              </n-tooltip>
+                </n-tooltip>
+              </div>
             </template>
             <template v-if="album.image" #cover>
               <n-image :preview-disabled="true" :src="album.image?.content_url" object-fit="cover" />
@@ -261,6 +281,34 @@ const tracksHeigh = computed(() => {
         </n-tag>
       </template>
     </n-card>
+    <n-modal v-model:show="albumModalOpen" :mask-closable="true" :close-on-esc="true" >
+      <n-card :title="modalAlbum?.name" class="wme-app-knowledge-panel-album-modal">
+        <p>{{ modalAlbum?.album_release?.date_published }}</p>
+        <n-grid :cols="2" :x-gap="10">
+            <n-gi v-for="track in modalTracks" :key="track?.name">
+              <div class="wme-app-knowledge-panel-track">
+                <div class="wme-app-knowledge-panel-track-content">
+                  <n-image v-if="track?.image && track?.image?.content_url" class="wme-app-knowledge-panel-track-image" :width="80" :height="80" :preview-disabled="true" :src="track?.image?.content_url" object-fit="cover" />
+                  <div v-if="!track?.image || !track?.image?.content_url" class="wme-app-knowledge-panel-track-song-image-placeholder" >
+                    <n-icon class="wme-app-knowledge-panel-track-song-icon" :component="MusicNote2Play20Filled" size="40" />
+                  </div>
+                  <div class="wme-app-knowledge-panel-track-description">
+                    <p>
+                      <n-tooltip>
+                        <template #trigger>
+                          {{ track?.name }}
+                        </template>
+                        {{ track?.name }}
+                      </n-tooltip>
+                    </p>
+                    <p>{{ track?.duration }}</p>
+                  </div>
+                </div>
+              </div>
+            </n-gi>
+          </n-grid>
+      </n-card>
+    </n-modal>
   </div>
 </template>
 
@@ -416,5 +464,17 @@ const tracksHeigh = computed(() => {
 .wpe-app-knowledge-panel-album-card-link-icon {
   background-color: rgb(16, 16, 20);
   border-radius: 4px;
+}
+
+.wpe-app-knowledge-panel-album-title {
+  cursor: pointer;
+}
+
+.wme-app-knowledge-panel-album-modal {
+  max-width: 500px;
+}
+
+.wme-app-knowledge-panel-album-modal .n-card-header {
+  padding-bottom: 0;
 }
 </style>
