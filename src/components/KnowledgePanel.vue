@@ -59,7 +59,10 @@ function getFacts() {
   return sections
 }
 const facts = computed(() => {
-  return getFacts().filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
+  return getFacts().
+  filter(part => part.type == 'field' && part.name && part.value).
+  filter(part => !part.name?.toLowerCase().includes('discography')).
+  slice(0, 5)
 })
 const abstractSize = 395
 const abstract = computed(() => {
@@ -70,7 +73,9 @@ const abstract = computed(() => {
 })
 const [entityTypeDefault, entityTypeSinger] = [0, 1]
 const entityType = computed(() => {
-  const isSinger = !!thing.value?.has_occupation?.find((occupation) => occupation.name.toLowerCase().includes('singer'))
+  let isSinger = !!thing.value?.has_occupation?.
+    find((occupation) => occupation.name.toLowerCase().includes('singer') || occupation.name.toLowerCase().includes('musician'))
+  
 
   if (isSinger) {
     return entityTypeSinger
@@ -133,7 +138,8 @@ const tracks = computed(() => {
       return {...track, in_album: album}
     })).
     flat().
-    filter(track => track?.duration)
+    filter(track => track?.duration).
+    filter(track => !track?.name.toLowerCase().includes('html element'))
   const names = tracks.map((track) => track?.name ? track?.name.toLowerCase() : '')
   return tracks.
     filter((track, index) => !names.includes(track?.name ? track?.name?.toLowerCase() : '', index + 1)).
@@ -241,7 +247,7 @@ const tracksHeigh = computed(() => {
             </template>
             {{ album?.album_release?.date_published ? album?.album_release?.date_published : 'n/a' }}
             <a target="_blank" :href="album.url" class="wpe-app-knowledge-panel-album-card-link">
-              <n-icon :component="Open16Filled" :size="15"/>
+              <n-icon class="wpe-app-knowledge-panel-album-card-link-icon" :component="Open16Filled" :size="15"/>
             </a>
           </n-card>
         </n-gi>
@@ -403,7 +409,12 @@ const tracksHeigh = computed(() => {
 
 .wpe-app-knowledge-panel-album-card .wpe-app-knowledge-panel-album-card-link {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: -2px;
+  right: -2px;
+}
+
+.wpe-app-knowledge-panel-album-card-link-icon {
+  background-color: rgb(16, 16, 20);
+  border-radius: 4px;
 }
 </style>
