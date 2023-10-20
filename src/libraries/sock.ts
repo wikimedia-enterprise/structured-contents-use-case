@@ -5,6 +5,7 @@ export interface MusicRecording {
   url?: string
   duration?: string
   image?: Image
+  in_album?: MusicAlbum
 }
 
 export interface MusicRelease {

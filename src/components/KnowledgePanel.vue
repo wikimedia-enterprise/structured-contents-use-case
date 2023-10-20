@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { NCard, NButton, NImage, NTag, NIcon, NSpin, NGrid, NGi, NDivider, NTooltip } from 'naive-ui'
-import { Link48Regular, MusicNote2Play20Filled, ChevronDown12Regular, ChevronUp12Regular } from '@vicons/fluent'
+import { Link48Regular, MusicNote2Play20Filled, ChevronDown12Regular, ChevronUp12Regular, Open16Filled } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
-import { type StructuredContent, type IWME } from '@/libraries/wme'
+import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
 import { type Thing, type ISOCK } from '@/libraries/sock';
 
 const props = defineProps({
@@ -80,6 +80,15 @@ const entityType = computed(() => {
 })
 const singerFacts = computed(() => {
   const facts = getFacts()
+  const genres: Array<Part> = []
+
+  if (thing.value?.genres) {
+    genres.push({
+      name: 'Genres:',
+      type: 'field',
+      value: thing.value.genres.join(', ')
+    })
+  }
 
   return [
     ...facts.filter(part => part.name?.toLowerCase().includes('born')),
@@ -89,7 +98,8 @@ const singerFacts = computed(() => {
         value: part.type == 'list' ? part?.values?.join(', ') : part.value
       }
     }),
-    ...facts.filter(part => part.name?.toLowerCase().includes('partner'))
+    ...facts.filter(part => part.name?.toLowerCase().includes('partner')),
+    ...genres
   ]
 })
 const singerAwards = computed(() => {
@@ -101,7 +111,12 @@ const singerAwards = computed(() => {
 
   if (!award.links) return null
 
-  return award.links[0]
+  const list = thing.value?.awards?.slice(0, 3).join(', ')
+
+  return {
+    ...award.links[0],
+    list: list ? `${list}, ` : '',
+  }
 })
 const albums = computed(() => {
   if (!thing.value?.albums) return null
@@ -113,14 +128,20 @@ const albums = computed(() => {
 const tracks = computed(() => {
   if (!thing.value?.albums) return null
 
-  const tracks = thing.value.albums.map(album => album.tracks).flat().filter(track => track?.duration)
+  const tracks = thing.value.albums.
+    map(album => album.tracks?.map((track) => {
+      return {...track, in_album: album}
+    })).
+    flat().
+    filter(track => track?.duration)
   const names = tracks.map((track) => track?.name ? track?.name.toLowerCase() : '')
   return tracks.
     filter((track, index) => !names.includes(track?.name ? track?.name?.toLowerCase() : '', index + 1)).
     map((track) => {
       return {
         ...track,
-        name: track?.name ? track?.name.replace(/_/g, ' ') : ''
+        name: track?.name ? track?.name.replace(/_/g, ' ') : '',
+        date_published: track?.in_album?.album_release?.date_published?.match(/\d{4}/)?.[0] || '',
       }
     })
 })
@@ -160,7 +181,7 @@ const tracksHeigh = computed(() => {
         </p>
         <p v-if="singerAwards">
           <i class="wme-app-knowledge-panel-fact-name">Awards:</i>
-          <b class="wme-app-knowledge-panel-fact-value"><a :href="singerAwards.url" target="_blank">{{ singerAwards.text }}</a></b>
+          <b class="wme-app-knowledge-panel-fact-value">{{ singerAwards.list }}<a :href="singerAwards.url" target="_blank">{{ singerAwards.text }}</a></b>
         </p>
       </div>
       <div v-if="tracks" class="wme-app-knowledge-panel-track-wrapper">
@@ -184,6 +205,14 @@ const tracksHeigh = computed(() => {
                       </n-tooltip>
                     </p>
                     <p>{{ track?.duration }}</p>
+                    <p>
+                      <n-tooltip>
+                        <template #trigger>
+                          {{ track?.date_published }} · {{ track?.in_album?.name }}
+                        </template>
+                        {{ track?.date_published }} · {{ track?.in_album?.name }}
+                      </n-tooltip>
+                    </p>
                   </div>
                 </div>
                 <n-divider class="wme-app-knowledge-panel-track-divider"/>
@@ -211,6 +240,9 @@ const tracksHeigh = computed(() => {
               <n-image :preview-disabled="true" :src="album.image?.content_url" object-fit="cover" />
             </template>
             {{ album?.album_release?.date_published ? album?.album_release?.date_published : 'n/a' }}
+            <a target="_blank" :href="album.url" class="wpe-app-knowledge-panel-album-card-link">
+              <n-icon :component="Open16Filled" :size="15"/>
+            </a>
           </n-card>
         </n-gi>
       </n-grid>
@@ -363,5 +395,15 @@ const tracksHeigh = computed(() => {
   min-width: 135px; /* need a media query for smaller screens */
   max-height: 135px;
   min-height: 135px;
+}
+
+.wpe-app-knowledge-panel-album-card {
+  position: relative;
+}
+
+.wpe-app-knowledge-panel-album-card .wpe-app-knowledge-panel-album-card-link {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 </style>
