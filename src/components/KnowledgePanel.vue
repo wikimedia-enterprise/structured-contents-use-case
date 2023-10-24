@@ -130,7 +130,14 @@ const albums = computed(() => {
 
   const albums = thing.value.albums.filter(album => album?.image && album?.image?.content_url)
   const names = albums.map((album) => album?.name ? album?.name.toLowerCase() : '')
-  return albums.filter((album, index) => !names.includes(album?.name ? album?.name?.toLowerCase() : '', index + 1))
+  const result = albums.filter((album, index) => !names.includes(album?.name ? album?.name?.toLowerCase() : '', index + 1))
+  
+  result.sort((a, b) => {
+    if (!a?.album_release?.date_published || !b?.album_release?.date_published) return 0
+    return new Date(b.album_release.date_published).getTime() - new Date(a.album_release.date_published).getTime()
+  })
+
+  return result
 })
 const modalTracks = computed(() => {
   const tracks = modalAlbum.value?.tracks?.filter(track => track?.duration).
