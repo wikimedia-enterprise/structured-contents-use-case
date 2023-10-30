@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
-import { Link48Regular } from '@vicons/fluent'
+import { NCard, NImage, NSpin } from 'naive-ui'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
+import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
 
 const props = defineProps({
   name: {
@@ -63,16 +63,11 @@ const abstract = computed(() => {
       <template v-if="structuredContent.image" #cover>
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
-      <b><i>{{ structuredContent.description }}</i></b>
-      <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
+      <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
+      <p class="wme-app-knowledge-panel-abstract">{{ abstract }}</p>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
-        <n-tag round>
-          <a :href="structuredContent.url" target="_blank">Wikipedia</a>
-          <template #icon>
-            <n-icon :component="Link48Regular" />
-          </template>
-        </n-tag>
+        <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>
       </template>
     </n-card>
   </div>
