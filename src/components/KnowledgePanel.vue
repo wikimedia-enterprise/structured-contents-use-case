@@ -3,6 +3,7 @@ import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
 import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
+import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 
 const props = defineProps({
   name: {
@@ -64,10 +65,7 @@ const abstract = computed(() => {
       </template>
       <b><i>{{ structuredContent.description }}</i></b>
       <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
-      <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
-        <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
-        <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
-      </p>
+      <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
         <n-tag round>
           <a :href="structuredContent.url" target="_blank">Wikipedia</a>
@@ -90,10 +88,6 @@ const abstract = computed(() => {
   .wme-app-knowledge-panel {
     width: 340px;
   }
-}
-
-.wme-app-knowledge-panel-fact-name {
-  margin-right: 5px;
 }
 
 .wme-app-knowledge-panel-image {
