@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { NTag, NIcon } from 'naive-ui'
 import { Link48Regular } from '@vicons/fluent'
+
 defineProps({
   url: {
     type: String,
