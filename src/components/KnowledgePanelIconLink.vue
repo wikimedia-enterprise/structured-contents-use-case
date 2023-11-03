@@ -23,7 +23,7 @@ defineProps({
 </script>
 
 <template>
-  <div>
+  <div class="wme-app-knowledge-panel-icon-link">
     <n-tag round>
       <a :href="url" :target="target">{{ text }}</a>
       <template #icon>

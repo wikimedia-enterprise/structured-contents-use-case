@@ -4,6 +4,7 @@ import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
+import KnowledgePanelSectionSelector from './KnowledgePanelSectionSelector.vue'
 
 const props = defineProps({
   name: {
@@ -52,6 +53,15 @@ const abstract = computed(() => {
   return structuredContent.value?.abstract?.length > abstractSize ? 
     `${structuredContent.value?.abstract?.slice(0, abstractSize - 1)}...` : structuredContent.value?.abstract
 })
+const sections = computed(() => {
+  const articleSections = structuredContent.value?.article_sections
+
+  if (!articleSections) return []
+  
+  return [
+    ...articleSections
+  ]
+})
 </script>
 
 <template>
@@ -64,6 +74,7 @@ const abstract = computed(() => {
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
+      <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections"/>
       <p class="wme-app-knowledge-panel-abstract">{{ abstract }}</p>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>

@@ -20,6 +20,7 @@ export interface StructuredContent {
   url?: string
   image?: Image
   infobox?: InfoBox[]
+  article_sections?: Part[]
   abstract?: string
   description?: string
 }
@@ -33,7 +34,7 @@ export interface IWME {
 export class WME implements IWME {
   private _accessToken: string = ''
 
-  constructor(private _url: string = 'https://api.enterprise.wikimedia.com/v2') {}
+  constructor(private _url: string = 'https://api-dv.wikipediaenterprise.org/v2') {}
 
   get accessToken(): string {
     return this._accessToken
@@ -48,7 +49,7 @@ export class WME implements IWME {
       method: 'POST',
       body: JSON.stringify({
         limit: 1,
-        fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract']
+        fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract', 'article_sections']
       }),
       headers: {
         'Content-Type': 'application/json',
