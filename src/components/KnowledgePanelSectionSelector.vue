@@ -5,20 +5,22 @@ import { NCarousel, NCarouselItem, NTag } from 'naive-ui'
 import KnowledgePanelIconButton from '@/components/KnowledgePanelIconButton.vue';
 import { ref } from 'vue'
 
+const props = defineProps({
+  sections: {
+    type: Array<Part>,
+    default: []
+  }
+})
+const emit = defineEmits(['onSectionSelected'])
 const carousel = ref(NCarousel || null)
 const checked = ref([true])
 function onCheckedChange(value: boolean, index: number) {
   if (value) {
     checked.value = checked.value.map(() => false)
     checked.value[index] = true
+    emit('onSectionSelected', index, props.sections[index])
   }
 }
-defineProps({
-  sections: {
-    type: Array<Part>,
-    default: []
-  }
-})
 </script>
 
 <template>

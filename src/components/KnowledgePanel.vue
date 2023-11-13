@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { NCard, NImage, NSpin } from 'naive-ui'
 import { watch, ref, inject, computed } from 'vue'
-import { type StructuredContent, type IWME } from '@/libraries/wme'
+import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
 import KnowledgePanelSectionSelector from './KnowledgePanelSectionSelector.vue'
@@ -59,9 +59,34 @@ const sections = computed(() => {
   if (!articleSections) return []
   
   return [
-    ...articleSections
+    ...articleSections.filter(section => section?.has_parts?.some(part => part.type == 'paragraph')),
   ]
 })
+const sectionIndex = ref(0)
+const activeSection = ref<Part|null>(null)
+const extractPartsText = (parts: Array<Part>) => {
+  const text = parts.map(part => part.value).join(' ')
+
+  if (text.length > abstractSize) {
+    return `${text.slice(0, abstractSize - 1)}...`
+  }
+
+  return text;
+}
+const sectionText = computed(() => {
+  let parts = activeSection.value?.has_parts || []
+  const hasSubSections = activeSection.value?.has_parts?.some(part => part.type == 'section')
+
+  if (hasSubSections) {
+    parts = parts.map(part => part.has_parts || []).flat()
+  }
+
+  return extractPartsText(parts)
+})
+const onSectionSelected = (index: number, section: Part) => {
+  sectionIndex.value = index
+  activeSection.value = section
+}
 </script>
 
 <template>
@@ -74,8 +99,9 @@ const sections = computed(() => {
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
-      <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections"/>
-      <p class="wme-app-knowledge-panel-abstract">{{ abstract }}</p>
+      <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections" @on-section-selected="onSectionSelected"/>
+      <p v-if="sectionIndex == 0" class="wme-app-knowledge-panel-abstract">{{ abstract }}</p>
+      <p v-if="sectionIndex != 0" class="wme-app-knowledge-panel-abstract">{{ sectionText }}</p>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
         <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>
