@@ -46,7 +46,7 @@ const facts = computed(() => {
 
   return sections.filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
 })
-const abstractSize = 395
+const abstractSize = 380
 const abstract = computed(() => {
   if (!structuredContent.value?.abstract) return ''
 
@@ -100,8 +100,8 @@ const onSectionSelected = (index: number, section: Part) => {
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
       <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections" @on-section-selected="onSectionSelected"/>
-      <p v-if="sectionIndex == 0" class="wme-app-knowledge-panel-abstract">{{ abstract }}</p>
-      <p v-if="sectionIndex != 0" class="wme-app-knowledge-panel-abstract">{{ sectionText }}</p>
+      <p v-if="sectionIndex == 0" class="wme-app-knowledge-panel-abstract">{{ abstract }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#firstHeading`">{{ ' read more' }}</a></p>
+      <p v-if="sectionIndex != 0" class="wme-app-knowledge-panel-abstract">{{ sectionText }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#${activeSection?.name?.replace(/\s/g, '_')}`">{{ ' read more' }}</a></p>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
         <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>
@@ -147,5 +147,9 @@ const onSectionSelected = (index: number, section: Part) => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.wme-app-knowledge-panel-read-more {
+  color: white !important;
 }
 </style>

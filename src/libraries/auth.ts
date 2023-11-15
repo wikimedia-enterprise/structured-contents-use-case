@@ -25,7 +25,7 @@ export interface IAuth {
 }
 
 export class Auth implements IAuth {
-  constructor(private _url: string = 'https://auth-dv.wikipediaenterprise.org/v1') {}
+  constructor(private _url: string = 'https://auth.enterprise.wikimedia.com/v1') {}
 
   async login(req: LoginRequest): Promise<LoginResponse> {
     const res = await fetch(`${this._url}/login`, {

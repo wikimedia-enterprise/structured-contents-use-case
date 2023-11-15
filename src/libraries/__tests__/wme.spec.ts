@@ -25,7 +25,7 @@ const structuredContentsHandler = rest.post(
   async (req, res, ctx) => {
     expect(await req.json()).toEqual({
       limit: 1,
-      fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract']
+      fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract', 'article_sections']
     })
     return res(ctx.status(200), ctx.json(structuredContents))
   }
