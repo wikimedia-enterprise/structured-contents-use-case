@@ -64,24 +64,16 @@ const sections = computed(() => {
 })
 const sectionIndex = ref(0)
 const activeSection = ref<Part|null>(null)
-const extractPartsText = (parts: Array<Part>) => {
-  const text = parts.map(part => part.value).join(' ')
-
-  if (text.length > abstractSize) {
-    return `${text.slice(0, abstractSize - 1)}...`
-  }
-
-  return text;
-}
 const sectionText = computed(() => {
   let parts = activeSection.value?.has_parts || []
-  const hasSubSections = activeSection.value?.has_parts?.some(part => part.type == 'section')
+  const hasSubSections = parts.some(part => part.type == 'section')
 
   if (hasSubSections) {
     parts = parts.map(part => part.has_parts || []).flat()
   }
 
-  return extractPartsText(parts)
+  const text = parts.map(part => part.value).join(' ')
+  return text.length > abstractSize ? `${text.slice(0, abstractSize - 1)}...` : text;
 })
 const onSectionSelected = (index: number, section: Part) => {
   sectionIndex.value = index
