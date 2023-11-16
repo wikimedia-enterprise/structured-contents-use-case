@@ -73,7 +73,7 @@ const sectionText = computed(() => {
   }
 
   const text = parts.map(part => part.value).join(' ')
-  return text.length > abstractSize ? `${text.slice(0, abstractSize - 1)}...` : text;
+  return text.length > abstractSize ? `${text.slice(0, abstractSize - 1)}...` : text
 })
 const onSectionSelected = (index: number, section: Part) => {
   sectionIndex.value = index
