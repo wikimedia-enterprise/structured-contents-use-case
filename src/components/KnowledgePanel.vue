@@ -1,8 +1,10 @@
 <script setup lang="ts">
-import { NCard, NImage, NTag, NIcon, NSpin } from 'naive-ui'
-import { Link48Regular } from '@vicons/fluent'
+import { NCard, NImage, NSpin } from 'naive-ui'
 import { watch, ref, inject, computed } from 'vue'
-import { type StructuredContent, type IWME } from '@/libraries/wme'
+import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
+import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
+import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
+import KnowledgePanelSectionSelector from './KnowledgePanelSectionSelector.vue'
 
 const props = defineProps({
   name: {
@@ -44,13 +46,39 @@ const facts = computed(() => {
 
   return sections.filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
 })
-const abstractSize = 395
+const abstractSize = 380
 const abstract = computed(() => {
   if (!structuredContent.value?.abstract) return ''
 
   return structuredContent.value?.abstract?.length > abstractSize ? 
     `${structuredContent.value?.abstract?.slice(0, abstractSize - 1)}...` : structuredContent.value?.abstract
 })
+const sections = computed(() => {
+  const articleSections = structuredContent.value?.article_sections
+
+  if (!articleSections) return []
+  
+  return [
+    ...articleSections.filter(section => section?.has_parts?.some(part => part.type == 'paragraph')),
+  ]
+})
+const sectionIndex = ref(0)
+const activeSection = ref<Part|null>(null)
+const sectionText = computed(() => {
+  let parts = activeSection.value?.has_parts || []
+  const hasSubSections = parts.some(part => part.type == 'section')
+
+  if (hasSubSections) {
+    parts = parts.map(part => part.has_parts || []).flat()
+  }
+
+  const text = parts.map(part => part.value).join(' ')
+  return text.length > abstractSize ? `${text.slice(0, abstractSize - 1)}...` : text
+})
+const onSectionSelected = (index: number, section: Part) => {
+  sectionIndex.value = index
+  activeSection.value = section
+}
 </script>
 
 <template>
@@ -62,19 +90,13 @@ const abstract = computed(() => {
       <template v-if="structuredContent.image" #cover>
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
-      <b><i>{{ structuredContent.description }}</i></b>
-      <p class="wme-app-knowledge-panel-abstract" >{{ abstract }}</p>
-      <p v-for="fact in facts" class="wme-app-knowledge-panel-fact" v-bind:key="fact.name">
-        <i class="wme-app-knowledge-panel-fact-name">{{ fact.name?.endsWith(':') ? fact.name : `${fact.name}:` }}</i>
-        <b class="wme-app-knowledge-panel-fact-value">{{ fact.value }}</b>
-      </p>
+      <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
+      <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections" @on-section-selected="onSectionSelected"/>
+      <p v-if="sectionIndex == 0" class="wme-app-knowledge-panel-abstract">{{ abstract }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#firstHeading`">{{ ' read more' }}</a></p>
+      <p v-if="sectionIndex != 0" class="wme-app-knowledge-panel-abstract">{{ sectionText }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#${activeSection?.name?.replace(/\s/g, '_')}`">{{ ' read more' }}</a></p>
+      <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
-        <n-tag round>
-          <a :href="structuredContent.url" target="_blank">Wikipedia</a>
-          <template #icon>
-            <n-icon :component="Link48Regular" />
-          </template>
-        </n-tag>
+        <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>
       </template>
     </n-card>
   </div>
@@ -90,10 +112,6 @@ const abstract = computed(() => {
   .wme-app-knowledge-panel {
     width: 340px;
   }
-}
-
-.wme-app-knowledge-panel-fact-name {
-  margin-right: 5px;
 }
 
 .wme-app-knowledge-panel-image {
@@ -121,5 +139,9 @@ const abstract = computed(() => {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.wme-app-knowledge-panel-read-more {
+  color: white !important;
 }
 </style>
