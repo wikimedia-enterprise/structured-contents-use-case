@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { type Part } from '@/libraries/wme'
+import KnowledgePanelReadMore from './KnowledgePanelReadMore.vue'
 
 const props = defineProps({
   url: {
@@ -31,7 +32,7 @@ const sectionText = computed(() => {
 
 <template>
   <p class="wme-app-knowledge-panel-abstract">
-    {{ sectionText }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${url}#${section.name?.replace(/\s/g, '_')}`">{{ ' read more' }}</a>
+    {{ sectionText }} <knowledge-panel-read-more :url="`${url}#${section.name?.replace(/\s/g, '_')}`" />
   </p>
 </template>
 

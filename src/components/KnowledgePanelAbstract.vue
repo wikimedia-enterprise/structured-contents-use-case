@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import KnowledgePanelReadMore from './KnowledgePanelReadMore.vue'
 
 const props = defineProps({
   abstract: {
@@ -23,7 +24,7 @@ const abstractText = computed(() => {
 
 <template>
   <p class="wme-app-knowledge-panel-abstract">
-    {{ abstractText }} <a v-if="url && abstract.length > abstractSize" target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${url}#firstHeading`">{{ ' read more' }}</a>
+    {{ abstractText }} <knowledge-panel-read-more v-if="url && abstract.length > abstractSize" :url="`${url}#firstHeading`" />
   </p>
 </template>
 

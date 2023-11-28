@@ -126,8 +126,4 @@ const onSectionSelected = (index: number, section: Part) => {
   align-items: center;
   justify-content: center;
 }
-
-.wme-app-knowledge-panel-read-more {
-  color: white !important;
-}
 </style>
