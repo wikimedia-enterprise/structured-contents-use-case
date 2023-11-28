@@ -5,6 +5,8 @@ import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
 import KnowledgePanelSectionSelector from './KnowledgePanelSectionSelector.vue'
+import KnowledgePanelAbstract from './KnowledgePanelAbstract.vue'
+import KnowledgePanelSection from './KnowledgePanelSection.vue'
 
 const props = defineProps({
   name: {
@@ -46,35 +48,19 @@ const facts = computed(() => {
 
   return sections.filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
 })
-const abstractSize = 380
-const abstract = computed(() => {
-  if (!structuredContent.value?.abstract) return ''
-
-  return structuredContent.value?.abstract?.length > abstractSize ? 
-    `${structuredContent.value?.abstract?.slice(0, abstractSize - 1)}...` : structuredContent.value?.abstract
-})
+const sectionsFilter = (part: Part) => part?.has_parts?.some(part => part.type == 'paragraph')
 const sections = computed(() => {
   const articleSections = structuredContent.value?.article_sections
 
   if (!articleSections) return []
-  
+
   return [
-    ...articleSections.filter(section => section?.has_parts?.some(part => part.type == 'paragraph')),
+    ...articleSections.filter((part) => sectionsFilter(part) || part.has_parts?.some(sectionsFilter)),
   ]
 })
 const sectionIndex = ref(0)
 const activeSection = ref<Part|null>(null)
-const sectionText = computed(() => {
-  let parts = activeSection.value?.has_parts || []
-  const hasSubSections = parts.some(part => part.type == 'section')
-
-  if (hasSubSections) {
-    parts = parts.map(part => part.has_parts || []).flat()
-  }
-
-  const text = parts.map(part => part.value).join(' ')
-  return text.length > abstractSize ? `${text.slice(0, abstractSize - 1)}...` : text
-})
+const defaultSectionTextSize = 380
 const onSectionSelected = (index: number, section: Part) => {
   sectionIndex.value = index
   activeSection.value = section
@@ -91,9 +77,9 @@ const onSectionSelected = (index: number, section: Part) => {
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
-      <knowledge-panel-section-selector v-if="structuredContent?.article_sections" :sections="sections" @on-section-selected="onSectionSelected"/>
-      <p v-if="sectionIndex == 0" class="wme-app-knowledge-panel-abstract">{{ abstract }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#firstHeading`">{{ ' read more' }}</a></p>
-      <p v-if="sectionIndex != 0" class="wme-app-knowledge-panel-abstract">{{ sectionText }} <a target="_blank" class="wme-app-knowledge-panel-read-more" :href="`${structuredContent.url}#${activeSection?.name?.replace(/\s/g, '_')}`">{{ ' read more' }}</a></p>
+      <knowledge-panel-section-selector v-if="structuredContent?.article_sections && structuredContent?.article_sections.length > 1" :sections="sections" @on-section-selected="onSectionSelected"/>
+      <knowledge-panel-abstract v-if="sectionIndex == 0 && structuredContent.abstract" :abstract="structuredContent.abstract" :url="structuredContent.url || ''" :abstract-size="defaultSectionTextSize"/>
+      <knowledge-panel-section v-if="sectionIndex != 0 && activeSection" :section="activeSection" :url="structuredContent.url || ''" :section-size="defaultSectionTextSize"/>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
         <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>
