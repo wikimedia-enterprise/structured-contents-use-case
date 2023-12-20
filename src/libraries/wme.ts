@@ -1,3 +1,7 @@
+export const PartTypeSection = 'section'
+
+export const PartTypeParagraph = 'paragraph'
+
 export interface Image {
   content_url: string
 }
@@ -34,7 +38,7 @@ export interface IWME {
 export class WME implements IWME {
   private _accessToken: string = ''
 
-  constructor(private _url: string = 'https://api-dv.wikipediaenterprise.org/v2') {}
+  constructor(private _url: string = 'https://api.enterprise.wikimedia.com/v2') {}
 
   get accessToken(): string {
     return this._accessToken

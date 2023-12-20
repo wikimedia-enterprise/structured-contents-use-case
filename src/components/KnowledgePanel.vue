@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { NCard, NImage, NSpin } from 'naive-ui'
 import { watch, ref, inject, computed } from 'vue'
-import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
+import { type StructuredContent, type IWME, type Part, PartTypeParagraph } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
 import KnowledgePanelSectionSelector from '@/components/KnowledgePanelSectionSelector.vue'
@@ -50,7 +50,7 @@ const facts = computed(() => {
 
   return sections.filter(part => part.type == 'field' && part.name && part.value).slice(0, 5)
 })
-const sectionsFilter = (part: Part) => part?.has_parts?.some(part => part.type == 'paragraph')
+const sectionsFilter = (part: Part) => part?.has_parts?.some(part => part.type == PartTypeParagraph)
 const sections = computed(() => {
   const articleSections = structuredContent.value?.article_sections
 

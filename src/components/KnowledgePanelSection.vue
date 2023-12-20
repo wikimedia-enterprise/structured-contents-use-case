@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { type Part } from '@/libraries/wme'
 import KnowledgePanelReadMore from '@/components/KnowledgePanelReadMore.vue'
+import { PartTypeSection, PartTypeParagraph } from '@/libraries/wme'
 
 const props = defineProps({
   url: {
@@ -22,15 +23,15 @@ const props = defineProps({
   }
 })
 function hasParagraphs(part: Part) {
-  return part?.has_parts?.some(part => part.type == 'paragraph')
+  return part?.has_parts?.some(part => part.type == PartTypeParagraph)
 }
 const isNestedSection = computed(() =>  (props.section as Part)?.has_parts?.some((part: Part) => hasParagraphs(part)))
-const nestedSections = computed(() => props.section?.has_parts?.filter((part: Part) => part.type == 'section'))
+const nestedSections = computed(() => props.section?.has_parts?.filter((part: Part) => part.type == PartTypeSection))
 const sectionTextSize = computed(() => isNestedSection.value ? props.nestedSectionTextSize : props.sectionTextSize)
 const sectionText = computed(() => {
   let parts = props.section?.has_parts || []
 
-  if (isNestedSection.value) {
+  if (isNestedSection.value && !parts.find((part: Part) => part.type == PartTypeParagraph)) {
     parts = parts.map((part: Part) => part.has_parts || []).flat()
   }
 
