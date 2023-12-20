@@ -4,9 +4,9 @@ import { watch, ref, inject, computed } from 'vue'
 import { type StructuredContent, type IWME, type Part } from '@/libraries/wme'
 import KnowledgePanelFact from '@/components/KnowledgePanelFact.vue'
 import KnowledgePanelIconLink from '@/components/KnowledgePanelIconLink.vue'
-import KnowledgePanelSectionSelector from './KnowledgePanelSectionSelector.vue'
-import KnowledgePanelAbstract from './KnowledgePanelAbstract.vue'
-import KnowledgePanelSection from './KnowledgePanelSection.vue'
+import KnowledgePanelSectionSelector from '@/components/KnowledgePanelSectionSelector.vue'
+import KnowledgePanelAbstract from '@/components/KnowledgePanelAbstract.vue'
+import KnowledgePanelSection from '@/components/KnowledgePanelSection.vue'
 
 const props = defineProps({
   name: {

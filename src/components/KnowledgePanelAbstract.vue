@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import KnowledgePanelReadMore from './KnowledgePanelReadMore.vue'
+import KnowledgePanelReadMore from '@/components/KnowledgePanelReadMore.vue'
 
 const props = defineProps({
   abstract: {

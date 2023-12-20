@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { type Part } from '@/libraries/wme'
-import KnowledgePanelReadMore from './KnowledgePanelReadMore.vue'
+import KnowledgePanelReadMore from '@/components/KnowledgePanelReadMore.vue'
 
 const props = defineProps({
   url: {
