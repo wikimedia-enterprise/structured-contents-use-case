@@ -20,6 +20,8 @@ const wme = inject('wme') as IWME
 watch(() => props.name, async (value) => {
   loading.value = true
   wme.accessToken = localStorage.getItem('access_token') || ''
+  structuredContent.value = null
+  sectionIndex.value = 0
 
   try {
     const structuredContents = await wme.getStructuredContents(value)
@@ -78,8 +80,8 @@ const onSectionSelected = (index: number, section: Part) => {
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
       <knowledge-panel-section-selector v-if="structuredContent?.article_sections && structuredContent?.article_sections.length > 1" :sections="sections" @on-section-selected="onSectionSelected"/>
-      <knowledge-panel-abstract v-if="sectionIndex == 0 && structuredContent.abstract" :abstract="structuredContent.abstract" :url="structuredContent.url || ''" :abstract-size="defaultSectionTextSize"/>
-      <knowledge-panel-section v-if="sectionIndex != 0 && activeSection" :section="activeSection" :url="structuredContent.url || ''" :section-size="defaultSectionTextSize"/>
+      <knowledge-panel-abstract v-if="sectionIndex == 0 && structuredContent.abstract" :abstract="structuredContent.abstract" :url="structuredContent.url || ''" :abstract-text-size="defaultSectionTextSize"/>
+      <knowledge-panel-section v-if="sectionIndex != 0 && activeSection" :section="activeSection" :url="structuredContent.url || ''" :section-text-size="defaultSectionTextSize"/>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />
       <template #footer>
         <knowledge-panel-icon-link :url="structuredContent.url || ''" text="Wikipedia"/>

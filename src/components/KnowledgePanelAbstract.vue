@@ -11,20 +11,20 @@ const props = defineProps({
     type: String,
     required: true
   },
-  abstractSize: {
+  abstractTextSize: {
     type: Number,
     required: true
   }
 })
 const abstractText = computed(() => {
-  return props.abstract.length > props.abstractSize ? 
-    `${props.abstract.slice(0, props.abstractSize - 1)}...` : props.abstract
+  return props.abstract.length > props.abstractTextSize ? 
+    `${props.abstract.slice(0, props.abstractTextSize - 1)}...` : props.abstract
 })
 </script>
 
 <template>
   <p class="wme-app-knowledge-panel-abstract">
-    {{ abstractText }} <knowledge-panel-read-more v-if="url && abstract.length > abstractSize" :url="`${url}#firstHeading`" />
+    {{ abstractText }} <knowledge-panel-read-more v-if="url && abstract.length > abstractTextSize" :url="`${url}#firstHeading`" />
   </p>
 </template>
 
