@@ -65,6 +65,7 @@ describe('knowledge panel section smoke testing', async () => {
     })
 
     const html = wrapper.html()
+    expect(html).toContain(url)
     section.has_parts.forEach((part) => {
       if (part.type === PartTypeSection) expect(html).toContain(part.name)
     })
