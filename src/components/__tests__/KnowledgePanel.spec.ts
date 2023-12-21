@@ -53,7 +53,7 @@ describe('knowledge panel smoke testing', async () => {
   })
   localStorage.setItem('access_token', structuredContentAccessToken)
 
-  test('smoke test for auth modal', async () => {
+  test('test that knowledge panel can render', async () => {
     const wrapper = mount(KnowledgePanelWrapper)
     await wrapper.setProps({ name: structuredContentName })
     await flushPromises()

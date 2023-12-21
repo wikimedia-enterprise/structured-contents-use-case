@@ -1,3 +1,7 @@
+export const PartTypeSection = 'section'
+
+export const PartTypeParagraph = 'paragraph'
+
 export interface Image {
   content_url: string
 }
