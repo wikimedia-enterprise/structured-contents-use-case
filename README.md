@@ -1,6 +1,6 @@
 # WME Structured Contents Endpoint Demo
 
-This is an example on how you would fill in the "knowledge panel" using Wikimedia Enterprise APIs.
+This is an example on how you would fill in the "knowledge panel" using [Wikimedia Enterprise APIs](https://enterprise.wikimedia.com/products/).
 
 ## Recommended IDE Setup
 
