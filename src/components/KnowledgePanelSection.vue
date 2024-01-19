@@ -22,7 +22,7 @@ const props = defineProps({
 const hasParagraphs = (part: Part) => part?.has_parts?.some(part => part.type == PartTypeParagraph)
 const isNestedSection = computed(() => (props.section as Part)?.has_parts?.some((part: Part) => hasParagraphs(part)))
 const nestedSections = computed(() => props.section?.has_parts?.filter((part: Part) => part.type == PartTypeSection))
-const expandedNames = computed(() => isNestedSection.value && !hasParagraphs(props.section as Part) ? [ nestedSections.value[0]?.name ] : [])
+const expandedNames = computed(() => isNestedSection.value && !hasParagraphs(props.section as Part) ? [nestedSections.value[0]?.name] : [])
 </script>
 
 <template>
