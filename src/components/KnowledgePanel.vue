@@ -38,9 +38,9 @@ watch(() => props.name, async (value) => {
   loading.value = false
 })
 const facts = computed(() => {
-  if (!structuredContent.value?.infobox) return []
+  if (!structuredContent.value?.infoboxes) return []
 
-  const infoBox = structuredContent.value.infobox[0]
+  const infoBox = structuredContent.value.infoboxes[0]
 
   if (!infoBox.has_parts) return []
 
@@ -52,7 +52,7 @@ const facts = computed(() => {
 })
 const sectionsFilter = (part: Part) => part?.has_parts?.some(part => part.type == PartTypeParagraph)
 const sections = computed(() => {
-  const articleSections = structuredContent.value?.article_sections
+  const articleSections = structuredContent.value?.sections
 
   if (!articleSections) return []
 
@@ -79,7 +79,7 @@ const onSectionSelected = (index: number, section: Part) => {
         <n-image :src="structuredContent.image.content_url" object-fit="cover" class="wme-app-knowledge-panel-image"/>
       </template>
       <b class="wme-app-knowledge-panel-short-description"><i>{{ structuredContent.description }}</i></b>
-      <knowledge-panel-section-selector v-if="structuredContent?.article_sections && structuredContent?.article_sections.length > 1" :sections="sections" @on-section-selected="onSectionSelected"/>
+      <knowledge-panel-section-selector v-if="structuredContent?.sections && structuredContent?.sections.length > 1" :sections="sections" @on-section-selected="onSectionSelected"/>
       <knowledge-panel-abstract v-if="sectionIndex == 0 && structuredContent.abstract" :abstract="structuredContent.abstract" :url="structuredContent.url || ''" :abstract-text-size="defaultSectionTextSize"/>
       <knowledge-panel-section v-if="sectionIndex != 0 && activeSection" :section="activeSection" :url="structuredContent.url || ''" :section-text-size="defaultSectionTextSize"/>
       <knowledge-panel-fact v-for="fact in facts" v-bind:key="fact.name" :name="fact.name || ''" :value="fact.value || ''" />

@@ -23,8 +23,8 @@ export interface StructuredContent {
   name?: string
   url?: string
   image?: Image
-  infobox?: InfoBox[]
-  article_sections?: Part[]
+  infoboxes?: InfoBox[]
+  sections?: Part[]
   abstract?: string
   description?: string
 }
@@ -53,7 +53,7 @@ export class WME implements IWME {
       method: 'POST',
       body: JSON.stringify({
         limit: 1,
-        fields: ['name', 'url', 'image', 'infobox', 'description', 'abstract', 'article_sections']
+        fields: ['name', 'url', 'image', 'infoboxes', 'description', 'abstract', 'sections']
       }),
       headers: {
         'Content-Type': 'application/json',
