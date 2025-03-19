@@ -34,9 +34,6 @@ describe('wmf library smoke testing', async () => {
   const wmf = new WMF(url)
 
   test('test getSuggestions method', async () => {
-    // This is required in Node.
-    global.URLSearchParams = require('url').URLSearchParams
-
     const res = await wmf.getSuggestions(query)
     expect(res).toEqual(suggestions)
   })
