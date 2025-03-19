@@ -45,9 +45,6 @@ describe('wme library smoke testing', async () => {
   })
 
   test('test getStructuredContents method', async () => {
-    // This is required in Node.
-    global.URLSearchParams = require('url').URLSearchParams
-
     const res = await wme.getStructuredContents(name)
     expect(res).toEqual(structuredContents)
   })
